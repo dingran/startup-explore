@@ -1,0 +1,1 @@
+WakeMate is an electronic device that records users' sleep data and sounds within the 20-minute window prior to the set alarm time.

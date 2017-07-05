@@ -1,0 +1,1 @@
+Metwit is a crowdsourced platform for the collection and analysis of weather and environmental data.

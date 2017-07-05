@@ -1,0 +1,1 @@
+Astrid provides task management services allowing its users to view their tasks categorized according to the Eisenhower method.

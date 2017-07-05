@@ -1,0 +1,1 @@
+CircleCI provides software teams the confidence to build, test, and deploy across numerous platforms.

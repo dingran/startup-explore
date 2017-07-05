@@ -1,0 +1,1 @@
+HIver is software facilitating email collaboration by allowing users to share email labels and collaborate from their inbox.

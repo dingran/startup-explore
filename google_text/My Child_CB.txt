@@ -1,0 +1,1 @@
+MyChild is a parent engagement system and application for childcare centers and preschools.

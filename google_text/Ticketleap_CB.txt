@@ -1,0 +1,1 @@
+TicketLeap is an online ticketing platform enabling event organizers to sell, market and manage their events in one place.

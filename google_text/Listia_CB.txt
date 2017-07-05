@@ -1,0 +1,1 @@
+Listia is an auction marketplace that uses a virtual credit system for bidding and trading goods.

@@ -1,0 +1,1 @@
+PokitDok is a cloud-based API platform designed to make healthcare transactions more efficient and streamline the business of health.

@@ -1,0 +1,1 @@
+Mist.io provides a unified interface that allows to manage virtual machines hosted in different popular public and private clouds.

@@ -1,0 +1,1 @@
+LookSharp (powering InternMatch) is an online platform that connects students with amazing companies and helps companies hire amazing students.

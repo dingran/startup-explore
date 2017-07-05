@@ -1,0 +1,1 @@
+ParAccel is an integration technology-based data analysis platform for businesses to gather information from big data.

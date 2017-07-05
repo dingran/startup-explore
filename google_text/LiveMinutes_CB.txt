@@ -1,0 +1,1 @@
+LiveMinutes is a real-time collaboration platform enabling users to work with teams on notes, designs and slideshows.

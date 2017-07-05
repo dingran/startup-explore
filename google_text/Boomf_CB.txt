@@ -1,0 +1,1 @@
+Our initial product, Boomf is a quite simply a better way to send a sentiment.

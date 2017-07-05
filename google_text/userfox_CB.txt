@@ -1,0 +1,1 @@
+userfox is a SaaS product that helps companies improve user retention through welcome, inactivity and custom trigger based emails. We're building a company.

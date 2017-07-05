@@ -1,0 +1,1 @@
+DailyCred provides a platform for monitoring events, registration and user creation, deletion, and management.

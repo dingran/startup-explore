@@ -1,0 +1,1 @@
+laZook operates a distributed commerce platform made up of existing marketplaces, e-commerce stores, and blogs.

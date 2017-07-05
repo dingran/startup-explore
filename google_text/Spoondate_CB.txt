@@ -1,0 +1,1 @@
+Spoondate is an online platform enabling individuals to meet someone over a meal using a preemptive location-aware check-in.

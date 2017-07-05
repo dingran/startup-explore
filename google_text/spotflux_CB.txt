@@ -1,0 +1,1 @@
+Spotflux encrypts internet traffic and performs cloud-based, real-time calculations to remove tracking cookies and viruses.

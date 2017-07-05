@@ -1,0 +1,1 @@
+Cobalt is the new way of doing application security. Cobalt leverages a global intelligent community of security researchers.

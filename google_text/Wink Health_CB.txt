@@ -1,0 +1,1 @@
+Wink Health app analyzes snoring and highlights events such as peaks in loudness, pauses, chokes, and gasps.

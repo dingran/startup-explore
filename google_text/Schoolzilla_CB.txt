@@ -1,0 +1,1 @@
+Schoolzilla provides a hosted service that connects, cleans and visualizes all of a school's data sources.

@@ -1,0 +1,1 @@
+EchoEcho is a mobile software company that offers an open API, cross-platform, carrier agnostic location sharing system.

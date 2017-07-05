@@ -1,0 +1,1 @@
+OpenAppMkt is an app store alternative for discovering and installing mobile apps.

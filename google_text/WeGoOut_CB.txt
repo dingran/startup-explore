@@ -1,0 +1,1 @@
+WeGoOut is a social application that enables users to find nearby parties, events, and places.

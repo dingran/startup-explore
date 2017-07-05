@@ -1,0 +1,1 @@
+Numerai transforms and regularizes financial data into machine learning problems for global network of data scientists.

@@ -1,0 +1,1 @@
+Matador App is an app that allows you to track other traders in the market.

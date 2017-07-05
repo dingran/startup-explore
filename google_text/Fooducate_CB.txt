@@ -1,0 +1,1 @@
+Fooducate allows users to see a food product's nutrition grade through a barcode scanning app, enabling them to make healthier choices.

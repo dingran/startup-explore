@@ -1,0 +1,1 @@
+GreenGar lets users connect mobile devices via a real-time collaborative whiteboard app.

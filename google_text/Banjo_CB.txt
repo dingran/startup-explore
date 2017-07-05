@@ -1,0 +1,1 @@
+Banjo provides real time content discovery by location across multiple social networks.

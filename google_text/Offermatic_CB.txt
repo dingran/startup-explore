@@ -1,0 +1,1 @@
+Offermatic is a free service that delivers offers to users based on their credit or debit card purchase history.

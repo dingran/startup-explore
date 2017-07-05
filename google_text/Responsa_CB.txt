@@ -1,0 +1,1 @@
+Responsa is a question and answer widget that integrates with websites, blogs, and Facebook fan pages.

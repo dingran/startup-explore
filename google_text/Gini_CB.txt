@@ -1,0 +1,1 @@
+Gini provides a SaaS solution for extracting content from documents.

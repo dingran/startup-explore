@@ -1,0 +1,1 @@
+ScaleArc is the leading provider of database load balancing software that provides continuous availability for all applications.

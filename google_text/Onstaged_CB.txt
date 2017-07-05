@@ -1,0 +1,1 @@
+Onstaged is an app that shows users content first, not who shared the content.

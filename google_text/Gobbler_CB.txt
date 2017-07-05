@@ -1,0 +1,1 @@
+Gobbler is a backup, transfer, and organizational tool for managing users' media project files and assets.

@@ -1,0 +1,1 @@
+Infochimps is a cloud service that streamlines building and managing complex big data environments, and distills analytics.

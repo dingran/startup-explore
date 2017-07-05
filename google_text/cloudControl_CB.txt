@@ -1,0 +1,1 @@
+cloudControl offers a platform that facilitates supercharge development and the autoscaling of infrastructure on cloud applications.

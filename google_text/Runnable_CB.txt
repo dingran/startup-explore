@@ -1,0 +1,1 @@
+Runnable builds, tests and runs full-stack environments for every branch to give developers feedback earlier in the development process.

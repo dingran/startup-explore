@@ -1,0 +1,1 @@
+Estimize is an open financial estimates platform which facilitates the aggregation of fundamental estimates from independent analysts.

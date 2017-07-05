@@ -1,0 +1,1 @@
+MoBagel uses predictive AI to help IoT enterprises forecast demands, predict maintenance, and send out automatic campaigns.

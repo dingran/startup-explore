@@ -1,0 +1,1 @@
+Instead is a micro-donation application that allows its users to purchase less and give the remaining proceeds to charity.

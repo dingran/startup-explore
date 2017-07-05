@@ -1,0 +1,1 @@
+ZBoard produces boards that eschew a controller and can be operated by sensors in the board itself.

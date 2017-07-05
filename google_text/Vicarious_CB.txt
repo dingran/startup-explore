@@ -1,0 +1,1 @@
+Vicarious develops Recursive Cortical Network™, a visual perception system that interprets the contents of photographs and videos.

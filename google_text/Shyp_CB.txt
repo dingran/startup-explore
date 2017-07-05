@@ -1,0 +1,1 @@
+Shyp provides shipping services that ranges from picking-up the package to delivering it to the destination.

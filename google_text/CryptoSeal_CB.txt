@@ -1,0 +1,1 @@
+CryptoSeal provides Virtual Private Networks (VPNs) as a service.

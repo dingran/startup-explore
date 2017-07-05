@@ -1,0 +1,1 @@
+Cobook is a free contact management application that smartly updates contacts without the user's effort.

@@ -1,0 +1,1 @@
+Divshot is an HTML5 web hosting platform tailored for performance and developer productivity.

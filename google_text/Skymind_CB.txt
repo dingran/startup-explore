@@ -1,0 +1,1 @@
+Skymind makes tools for prediction, data analytics and machine perception available to all businesses via open-core deep-learning.

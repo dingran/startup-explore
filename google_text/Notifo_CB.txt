@@ -1,0 +1,1 @@
+Notifo is a mobile application and platform that allows web sites and services to create mobile notifications.

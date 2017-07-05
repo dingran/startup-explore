@@ -1,0 +1,1 @@
+Flowdock is a communication application that enables members of a group to chat via a shared inbox.

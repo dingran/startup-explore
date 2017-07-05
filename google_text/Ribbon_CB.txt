@@ -1,0 +1,1 @@
+Ribbon is a one-page checkout solution enabling merchants accept payments online and make an intuitive checkout experience for customers.

@@ -1,0 +1,1 @@
+Carousell is a Singapore-based consumer-to-consumer marketplace application for iOS and Android.

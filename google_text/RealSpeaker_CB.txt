@@ -1,0 +1,1 @@
+RealSpeaker 2.0 uses deep learning technology to automatically transcribe continues speech and media files.

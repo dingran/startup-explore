@@ -1,0 +1,1 @@
+Masterbranch aggregates and analyzes projects from open source software hostings and builds profiles out of all this information.

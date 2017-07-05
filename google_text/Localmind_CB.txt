@@ -1,0 +1,1 @@
+Localmind is a location-based information platform providing real-time answers for destination-related queries.

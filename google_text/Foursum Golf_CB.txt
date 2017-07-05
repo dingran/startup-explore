@@ -1,0 +1,1 @@
+Foursum Golf is a mobile and web application for golfers to track scores, analyze play and connect with friends to compare performances.

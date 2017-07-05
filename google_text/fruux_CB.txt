@@ -1,0 +1,1 @@
+Fruux offers a cross-platform synchronization service that enables users to synchronize contacts and calendars across different devices.

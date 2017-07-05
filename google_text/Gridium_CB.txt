@@ -1,0 +1,1 @@
+Gridium provides smart meter data analytics to building operators and owners and customer engagement and analysis tools to utilities.

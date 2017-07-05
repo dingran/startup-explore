@@ -1,0 +1,1 @@
+Kensho combines natural language search, graphical user interfaces, and secure cloud computing to create a new class of analytics tools.

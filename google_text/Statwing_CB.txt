@@ -1,0 +1,1 @@
+Statwing provides web-based statistical analysis software for business users, data analysts, and market researchers.

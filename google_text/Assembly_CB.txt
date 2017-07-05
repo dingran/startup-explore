@@ -1,0 +1,1 @@
+Assembly is a web collaboration platform that enables users to develop apps, widgets, platforms, and APIs with the help of other users.

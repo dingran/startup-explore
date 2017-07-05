@@ -1,0 +1,1 @@
+Shipt is a grocery delivery service that lets members order groceries and alcohol from their local store for delivery right to their door.

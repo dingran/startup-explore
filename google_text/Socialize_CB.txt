@@ -1,0 +1,1 @@
+Socialize is a drop-in social platform that creates a community around apps, leveraging networking features through a single interface.

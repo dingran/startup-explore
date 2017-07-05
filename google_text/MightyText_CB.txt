@@ -1,0 +1,1 @@
+MightyText is a messaging app that enables users to send and receive text and MMS messages via computers and android phones.

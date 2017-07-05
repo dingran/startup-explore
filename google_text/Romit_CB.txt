@@ -1,0 +1,1 @@
+Romit is an online, bank agnostic wallet and payment platform for the merchant-acquiring banking industry. It enables its users to send cash around the world.

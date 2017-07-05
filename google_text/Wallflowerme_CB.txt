@@ -1,0 +1,1 @@
+Wallflower is an event-driven social networking app that enables users to chat and meet with others at similar social events.

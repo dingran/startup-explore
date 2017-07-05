@@ -1,0 +1,1 @@
+Framer is a tool to design interactive high-fidelity prototypes for iOS, Android, desktop, or the web.

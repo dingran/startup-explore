@@ -1,0 +1,1 @@
+Ninja Blocks is an open-source home automation system that allows users to connect a variety of sensors to the internet.

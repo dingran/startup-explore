@@ -1,0 +1,1 @@
+Superfish is a visual search company that algorithmically analyzes an image and delivers similar and identical images in real-time.

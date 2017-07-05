@@ -1,0 +1,1 @@
+Moodstocks provides an API and ready-to-use cross-platform SDK for developers to integrate scanning.

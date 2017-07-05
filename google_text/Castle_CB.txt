@@ -1,0 +1,1 @@
+Castle manages rental homes for landlords using automation and on-demand labor.

@@ -1,0 +1,1 @@
+Bitdeli offers a platform for custom analytics, allowing businesses to build their own dashboards and visualizations with specific data.

@@ -1,0 +1,1 @@
+Buddy enables developers to build apps for connected devices without having to write, manage or scale server-side code or infrastructure.

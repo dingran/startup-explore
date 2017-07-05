@@ -1,0 +1,1 @@
+HealthCrowd is an end-to-end communications platform for healthcare.

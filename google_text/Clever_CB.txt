@@ -1,0 +1,1 @@
+Clever builds the platform for modern learning software after extracting student data from school legacy data systems.

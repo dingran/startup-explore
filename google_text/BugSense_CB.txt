@@ -1,0 +1,1 @@
+BugSense provides solutions for Windows phone developers and app publishers, enabling them to analyze and improve the quality of their apps.

@@ -1,0 +1,1 @@
+Puddle is a social peer-to-peer lending marketplace. Puddle lets anyone create a line of credit on-the-fly with their friends.

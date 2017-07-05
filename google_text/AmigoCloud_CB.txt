@@ -1,0 +1,1 @@
+AmigoCloud is a geospatial platform that helps you collect, manage, analyze, visualize, and publish your location data.

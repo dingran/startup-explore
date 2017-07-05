@@ -1,0 +1,1 @@
+Lettuce is an inventory and order management system that enables SMBs to capture, track, and process orders from multiple sales channels.

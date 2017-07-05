@@ -1,0 +1,1 @@
+Swiftype, a Y Combinator-backed startup, builds fast & customizable search software for thousands of enterprises, websites and applications.

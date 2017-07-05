@@ -1,0 +1,1 @@
+VOKLE is a live town hall platform enabling speakers to broadcast their live videos and audios to a virtual auditorium of viewers.

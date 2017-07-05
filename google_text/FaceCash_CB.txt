@@ -1,0 +1,1 @@
+FaceCash is a payment application for mobile devices. Users send money from their bank accounts to FaceCash, and upload a photo. This image.

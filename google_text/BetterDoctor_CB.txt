@@ -1,0 +1,1 @@
+BetterDoctor, a technology company, delivers provider directory data and has a database that can be accessed through a responsive API.

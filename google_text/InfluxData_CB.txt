@@ -1,0 +1,1 @@
+InfluxData develops the TICK stack, the first open source platform for managing IoT time-series data at scale.

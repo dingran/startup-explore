@@ -1,0 +1,1 @@
+Cake Health is an online system where users can understand, manage and keep track of their health-related documents, reports, and expenses.

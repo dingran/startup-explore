@@ -1,0 +1,1 @@
+Authy provides an API for developers to customize the user experience when adding two-factor authentication and multiple add-ons for apps.

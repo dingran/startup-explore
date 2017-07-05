@@ -1,0 +1,1 @@
+eXpresso provides SaaS-based, real-time document collaboration services for Microsoft Office suites.

@@ -1,0 +1,1 @@
+Tinfoil provides software for scanning websites to detect vulnerabilities, and offers solutions to address them.

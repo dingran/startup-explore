@@ -1,0 +1,1 @@
+FoundationDB is a scalable NoSQL database with high performance multi-key ACID transactions that support multiple data models.
