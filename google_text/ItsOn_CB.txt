@@ -1,0 +1,1 @@
+ItsOn provides a cloud-based smart services platform for mobile device OEMs, device OS developers, service providers and M2M developers.

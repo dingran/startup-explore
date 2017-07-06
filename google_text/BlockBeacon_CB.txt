@@ -1,0 +1,1 @@
+BlockBeacon is a web and mobile-based software connecting local business to local consumers when their needs and wants match in real-time.

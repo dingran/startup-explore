@@ -1,0 +1,1 @@
+Jink is a location-sharing application that enables users to track the movements of their friends and family.

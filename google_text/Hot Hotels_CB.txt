@@ -1,0 +1,1 @@
+Hot is a hotel booking application designed for the iPhone, Android devices and Blackberry.

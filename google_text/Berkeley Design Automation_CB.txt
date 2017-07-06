@@ -1,0 +1,1 @@
+Berkeley Design Automation provides nanometer circuit verification for analog, mixed-signal, RF, and custom digital verification.

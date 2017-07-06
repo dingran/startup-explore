@@ -1,0 +1,1 @@
+ZeroVM, an open-source virtualization technology, creates a secure and isolated execution environment ... Geek Time - Israeli ZeroVM acquired by RackSpace.

@@ -125,31 +125,56 @@ def load_url(driver=None, url=None, n_attempts_limit=3):
 from tqdm import tqdm
 from random import shuffle
 import os
+import sys
 
-company_list_file = 'company_list.txt'
-with open(company_list_file) as f:
-    s = f.readlines()
-company_list = [x.strip() for x in s]
 
-shuffle(company_list)
+def main():
+    company_list_file = 'company_list.txt'
+    illegal_names = 'illegal_names.txt'
+    with open(company_list_file) as f:
+        s = f.readlines()
+    company_list = [x.strip() for x in s]
 
-for c in tqdm(company_list):
-    print(c)
-    google_str = ''
-    fname = os.path.join('google_text', '{}_CB.txt'.format(c))
-    if os.path.exists(fname):
-        print('company exists, skip')
-    else:
-        driver = init_driver()
-        target_url = 'https://www.google.com/search?q={}%20crunchbase'.format(c)
-        load_url(driver=driver, url=target_url)
-        page = driver.page_source
-        quit_driver(driver)
-        soup = BeautifulSoup(page, 'lxml')
-        text = soup.findAll('span', {'class': 'st'})[0].get_text()
-        print(text)
-        with open(fname, 'w') as f:
-            if isinstance(text, unicode):
-                f.write(text.encode('utf-8'))
-            else:
-                f.write(text)
+    shuffle(company_list)
+
+    for c in tqdm(company_list):
+        print(c)
+        fname = os.path.join('google_text', '{}_CB.txt'.format(c))
+        fname_backup = os.path.join('google_text', '{}_CB.txt'.format(str(hash(c))))
+        if os.path.exists(fname) or os.path.exists(fname_backup):
+            print('company exists, skip')
+        else:
+            driver = init_driver()
+            target_url = 'https://www.google.com/search?q={}%20crunchbase'.format(c)
+            load_url(driver=driver, url=target_url)
+            page = driver.page_source
+            quit_driver(driver)
+            soup = BeautifulSoup(page, 'lxml')
+            text = ''
+            try:
+                text = soup.findAll('span', {'class': 'st'})[0].get_text()
+                print(text)
+            except:
+                log_time('error')
+                print('failed to parse page {}'.format(target_url))
+
+            try:
+                with open(fname, 'w', encoding='utf-8') as f:
+                    pass
+            except:
+                log_time('error')
+                print('possibly illegal filename {}'.format(fname))
+                print('switching to backup filename {}'.format(fname_backup))
+                fname = fname_backup
+
+            with open(fname, 'w', encoding='utf-8') as f:
+                try:
+                    f.write(text)
+                except:
+                    log_time('error')
+                    print('failed to write file {}'.format(fname))
+                    f.write('')
+
+
+if __name__ == 'main':
+    main()

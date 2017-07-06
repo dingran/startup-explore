@@ -1,0 +1,1 @@
+Hazelcast is a Java-based, open source in-memory platform for data distribution.

@@ -1,0 +1,1 @@
+Parabola is a SaaS for financial advisors. We use gamification to automatically track a user's progress against financial goals.

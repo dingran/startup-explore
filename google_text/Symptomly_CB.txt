@@ -1,0 +1,1 @@
+Symptomly is a symptom tracking platform used by insurers, care providers, and patients to reduce the effects of chronic diseases.

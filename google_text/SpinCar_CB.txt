@@ -1,0 +1,1 @@
+SpinCar automatically stitches together standard interior and exterior vehicle photographs into super-interactive 360º displays.

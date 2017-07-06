@@ -1,0 +1,1 @@
+Instaread is a mobile application which provides its users with summaries of publications and audiobooks.

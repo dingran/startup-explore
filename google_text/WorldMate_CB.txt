@@ -1,0 +1,1 @@
+WorldMate is a mobile travel app that allows its users to organize their travel plans and get real-time flight alerts.

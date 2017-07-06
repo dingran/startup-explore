@@ -1,0 +1,1 @@
+ELERTS develops emergency alert software systems centered around smartphones and crowd-sourcing.

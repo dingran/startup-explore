@@ -1,0 +1,1 @@
+Wedgies offers a social polling service that helps publishers collect survey respondents directly within social media streams.

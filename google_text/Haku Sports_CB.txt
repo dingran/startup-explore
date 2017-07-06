@@ -1,0 +1,1 @@
+haku is an event management application that enables event organizers to plan, ... and sell-out their events such as running, cycling, and other sports events.

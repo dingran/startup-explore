@@ -1,0 +1,1 @@
+Zify is a mobile & web-based application facilitating dynamic ride-sharing between car-owners with empty seats and passengers travelling in the same direction.

@@ -1,0 +1,1 @@
+Spotsetter is a social search engine that makes personalized recommendations for places to visit and things to try.

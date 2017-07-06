@@ -1,0 +1,1 @@
+Restaurant.com is a dining deals site and a marketing platform where users can read restaurant reviews, find deals, and browse menus.

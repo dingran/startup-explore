@@ -1,0 +1,1 @@
+Hipcask is a smartphone application that enables users to discover wines, whiskies, and beers.

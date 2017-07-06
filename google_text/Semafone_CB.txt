@@ -1,0 +1,1 @@
+Semafone provides software to contact centres which allows them to take secure card payments that complies with PCI DSS regulations.

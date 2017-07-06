@@ -1,0 +1,1 @@
+uBeam is a wireless power startup that transmits power to charge electronic devices over-the-air.

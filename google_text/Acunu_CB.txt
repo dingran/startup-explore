@@ -1,0 +1,1 @@
+Acunu is a low-latency analytics platform for monitoring and controlling high-velocity data used in production environments.

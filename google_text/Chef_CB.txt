@@ -1,0 +1,1 @@
+Chef is an automation platform that transforms infrastructure into code. Chef allows its users to automate how they build, deploy, and manage their infrastructure.

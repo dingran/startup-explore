@@ -1,0 +1,1 @@
+NimbusBase provides an iCloud alternative that uses users' personal cloud storage (Dropbox, Google Drive, Microsoft SkyDrive) to store their app data.

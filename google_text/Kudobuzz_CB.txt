@@ -1,0 +1,1 @@
+Kudobuzz is a simple widget that displays selected positive social buzz, or "kudos", on your website.

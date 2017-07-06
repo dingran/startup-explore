@@ -1,0 +1,1 @@
+Osito is a predictive intelligence app that picks up on your location and scans your calendar to display information about your day.

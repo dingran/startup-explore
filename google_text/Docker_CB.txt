@@ -1,0 +1,1 @@
+Docker is a platform for distributed applications that allows developers and sysadmins to build, ship, and run distributed applications.

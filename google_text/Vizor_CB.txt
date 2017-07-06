@@ -1,0 +1,1 @@
+Vizor is mobile application that allow users to scan images and reach detailed information about physical content.

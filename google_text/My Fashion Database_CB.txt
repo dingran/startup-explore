@@ -1,0 +1,1 @@
+My Fashion Database is an online credited fashion database that aggregates images from fashion magazines across the world.

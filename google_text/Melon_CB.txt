@@ -1,0 +1,1 @@
+Melon helps users understand their mental focus by gathering brainwave data through a sensor-enabled headband and a mobile app.

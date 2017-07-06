@@ -1,0 +1,1 @@
+Flint is a mobile payment service that enables users to easily take credit cards on the spot by scanning, via invoice or online.

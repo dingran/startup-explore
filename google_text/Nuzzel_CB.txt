@@ -1,0 +1,1 @@
+Nuzzel provides a social, real-time platform that allows users to see the news that their friends share.

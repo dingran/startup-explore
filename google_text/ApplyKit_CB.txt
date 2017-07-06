@@ -1,0 +1,1 @@
+Applykit is an application that supports students in college applications and informs parents and teachers about their progress.

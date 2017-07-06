@@ -1,0 +1,1 @@
+A deep-learning based computer vision platform to solve real problems directly on compute-constrained embedded devices.

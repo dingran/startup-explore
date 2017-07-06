@@ -1,0 +1,1 @@
+Nifti enables users to store and track products and their prices from their favorite websites.

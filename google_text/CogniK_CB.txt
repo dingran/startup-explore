@@ -1,0 +1,1 @@
+CogniK is a recommendation platform that personalizes website and mobile experiences.

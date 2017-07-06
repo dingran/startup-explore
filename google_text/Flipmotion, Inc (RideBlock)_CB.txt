@@ -1,0 +1,1 @@
+Rideblock is an activity tracker for action sports. (Fitbit for skateboards/long boards)

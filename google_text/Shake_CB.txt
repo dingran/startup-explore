@@ -1,0 +1,1 @@
+Shake is a mobile application used to create, sign and send legally binding agreements.

@@ -1,0 +1,1 @@
+SolidFire builds scale-out, high-performance storage systems for cloud service providers.

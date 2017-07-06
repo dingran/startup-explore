@@ -1,0 +1,1 @@
+Armory is a company that's commercializing Spinnaker, an open source, multi-cloud continuous delivery platform for quickly releasing.

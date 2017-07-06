@@ -1,0 +1,1 @@
+Hadean is a distributed compute platform. Lets a developer write code that runs at any scale, with zero ops, and zero tuning.

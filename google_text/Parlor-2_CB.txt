@@ -1,0 +1,1 @@
+Parlor is an application that connects people with each other in real-time conversations.

@@ -1,0 +1,1 @@
+Brandwatch is a social media monitoring system summarizing content on the web.

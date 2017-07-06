@@ -1,0 +1,1 @@
+Rockpack, an app that allows users to curate videos from around the web, creates, shares and subscribes to personalized video channels.

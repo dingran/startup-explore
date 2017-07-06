@@ -1,0 +1,1 @@
+PlayerDuel is an online platform that converts single-player mobile games into multiplayer games.

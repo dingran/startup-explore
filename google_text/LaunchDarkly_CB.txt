@@ -1,0 +1,1 @@
+LaunchDarkly is a Feature Management Platform that serves over 10 billion feature flags daily to help teams build better software, faster.

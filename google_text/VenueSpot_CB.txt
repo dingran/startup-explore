@@ -1,0 +1,1 @@
+VenueSpot is an online marketplace that enables users to find venues and bid to host events online.

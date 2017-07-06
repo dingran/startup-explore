@@ -1,0 +1,1 @@
+BuildingIQ, an energy management software platform, forecasts energy demand and adjusts buildings' HVAC settings to optimize energy use.

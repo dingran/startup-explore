@@ -1,0 +1,1 @@
+Linkovery, a cloud desktop for web apps, allowing users to access all their apps easily with a single login system.

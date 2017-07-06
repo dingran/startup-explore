@@ -1,0 +1,1 @@
+eCaring, a web-based care monitoring and management system, enables its users to document trends and problems that should be responded to.

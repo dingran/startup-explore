@@ -1,0 +1,1 @@
+FasterPants is a software firm offering an outfit recommendation engine that automatically sorts men's clothing into 3- and 4-piece outfits.

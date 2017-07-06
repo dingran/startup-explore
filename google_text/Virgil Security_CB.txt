@@ -1,0 +1,1 @@
+Virgil Security provides easy-to-deploy and easy-to-use cryptographic software and services for use by developers and end-users.

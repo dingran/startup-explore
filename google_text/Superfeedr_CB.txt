@@ -1,0 +1,1 @@
+Superfeedr provides a Feed API and fetches and parses RSS or Atom feeds for its users and pushes them the new entries in these feeds.

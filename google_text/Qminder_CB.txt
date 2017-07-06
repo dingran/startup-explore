@@ -1,0 +1,1 @@
+Qminder is a queue management system that improves visitor experiences.

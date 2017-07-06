@@ -1,0 +1,1 @@
+BizSlate is a Software-as-a-Service (SaaS) Enterprise Resource Planning (ERP) system.

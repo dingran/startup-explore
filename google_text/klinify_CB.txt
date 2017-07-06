@@ -1,0 +1,1 @@
+Klinify, a document management system, helps private specialist clinics manage patient records while preserving their existing workflow.

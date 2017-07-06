@@ -1,0 +1,1 @@
+Zcash offers total payment confidentiality, while still maintaining a decentralized network using a ... Company Details ... Unlike Bitcoin, Zcash transactions automatically hide the sender, recipient, and value of all transactions on the blockchain.

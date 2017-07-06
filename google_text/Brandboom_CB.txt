@@ -1,0 +1,1 @@
+Brandboom is a content management and sales automation system that enables its users to generate PDF line sheets and price lists.

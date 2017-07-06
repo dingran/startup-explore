@@ -1,0 +1,1 @@
+OpenSignal provides a mobile application that crowd-sources data on the performance and coverage of wireless networks around the world.

@@ -1,0 +1,1 @@
+Blazing DB is a cloud platform database management system that is accelerated trough the use of video graphics cards (GPUs). In the cloud. Easy to setup.

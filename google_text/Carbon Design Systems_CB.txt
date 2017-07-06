@@ -1,0 +1,1 @@
+Carbon Design Systems offers a system validation solution for SoC designs of architects, firmware developers and software engineers.

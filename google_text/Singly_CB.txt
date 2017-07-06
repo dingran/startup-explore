@@ -1,0 +1,1 @@
+Singly offers Singly Data Fabric, which facilitates the movement of authenticated consumer data throughout the ecosystem.

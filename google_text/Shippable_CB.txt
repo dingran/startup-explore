@@ -1,0 +1,1 @@
+Shippable helps companies ship code faster by giving them a powerful continuous integration platform built natively on Docker.

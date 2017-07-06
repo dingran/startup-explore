@@ -1,0 +1,1 @@
+SocialCam is a mobile app for Android and the iPhone that allows users to capture, edit, share and view videos online.

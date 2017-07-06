@@ -1,0 +1,1 @@
+Trovix is a job search site that uses a human-like search and AI technology to match job seekers with vacancies.

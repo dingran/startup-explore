@@ -1,0 +1,1 @@
+Shoto is a mobile app that helps find unseen photos shared by a user and their friends.

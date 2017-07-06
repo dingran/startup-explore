@@ -1,0 +1,1 @@
+Castlight Health develops a web application that provides information to its users about healthcare costs, usage, coverage and choices.

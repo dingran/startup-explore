@@ -1,0 +1,1 @@
+DailyStrength is a website enabling users to track their progress towards health goals, create support groups, and read others' reviews.

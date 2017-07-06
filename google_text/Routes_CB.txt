@@ -1,0 +1,1 @@
+Route sends automated emails based on customers behavior. Other tools do that too, but Route does it amazingly fast and easy.

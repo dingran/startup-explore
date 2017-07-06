@@ -1,0 +1,1 @@
+Speek enables conference calling by using a unique web link instead of dial-ins, PINs or downloads.

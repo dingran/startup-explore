@@ -1,0 +1,1 @@
+Strap is a analytics platform that draws actionable insights from human data.

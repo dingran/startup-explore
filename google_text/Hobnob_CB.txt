@@ -1,0 +1,1 @@
+Hobnob is an app for mobile devices that allows users to construct unique invitations and send them through text and sms messaging services.

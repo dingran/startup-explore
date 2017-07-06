@@ -1,0 +1,1 @@
+Muzy is a customizable blog allowing its users to post, edit, create, and share photos, animations, and collages through a mobile app.

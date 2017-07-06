@@ -1,0 +1,1 @@
+Socialite is a mobile app that enables its users to discover and subscribe to upcoming events.

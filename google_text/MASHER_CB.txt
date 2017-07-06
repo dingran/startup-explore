@@ -1,0 +1,1 @@
+Masher is a web-based app that enables users to create videos by combining video clips, music and photos.

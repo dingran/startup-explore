@@ -1,0 +1,1 @@
+CurrencyFair is a P2P online marketplace enabling individuals and businesses to exchange currencies and send funds to bank accounts.

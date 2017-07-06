@@ -1,0 +1,1 @@
+Bringing Continuous Deployment to everyone The - Codeship runs your hosted tests and automated deployments.

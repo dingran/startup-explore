@@ -1,0 +1,1 @@
+SightCall is a video cloud platform that easily enables Real-Time Communication.

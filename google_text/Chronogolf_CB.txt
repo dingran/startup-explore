@@ -1,0 +1,1 @@
+Chronogolf facilitates interactions between golf courses and golf players by leveraging the potential of web applications, cloud infrastructure and mobility.

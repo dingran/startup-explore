@@ -1,0 +1,1 @@
+Zodio is a location-based platform that helps people discover places around them using the ratings and recommendations of their friends.

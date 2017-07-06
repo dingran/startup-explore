@@ -1,0 +1,1 @@
+Weotta provides an app that offers ideas of things to do based on users' location, destination, and their friends' interests.

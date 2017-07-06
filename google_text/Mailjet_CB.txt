@@ -1,0 +1,1 @@
+Mailjet is a real-time cloud emailing platform that improves the deliverability of emails and allows users to track and monitor sent emails.

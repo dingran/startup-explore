@@ -1,0 +1,1 @@
+ecobee is a provider of Wi-Fi enabled smart thermostats for residential and commercial applications.

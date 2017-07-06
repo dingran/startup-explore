@@ -1,0 +1,1 @@
+Plaid is an API to power developers of financial services applications and help them connect with user bank accounts.

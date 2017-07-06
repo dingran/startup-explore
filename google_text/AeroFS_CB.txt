@@ -1,0 +1,1 @@
+AeroFS is an enterprise file sync & share solution. We also offer Amium, a cloud-based collaboration platform.

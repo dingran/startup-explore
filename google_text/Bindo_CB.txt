@@ -1,0 +1,1 @@
+Bindo is a retail platform that facilitates sale of real-time inventory via POS integration.

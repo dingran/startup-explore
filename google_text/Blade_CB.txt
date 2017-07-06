@@ -1,0 +1,1 @@
+BLADE is an application that provides short-distance flight management solutions to its clients.

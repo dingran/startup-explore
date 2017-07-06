@@ -1,0 +1,1 @@
+Zoobean is a web application that creates personalized playlist of apps, books, and literacy resources for little kids.

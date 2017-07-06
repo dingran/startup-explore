@@ -1,0 +1,1 @@
+Avizia uses Cisco TelePresence technology to enable HD, real-time video collaboration in hospitals amongst patients and professionals.

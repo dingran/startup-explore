@@ -1,0 +1,1 @@
+MonetaGo works with financial institutions and central banks around the world to provide private permissioned blockchain solutions.

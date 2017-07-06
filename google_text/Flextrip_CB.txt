@@ -1,0 +1,1 @@
+Flextrip provides APIs and direct marketing tools to online travel companies to upsell bookable tours and activities.

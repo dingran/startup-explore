@@ -1,0 +1,1 @@
+Beeminder offers a motivational tool with a self-tracking system that employs monetary incentives to help users stick to their goals.

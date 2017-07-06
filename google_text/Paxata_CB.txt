@@ -1,0 +1,1 @@
+Paxata is the first Adaptive Data Preparation™ platform built for the analyst to turn raw data into ready data for analytics.

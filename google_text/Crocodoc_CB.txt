@@ -1,0 +1,1 @@
+Crocodoc is used in converting Microsoft Office and PDF documents to HTML5, and enabling users to view and collaborate with any web app.

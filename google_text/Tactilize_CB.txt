@@ -1,0 +1,1 @@
+Tactilize is a real-time self-publishing application that enables users to publish content through a tactilize account on iPad.

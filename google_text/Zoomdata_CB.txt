@@ -1,0 +1,1 @@
+Zoomdata is a next generation data visualization and analytics system optimized for real-time and historical big data backends.

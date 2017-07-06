@@ -1,0 +1,1 @@
+Forecast.io is a location-based web application that offers global weather forecasting services for its viewers.

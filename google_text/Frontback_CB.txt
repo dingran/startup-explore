@@ -1,0 +1,1 @@
+Frontback is a company producing an app for creating composite images from the front and rear cameras of iPhone handsets.

@@ -1,0 +1,1 @@
+SALIDO is a single platform for restaurant operations. rOS (restaurant Operating System)

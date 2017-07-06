@@ -1,0 +1,1 @@
+Socrative, a student performance-tracking system, allows teachers to engage students in various activites on computers and mobile devices.

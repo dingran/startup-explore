@@ -1,0 +1,1 @@
+Instabug offers services for mobile app developers to assist in the testing of their applications via an app feedback mechanism.

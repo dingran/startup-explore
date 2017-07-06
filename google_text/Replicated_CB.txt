@@ -1,0 +1,1 @@
+Replicated enables cloud based SaaS vendors to ship an on-prem, self-hosted version of their software.

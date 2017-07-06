@@ -1,0 +1,1 @@
+Coffee Cloud, Big Data enabler,produce and implement an IoT cloud-based software for the operational management of coffee machines.

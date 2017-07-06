@@ -1,0 +1,1 @@
+Cybric develops a cloud-based Security-as-a-Service platform that integrates security into a user's application delivery process.

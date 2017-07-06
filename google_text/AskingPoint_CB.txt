@@ -1,0 +1,1 @@
+AskingPoint is an app analytics API for iOS and mobile app developers that includes an embedded Rating Widget.

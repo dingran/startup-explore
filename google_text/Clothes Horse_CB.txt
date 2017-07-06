@@ -1,0 +1,1 @@
+Clothes Horse provides a recommendations tool that enables online shoppers to discover clothes based on their body details and preferences.

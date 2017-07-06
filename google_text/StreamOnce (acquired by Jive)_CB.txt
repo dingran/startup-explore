@@ -1,0 +1,1 @@
+OffiSync is an Israeli startup that adds a collaboration layer to Microsoft Office applications.

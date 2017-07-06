@@ -1,0 +1,1 @@
+MailTime is a mobile messenger application for iOS and Android devices.

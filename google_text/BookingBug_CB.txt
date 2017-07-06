@@ -1,0 +1,1 @@
+BookingBug is the complete online scheduling and appointment booking platform for all businesses.

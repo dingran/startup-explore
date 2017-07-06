@@ -1,0 +1,1 @@
+Twist is an iOS and Android app that messages users' pre-determined contacts of their location and estimated time of arrival in real-time.

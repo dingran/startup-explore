@@ -1,0 +1,1 @@
+Coolan is bringing crowdsourced, predictive analytics to the data center.

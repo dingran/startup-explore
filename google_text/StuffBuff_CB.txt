@@ -1,0 +1,1 @@
+StuffBuff is an auction platform based on the use of social and real-time technology.

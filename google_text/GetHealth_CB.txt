@@ -1,0 +1,1 @@
+GetHealth is an online and mobile tool which help drive user engagement in health management.

@@ -1,0 +1,1 @@
+Cellabus is a Mobile Device Management and Application Platform for Education that helps schools manage large number of disparate devices.

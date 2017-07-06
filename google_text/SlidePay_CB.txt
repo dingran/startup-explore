@@ -1,0 +1,1 @@
+SlidePay is an API that makes it easy for any application to accept credit cards that are processed in person.

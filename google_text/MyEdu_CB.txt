@@ -1,0 +1,1 @@
+MyEdu is a web app that helps students receive job and internship opportunities by creating personalized graduation plans and profiles.

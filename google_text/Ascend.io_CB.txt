@@ -1,0 +1,1 @@
+Ascend is a platform for the rapid creation of big data solutions without big data code.

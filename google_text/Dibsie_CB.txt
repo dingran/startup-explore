@@ -1,0 +1,1 @@
+Dibsie is an online shopping catalog curated by a user's social network in real-time.

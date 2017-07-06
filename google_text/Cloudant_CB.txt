@@ -1,0 +1,1 @@
+Cloudant provides a distributed database-as-a-service that scales and manages the databases of web and mobile app developers.

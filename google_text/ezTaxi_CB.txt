@@ -1,0 +1,1 @@
+ezTaxi is a mobile application based in Italy that enables its users to book and pay for taxis.

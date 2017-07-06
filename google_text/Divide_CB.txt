@@ -1,0 +1,1 @@
+Divide is a dual-persona platform, which separates iOS and android devices into two personas for work and play.

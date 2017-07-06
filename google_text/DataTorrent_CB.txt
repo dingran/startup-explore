@@ -1,0 +1,1 @@
+DataTorrent provides the industry's only stream processing platform to help companies extract value from their Big Data in real-time.

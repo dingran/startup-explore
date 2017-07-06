@@ -1,0 +1,1 @@
+Coursebase is an LMS for managing employee training. HR teams at the world's leading companies use Coursebase.

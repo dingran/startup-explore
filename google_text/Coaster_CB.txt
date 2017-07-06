@@ -1,0 +1,1 @@
+Coaster is an app that enables users to order and pay for drinks via their phones.

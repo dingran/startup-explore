@@ -1,0 +1,1 @@
+Netguru is a consulting agency that develops tailor-made web and mobile applications on Ruby on Rails, iOS, and Android platforms.

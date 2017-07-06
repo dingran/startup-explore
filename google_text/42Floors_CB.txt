@@ -1,0 +1,1 @@
+42Floors is a web platform that offers an office space rentals and commercial real estate listing search by indexing business places.

@@ -1,0 +1,1 @@
+MyColorScreen operates a social networking platform for users to share and recommend wallpapers and applications.

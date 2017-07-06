@@ -1,0 +1,1 @@
+Dynamic mobile authentication and realtime authorization platform. LaunchKey is a part of iovation.

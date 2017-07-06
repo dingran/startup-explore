@@ -1,0 +1,1 @@
+Stroome is a collaborative online video editing suite enabling users to upload footage and mix these clips with photos and audio tracks.

@@ -1,0 +1,1 @@
+cottonTracks, a browser extension for Google Chrome and Opera 15, aggregates the content its users browse and organizes it.

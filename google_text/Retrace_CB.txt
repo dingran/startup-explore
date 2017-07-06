@@ -1,0 +1,1 @@
+Retrace is a mobile app that puts users' notes, photos, follow-up tasks and contact information in the context of a meeting.

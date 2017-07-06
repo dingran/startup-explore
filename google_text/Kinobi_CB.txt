@@ -1,0 +1,1 @@
+Kinobi enables people to create and share interactive learning experiences using the Microsoft Kinect.

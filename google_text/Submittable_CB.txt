@@ -1,0 +1,1 @@
+Submittable is a cloud-based submission management platform serving magazine, journal, and book publishers.

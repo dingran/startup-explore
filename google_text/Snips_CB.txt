@@ -1,0 +1,1 @@
+Snips is an AI voice platform for connected devices. It runs fully on-device and is private-by-design.

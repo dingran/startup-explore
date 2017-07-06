@@ -1,0 +1,1 @@
+Opvizor is a SaaS-based cloud application that offers automated support for virtual IT infrastructure.

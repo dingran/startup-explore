@@ -1,0 +1,1 @@
+Hukkster, a shopping tool, allows users to track and mark products on websites and notifies them via text or email when they go on sale.

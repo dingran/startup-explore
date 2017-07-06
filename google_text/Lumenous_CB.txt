@@ -1,0 +1,1 @@
+A software/hardware platform that turns every object into an interactive display.

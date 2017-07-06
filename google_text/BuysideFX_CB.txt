@@ -1,0 +1,1 @@
+BuysideFX provides a currency management software platform for institutional money managers of FX trading.

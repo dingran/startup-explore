@@ -1,0 +1,1 @@
+DeepGram focuses on keyword spotting and AI classification for phone support and legal discovery.

@@ -1,0 +1,1 @@
+eEvent is a social event platform that helps its clients to plan, create, and promote their events.

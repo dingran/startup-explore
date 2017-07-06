@@ -1,0 +1,1 @@
+RosieApp is an online platform that enables users to shop from their local groceries online for delivery or in-store pickup.

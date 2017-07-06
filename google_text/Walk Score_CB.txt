@@ -1,0 +1,1 @@
+Walk Score is a website providing a numerical ranking or score for any address based on the accessibility of surroundings by walk.

@@ -1,0 +1,1 @@
+Tracx is a cloud-based social media management system providing business analytics solutions through the social web.

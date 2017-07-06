@@ -1,0 +1,1 @@
+Puppet is an information technology automation software company designed for system administrators.

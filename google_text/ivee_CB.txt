@@ -1,0 +1,1 @@
+Ivee is a Wi-Fi voice-activated assistant that can answer questions, respond to commands, and connect to many smart home devices.

@@ -1,0 +1,1 @@
+SimpleQL is an analytics solution designed from the ground up to dramatically increase the insights that enterprises are able to derive from their data.

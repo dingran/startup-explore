@@ -1,0 +1,1 @@
+RentHop is a web platform that provides users with an apartment-search web facility.

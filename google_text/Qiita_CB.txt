@@ -1,0 +1,1 @@
+Qiita is a code-blogging platform to log and share programming knowledge.

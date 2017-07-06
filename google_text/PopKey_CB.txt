@@ -1,0 +1,1 @@
+PopKey is an animated GIF keyboard application that allows its users to choose from a range of GIFs or upload their own.

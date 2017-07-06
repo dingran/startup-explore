@@ -1,0 +1,1 @@
+GameFly is an online video game rental service that allows users to rent video games via post for a monthly subscription fee.

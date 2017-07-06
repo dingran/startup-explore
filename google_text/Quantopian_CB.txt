@@ -1,0 +1,1 @@
+Quantopian inspires talented people to write investment algos. Select authors may license their algos to us and get paid for performance.

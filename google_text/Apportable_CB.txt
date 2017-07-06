@@ -1,0 +1,1 @@
+Apportable allows iOS applications to run on Android devices automatically, without requiring extensive changes to the original code.

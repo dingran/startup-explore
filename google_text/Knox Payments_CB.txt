@@ -1,0 +1,1 @@
+Knox Payments is an application that allows for users to make payments from their bank.

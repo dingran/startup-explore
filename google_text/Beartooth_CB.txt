@@ -1,0 +1,1 @@
+Beartooth connects iOS devices without cellular or WiFi networks.

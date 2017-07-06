@@ -1,0 +1,1 @@
+Mailgun offers APIs that allow users to send, receive and track emails.

@@ -1,0 +1,1 @@
+Connected is a web-based contacts manager that unifies the user's contacts across their emails and social media into one interface.

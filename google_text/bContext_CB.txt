@@ -1,0 +1,1 @@
+bContext transforms hand-written notations, audio, and video narrative to static documents via tablets.

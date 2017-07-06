@@ -1,0 +1,1 @@
+WriteReader is a book creator app that teaches children to read by helping them write their own e-books for iPhone and iPad.

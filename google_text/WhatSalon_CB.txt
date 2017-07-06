@@ -1,0 +1,1 @@
+WhatSalon is a mobile application that allows the user to find and book last-minute appointments.

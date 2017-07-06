@@ -1,0 +1,1 @@
+Rebel, formerly Rebelmail, allows users to send interactive emails with no plug-ins required.

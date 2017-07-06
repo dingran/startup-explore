@@ -1,0 +1,1 @@
+Leftronic is a Y Combinator-funded company that develops a web-based real-time dashboard application for monitoring a company's most important data.

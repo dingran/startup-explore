@@ -1,0 +1,1 @@
+Happn is a location-based mobile dating application that enables its users to build connections based on real-time interactions.

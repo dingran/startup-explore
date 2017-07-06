@@ -1,0 +1,1 @@
+Imgix is a hosted service that provides the simplest way to deliver the highest quality images to users as fast as possible.

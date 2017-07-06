@@ -1,0 +1,1 @@
+Lab42 is a market research company that obtains consumer feedback by conducting online surveys within social networking sites.

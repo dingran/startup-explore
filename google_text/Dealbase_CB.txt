@@ -1,0 +1,1 @@
+DealBase operates a website that lists hotel packages in a format that allows people to know the approximate costs or savings being offered.

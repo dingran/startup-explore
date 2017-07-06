@@ -1,0 +1,1 @@
+FitCause is a social fundraising platform providing crowd-funded charitable support by leveraging fitness data from activity trackers.

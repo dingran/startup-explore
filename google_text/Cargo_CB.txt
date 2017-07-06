@@ -1,0 +1,1 @@
+Cargo is an open auto platform enabling developers to create apps for the car without worrying about complicated hardware or infrastructure.

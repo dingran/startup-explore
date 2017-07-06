@@ -1,0 +1,1 @@
+Moka, a Jakarta-based startup that focusses on building mobile point-of-sale (mPOS) for restaurants and retail.

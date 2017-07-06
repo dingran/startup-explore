@@ -1,0 +1,1 @@
+Vet-cloud is a cloud-based EHR system that enables veterinarians to manage medical records online.

@@ -1,0 +1,1 @@
+EvoStor provides virtualized storage systems and management tools, catering the challenging requirements of virtual infrastructure. ... EvoStor is pioneering development of a new generation of storage systems purpose-built for the challenging requirements of virtual infrastructure.

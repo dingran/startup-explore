@@ -1,0 +1,1 @@
+PrivateCore enables enterprises to deploy servers in outsourced environments while maintaining data security.

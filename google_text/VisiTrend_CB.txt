@@ -1,0 +1,1 @@
+VisiTrend makes powerful analytics easier to use by integrating machine learning with interactive visualization.

@@ -1,0 +1,1 @@
+myWebRoom, an online platform, enables its users to organize their collection of articles, videos, and other content in a virtual room.

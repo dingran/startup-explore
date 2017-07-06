@@ -1,0 +1,1 @@
+Locket is a Android lock screen app that brings stuff you care about to your lock screen based on your interests, swiping habits, and time.

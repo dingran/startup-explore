@@ -1,0 +1,1 @@
+Zenbox is a browser extension that connects all of your SaaS services.Open an email, and Zenbox pulls in your customer information from.

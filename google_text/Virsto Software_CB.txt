@@ -1,0 +1,1 @@
+Virsto Software operates VMware®, a tool offering abstracts block storage and sequentializing virtual machine storage I/O traffic.

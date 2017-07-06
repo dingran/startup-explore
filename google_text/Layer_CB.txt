@@ -1,0 +1,1 @@
+Layer is a very high quality, scalable and open cloud service for communications that utilizes carrier grade VoIP systems.

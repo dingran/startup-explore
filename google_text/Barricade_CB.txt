@@ -1,0 +1,1 @@
+Barricade works like an early warning system against any attempts at breaching the security of servers.

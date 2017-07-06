@@ -1,0 +1,1 @@
+dotloop provides a secure online platform where real estate agents, buyers, and sellers can collaborate to complete transactions online.

@@ -1,0 +1,1 @@
+FlipKey is a vacation rental marketplace that enables users to find and book a place to stay through its web platform.

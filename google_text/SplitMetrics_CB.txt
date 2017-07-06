@@ -1,0 +1,1 @@
+SplitMetrics is a service for A/B testing and analytics of app store pages.

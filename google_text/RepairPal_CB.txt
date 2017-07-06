@@ -1,0 +1,1 @@
+RepairPal is an online auto resource that offers a price estimator for car repairs, a directory of mechanics and other information.

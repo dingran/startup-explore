@@ -1,0 +1,1 @@
+Convore is a web chat application enabling users to chat with other users in real-time.

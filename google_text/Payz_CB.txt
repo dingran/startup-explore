@@ -1,0 +1,1 @@
+Payz provides payment solutions that enable merchants to easily accept cash, ACH and credit card payments.

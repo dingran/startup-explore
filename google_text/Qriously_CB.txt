@@ -1,0 +1,1 @@
+Qriously is a service for measuring real-time, location-based public sentiment.

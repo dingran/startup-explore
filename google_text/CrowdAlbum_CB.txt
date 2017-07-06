@@ -1,0 +1,1 @@
+CrowdAlbum brings together and displays the content that event attendees share to their social media accounts.

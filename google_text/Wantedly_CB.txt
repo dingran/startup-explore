@@ -1,0 +1,1 @@
+Wantedly is a social recruiting platform that allows users to find interesting jobs based on their social graphs.

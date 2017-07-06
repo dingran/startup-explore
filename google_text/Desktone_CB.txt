@@ -1,0 +1,1 @@
+Desktone offers a desktop virtualization platform facilitating the deployment of Windows desktops and apps from a cloud to end user devices.

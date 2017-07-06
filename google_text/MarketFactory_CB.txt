@@ -1,0 +1,1 @@
+MarketFactory provides traders access to the entire FX market over one connection, with pre-trade risk controls to 50+ venues globally.

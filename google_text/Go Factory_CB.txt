@@ -1,0 +1,1 @@
+GOFACTORY provides an Industrial IoT service that drives intelligent action when uptime is essential.

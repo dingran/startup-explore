@@ -1,0 +1,1 @@
+Cargobase is the platform to manage and procure all Spot Buy freight across all freight modes from preselected Providers.

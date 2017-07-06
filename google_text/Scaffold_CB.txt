@@ -1,0 +1,1 @@
+Scaffold connects offline and online identities. We offer easy to use APIs for services and marketplaces to verify their users.

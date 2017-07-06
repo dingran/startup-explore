@@ -1,0 +1,1 @@
+CardFlight enables app developers to easily incorporate card-present payment acceptance into mobile apps.

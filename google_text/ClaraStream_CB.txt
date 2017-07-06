@@ -1,0 +1,1 @@
+ClaraStream is a cloud-based application which helps retailers import and manage their e-commerce product data.

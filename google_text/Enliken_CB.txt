@@ -1,0 +1,1 @@
+Enliken lets any website accept data from consumers as registration or payment.

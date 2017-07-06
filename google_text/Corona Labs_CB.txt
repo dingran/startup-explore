@@ -1,0 +1,1 @@
+Corona Labs operates Corona SDK, a cross-platform enabling users to develop graphically rich apps for mobile devices.

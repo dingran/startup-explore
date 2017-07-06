@@ -1,0 +1,1 @@
+WireOver is a desktop application that leverages peer-to-peer technology for sending files privately.

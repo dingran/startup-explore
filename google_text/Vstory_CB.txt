@@ -1,0 +1,1 @@
+Vstory, an image recognition-based augmented reality platform, provides digital tools to create content through images and physical objects.

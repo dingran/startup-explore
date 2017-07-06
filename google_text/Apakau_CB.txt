@@ -1,0 +1,1 @@
+Apakau™ Cloud Proxy stops distributed denial of service (DDoS) attacks against dynamic data.

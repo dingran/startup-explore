@@ -1,0 +1,1 @@
+AMPY is a wearable motion charger that captures its users' energy from daily activities to charge their smartphones.

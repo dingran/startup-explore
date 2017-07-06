@@ -1,0 +1,1 @@
+Stream is a new kind of data store designed for building, scaling and personalizing feeds.

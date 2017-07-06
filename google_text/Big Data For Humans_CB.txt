@@ -1,0 +1,1 @@
+Big Data for Humans provides a data science-as-a-service platform for Customer Marketing in Retail and Travel sectors.

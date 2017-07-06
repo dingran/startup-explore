@@ -1,0 +1,1 @@
+Yobble is a mobile motion sensing platform for apps that need more than the regular touch interfaces.

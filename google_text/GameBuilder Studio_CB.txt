@@ -1,0 +1,1 @@
+GameBuilder Studio offers a cross-platform game creation tool that helps users create sophisticated two-dimensional games.

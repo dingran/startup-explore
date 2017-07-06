@@ -1,0 +1,1 @@
+Stamped is a mobile application that enables users to record and share information.

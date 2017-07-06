@@ -1,0 +1,1 @@
+Meludia is a web application for learning music through emotions and understanding musical compositions.

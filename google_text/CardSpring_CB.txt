@@ -1,0 +1,1 @@
+Cardspring offers an application platform enabling app developers to write applications for credit cards and other types of payments.

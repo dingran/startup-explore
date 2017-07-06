@@ -1,0 +1,1 @@
+RentShare provides an online rent payment platform that enables users to pay their rent via debit or credit cards.

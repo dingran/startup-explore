@@ -1,0 +1,1 @@
+StatHat is an online web-based platform that makes detailed time series charts of its users' stats.

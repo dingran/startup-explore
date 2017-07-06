@@ -1,0 +1,1 @@
+SimpleDeal is a mobile app providing users with information on restaurant hours, menus, and instantly redeemable deals.

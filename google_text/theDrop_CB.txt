@@ -1,0 +1,1 @@
+theDrop is a music discovery application that sends alerts when its users' favorite bands release new music and announce concerts.

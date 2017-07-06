@@ -1,0 +1,1 @@
+Crowdmark is a web application with a paper-to-cloud bridge and a marking workflow that streamlines document assessment.

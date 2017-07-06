@@ -1,0 +1,1 @@
+Our algorithm correctly predicts what will happen on the spread 54.65% of the time. That's a crushing edge in a $1T annual market.

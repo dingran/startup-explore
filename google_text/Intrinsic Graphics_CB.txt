@@ -1,0 +1,1 @@
+Intrinsic Graphics provides developers and artists a powerful, more efficient way to create games, and to do it across multiple systems.

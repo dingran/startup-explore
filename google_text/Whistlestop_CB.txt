@@ -1,0 +1,1 @@
+Whistlestop is an aggregator of political data from multiple social media sources including Twitter and Facebook.

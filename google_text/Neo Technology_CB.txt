@@ -1,0 +1,1 @@
+Neo Technology is a privately held company that creates a graph database called Neo4j.

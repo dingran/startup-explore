@@ -1,0 +1,1 @@
+Spreedly is a cloud-based credit card vault that allows users to work with multiple payment gateways simultaneously.

@@ -1,0 +1,1 @@
+AppCentral is a mobile application management solution providing enterprise control over proprietary mobile apps and data.

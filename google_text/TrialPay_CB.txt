@@ -1,0 +1,1 @@
+TrialPay is an offer-based payments platform enabling customers to pay for one item by trying or buying something else.

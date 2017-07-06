@@ -1,0 +1,1 @@
+Adioso is a travel search and booking app that allows users to get information on destinations, deals, planning and booking their trips.

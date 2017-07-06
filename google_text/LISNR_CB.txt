@@ -1,0 +1,1 @@
+LISNR is a high frequency, inaudible Smart Tone technology; a new communication protocol that sends data over audio.

@@ -1,0 +1,1 @@
+Splice Machine is disrupting the $30 billion traditional database world with the open-source dual-engine RDBMS for mixed workloads.

@@ -1,0 +1,1 @@
+appbackr is an online platform that indexes and evaluates Android apps to provide its clients with personalized insights.

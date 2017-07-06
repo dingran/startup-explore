@@ -1,0 +1,1 @@
+Buffer helps users share social media content by scheduling online posts throughout the day.

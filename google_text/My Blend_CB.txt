@@ -1,0 +1,1 @@
+Blendapp provides a mobile messaging app that can be used for group video chat.

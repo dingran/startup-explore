@@ -1,0 +1,1 @@
+Vlingo is a virtual assistant that uses voice-to-text technology and NLP to understand the user's intent and take appropriate action.

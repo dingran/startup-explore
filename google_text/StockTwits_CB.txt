@@ -1,0 +1,1 @@
+StockTwits is a real-time financial communications platform for the financial and investing community.

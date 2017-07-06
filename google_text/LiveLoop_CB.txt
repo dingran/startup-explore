@@ -1,0 +1,1 @@
+LiveLoop is a PowerPoint plugin and a hosted service that enables real-time cloud-based collaboration for PowerPoint users.

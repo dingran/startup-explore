@@ -1,0 +1,1 @@
+CredSimple is an NCQA certified credentialing and provider data management solution.

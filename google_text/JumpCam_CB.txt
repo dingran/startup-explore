@@ -1,0 +1,1 @@
+Jumpcam is a mobile app that creates collaborative videos by compiling multiple videos into a single clip.

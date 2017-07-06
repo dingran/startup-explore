@@ -1,0 +1,1 @@
+Fulfil.IO helps retailers send automated inventory levels to the different channels and aggregates order from the different channels to one central system.

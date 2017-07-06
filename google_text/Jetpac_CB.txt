@@ -1,0 +1,1 @@
+Jetpac is a photo app that enables users to collect photos shared by Facebook friends of places they want to visit.

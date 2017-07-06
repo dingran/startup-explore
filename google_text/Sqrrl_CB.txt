@@ -1,0 +1,1 @@
+Sqrrl provides a big data analytic tool for detecting, investigating, and visualizing advanced cybersecurity threats.

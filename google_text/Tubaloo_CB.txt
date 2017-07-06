@@ -1,0 +1,1 @@
+Tubaloo provides VoIP services through its mobile app that enables its users to make calls using Wi-Fi and public data networks.

@@ -1,0 +1,1 @@
+GlassUp develops augmented reality (AR) eyeglasses that display incoming messages by connecting to a smartphone via bluetooth.

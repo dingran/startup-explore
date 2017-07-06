@@ -1,0 +1,1 @@
+Twine is a mobile data platform that works with app publishers who generate mobile data & the companies who need data for ad targeting.

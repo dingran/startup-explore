@@ -1,0 +1,1 @@
+Agentdesks is a mobile first networking platform for Real Estate Agents powered by a CRM.

@@ -1,0 +1,1 @@
+QuanTemplate is a data management and analytics platform built specifically for the complex needs of the insurance and reinsurance industry.

@@ -1,0 +1,1 @@
+Profitably is a web application that analyzes and interprets QuickBooks data to generate a list of recommendations for business improvement.

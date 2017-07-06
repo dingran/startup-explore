@@ -1,0 +1,1 @@
+Seer is an intelligent desktop app that highlights important details across email and cloud services to increase team productivity.

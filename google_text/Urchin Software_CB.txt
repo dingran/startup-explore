@@ -1,0 +1,1 @@
+Urchin Software analyzes web server log file content to generate traffic reports based on the log data.

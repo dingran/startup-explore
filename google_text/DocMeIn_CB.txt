@@ -1,0 +1,1 @@
+DocMeIn is an online appointment management service for medical practices, providing reminders, scheduling, and patient self-services.

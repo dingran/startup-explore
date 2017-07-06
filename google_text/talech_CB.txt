@@ -1,0 +1,1 @@
+talech is a POS system that provides merchants with analytics and insights.

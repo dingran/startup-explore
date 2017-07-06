@@ -1,0 +1,1 @@
+Pathflow is a business intelligence system that analyzes customers' behavior in stores to quantitatively measure their shopping experience.

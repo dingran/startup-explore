@@ -1,0 +1,1 @@
+Buzzient is a SaaS application that enables enterprise business integration with social media such as Twitter, YouTube, Facebook and others.

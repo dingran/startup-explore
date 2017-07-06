@@ -1,0 +1,1 @@
+Architexa provides a tool suit to help developers understand and document Java code bases within the Eclipse IDE.

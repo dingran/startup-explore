@@ -1,0 +1,1 @@
+Storie is a mobile (iOS) blogging platform where users express themselves through stories told through a series of pictures.

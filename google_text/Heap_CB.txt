@@ -1,0 +1,1 @@
+Heap provides analytics infrastructure to automate away the annoying parts of user analytics.

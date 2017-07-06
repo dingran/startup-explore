@@ -1,0 +1,1 @@
+Kinvey is a BaaS provider that makes it easy for developers to set up, use, and operate a cloud back-end for their mobile apps.

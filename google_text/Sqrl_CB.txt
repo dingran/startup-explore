@@ -1,0 +1,1 @@
+Sqrl is a web application that enables companies, startups, and enterprises to keep a track of client information and communication.

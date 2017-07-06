@@ -1,0 +1,1 @@
+Voodoo Manufacturing is building a virtualized manufacturing service on top of a networked cluster of low-end 3D printers.

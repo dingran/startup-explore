@@ -1,0 +1,1 @@
+SubtleData connects mobile apps with point-of-sale (POS) systems to facilitate payment and order activities.

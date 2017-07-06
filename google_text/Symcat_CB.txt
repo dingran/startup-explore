@@ -1,0 +1,1 @@
+Symcat uses medical data to allow users to check their symptoms against potential diagnoses and plan medical care if necessary.

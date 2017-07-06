@@ -1,0 +1,1 @@
+TouristEye is a mobile application that enables users to collect destinations and activities to plan their trips and weekend getaways.

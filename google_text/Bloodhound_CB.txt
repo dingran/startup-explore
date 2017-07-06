@@ -1,0 +1,1 @@
+Bloodhound provides a mobile app for lead retrieval and event planning at trade shows and conferences.

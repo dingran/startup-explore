@@ -1,0 +1,1 @@
+KeyMe allows users to store, share and duplicate their physical keys based on a digital scan that is securely stored in the cloud.
