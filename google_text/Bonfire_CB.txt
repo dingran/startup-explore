@@ -1,0 +1,1 @@
+Bonfire is the developer of a browser plugin that allows users to chat on Twitter.

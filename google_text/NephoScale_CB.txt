@@ -1,0 +1,1 @@
+NephoScale developed NephOS, the only turnkey OpenStack-based IaaS software stack for building public, private, and hybrid clouds, in hours.

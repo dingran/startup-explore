@@ -1,0 +1,1 @@
+LaunchGram is a web platform enabling users to follow and get updates on products and initiatives that have yet to be released or completed.

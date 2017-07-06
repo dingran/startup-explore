@@ -1,0 +1,1 @@
+BuyerDeck provides a portal for sales reps to manage deals with their buyer.

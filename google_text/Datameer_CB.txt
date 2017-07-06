@@ -1,0 +1,1 @@
+Datameer provides business users with an end-to-end big data analytics application native for Hadoop.

@@ -1,0 +1,1 @@
+Evomail is a mobile email client with features such as intuitive gestures, push notifications, folders and labels.

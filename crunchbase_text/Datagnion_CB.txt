@@ -1,0 +1,2 @@
+Datagnion aggregates, filters and analyses public Facebook data such as postings, status updates or comments. These analyses will be delivered through a powerful API to clients and can easily be integrated into mobile apps, media monitoring systems and other applications.
+Datagnion’s goal is to empower media monitoring and business intelligence companies with better insights.

@@ -1,0 +1,1 @@
+PopShops is a product datafeed aggregator with a database of affiliate retail products available to publishers and website niche-builders.

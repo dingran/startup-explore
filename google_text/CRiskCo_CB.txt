@@ -1,0 +1,1 @@
+CRiskCo provide fraud detection and credit management platform for vendors and FI's using Artificial Intelligence and behavior analyses.

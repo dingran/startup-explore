@@ -1,0 +1,1 @@
+Zillabyte is a cloud platform for data analysis. Build apps, not infrastructure.

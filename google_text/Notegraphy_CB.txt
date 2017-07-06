@@ -1,0 +1,1 @@
+Notegraphy is a web and mobile application that enables users to stylize their text.

@@ -1,0 +1,1 @@
+Brewbot is a smart brewing appliance that that enables its users to brew their own beer.

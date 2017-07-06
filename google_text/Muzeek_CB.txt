@@ -1,0 +1,1 @@
+Muzeek is a web application that assists in organizing the booking of live music acts.

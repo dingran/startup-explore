@@ -1,0 +1,1 @@
+TrunqShow is a personalized shopping application for iPads allowing shoppers to discover and track sales activities.

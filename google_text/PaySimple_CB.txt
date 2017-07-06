@@ -1,0 +1,1 @@
+PaySimple provides a SaaS-based online payment solution that offers integrated invoicing and payment acceptance in one system.

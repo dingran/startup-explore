@@ -1,0 +1,1 @@
+HireVue is a digital recruiting platform for hiring via predictive analytics and video.

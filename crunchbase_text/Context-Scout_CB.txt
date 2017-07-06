@@ -1,0 +1,2 @@
+Context Scout is a research-led software company developing new information retrieval and machine learning based approaches for automated professional assistance and knowledge work.
+For professional knowledge workers, like sales personnel, recruiters, marketers, investors, and analysts, using general search tools to find and analyse information is time consuming, with the average knowledge worker spending around 19 hours per week on search and analysis tasks. We aim to simplify the capture of such knowledge work, while making it more accessible and useful.
