@@ -1,0 +1,1 @@
+Dgraph is an open source, low-latency, high throughput, native and distributed graph database.

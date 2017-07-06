@@ -1,0 +1,1 @@
+StreetPin is an application focused on keeping communities active by showing users about community events.

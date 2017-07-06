@@ -1,0 +1,1 @@
+Bumpn is a location based social network for student communities.

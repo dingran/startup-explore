@@ -1,0 +1,1 @@
+FireStop is a cloud-based response software that helps firefighters share critical response information and leverage data in real time.

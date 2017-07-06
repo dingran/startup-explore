@@ -1,0 +1,1 @@
+All-in-one platform for voice-activated advertising, enabling voice interaction with ads on mobile and Alexa-like platforms.

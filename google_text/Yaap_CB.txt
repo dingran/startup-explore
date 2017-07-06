@@ -1,0 +1,1 @@
+For business analysts and data scientists, Yaap provides a platform to automate report generation, and simplify data mining.

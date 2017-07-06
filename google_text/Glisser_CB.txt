@@ -1,0 +1,1 @@
+Glisser provides interactive presentation software that pushes slides to audience devices and integrates voting, questions, and feedback.

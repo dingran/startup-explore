@@ -1,0 +1,1 @@
+Sqreen is an automated and real-time security solution for developers.

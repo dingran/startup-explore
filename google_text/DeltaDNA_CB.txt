@@ -1,0 +1,1 @@
+DeltaDNA provides real-time player relationship management solutions for the deep-dive data analysis of player data.

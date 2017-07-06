@@ -1,0 +1,1 @@
+Efflux is the first scalable cybersecurity hunting platform to simplify and automate traditionally manual analytics.

@@ -1,0 +1,1 @@
+PennyCat serves as a chatbot for Facebook Messenger to find coupon discounts in a second.

@@ -1,0 +1,1 @@
+Beautifeye is an image analysis SaaS platform capable of automatically extracting marketing insights from social network photos.

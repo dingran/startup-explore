@@ -1,0 +1,1 @@
+AI News Engine that tells you what's happening NOW about any person, place, or thing! And provides Trending & Sentiment scores.

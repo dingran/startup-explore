@@ -1,0 +1,1 @@
+Capio is Smart Automatic Speech Recognition (ASR) solution is built to transform human-to-machine communication.

@@ -1,0 +1,1 @@
+SlideIn is an event search and ticketing app that gives you pre-event analytics.

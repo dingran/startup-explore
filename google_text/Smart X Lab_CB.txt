@@ -1,0 +1,1 @@
+Smart X Lab enables large scale IoT using an unique mesh network technology and a real-time web API.

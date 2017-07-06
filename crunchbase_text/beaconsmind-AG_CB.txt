@@ -1,0 +1,3 @@
+beaconsmind AG, based in Zurich, Switzerland, realizes Beacon strategies and their implementation for offline locations of brands and retailers.
+The first full service provider for iBeacon technology offers from a single source: Beacon on-site deployment, mobile app development, push notification creation as well as ongoing data analysis and revenue optimizations via the beaconsmind system.
+beaconmind’s services and solutions drive retail sales sustainably, support new customer acquisition and customer loyalty and successfully link offline retail locations with online shops.

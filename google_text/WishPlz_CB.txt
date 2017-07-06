@@ -1,0 +1,1 @@
+WishPlz is an online service that enables its users to bookmark a product on a website to get an alert when the price drops.

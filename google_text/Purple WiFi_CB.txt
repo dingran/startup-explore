@@ -1,0 +1,1 @@
+Purple is a WiFi social login and location analytics platform.

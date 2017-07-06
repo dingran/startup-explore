@@ -1,0 +1,1 @@
+Quantitative Medicine is a medical platform that is used to construct, assess, validate, and deploy drug models.

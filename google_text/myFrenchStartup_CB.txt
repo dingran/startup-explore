@@ -1,0 +1,1 @@
+MyFrenchStartup is a data-driven platform with enhanced information about the French Startups Ecosystem.

@@ -1,0 +1,1 @@
+goOut Map is a mobile application that enables users to find nearby events based on their interests.

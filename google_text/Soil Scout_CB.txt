@@ -1,0 +1,1 @@
+Soil Scout does what no one has done before: sending data signals out of the ground wirelessly, from much deeper than previously possible.

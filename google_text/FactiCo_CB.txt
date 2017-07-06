@@ -1,0 +1,1 @@
+FactiCo is a media outlet that uses geolocation on smartphones to report on news and events in Mexico.

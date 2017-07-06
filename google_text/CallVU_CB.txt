@@ -1,0 +1,1 @@
+When calling customer-care, CallVU automatically opens a visual layer on the phone's screen. Everything you hear, you now see.

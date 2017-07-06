@@ -1,0 +1,1 @@
+Politapoll is a system that allows citizens to engage with and monitor their legislatures via a mobile app.

@@ -1,0 +1,1 @@
+Scaffold is a data-based decision making platform for human resource management services.

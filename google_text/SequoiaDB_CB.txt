@@ -1,0 +1,1 @@
+SequoiaDB is a New Generation NewSQL database.

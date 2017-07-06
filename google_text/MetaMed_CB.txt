@@ -1,0 +1,1 @@
+MetaMed is a medical database that provides detailed reports on potential causes, possible treatments, and their chances of success.

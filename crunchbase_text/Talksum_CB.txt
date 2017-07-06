@@ -1,0 +1,1 @@
+Talksum, Inc. provides high-speed data processing and management solutions that offer new ways of processing, routing, and managing Big Data. The Talksum Data Stream Router provides a real-time streaming data solution aimed at Big Data initiatives that require massive amounts of data processing.

@@ -1,0 +1,1 @@
+Street Dash provides solutions for managing both internal and external business data through visualizations, interactive dashboards, and shared databases.

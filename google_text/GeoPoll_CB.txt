@@ -1,0 +1,1 @@
+GeoPoll is an open mobile polling platform that allows researchers to conduct surveys through their mobile phones.

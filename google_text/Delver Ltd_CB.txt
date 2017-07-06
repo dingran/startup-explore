@@ -1,0 +1,1 @@
+Delver is a platform for natural language interfaces.

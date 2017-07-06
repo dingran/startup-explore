@@ -1,0 +1,1 @@
+Gyroscope is an online platform that enables individuals to maintain a personal dashboard for health analytics.

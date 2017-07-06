@@ -1,0 +1,1 @@
+Eventifier is a Bangalore-based startup that aggregates and creates archives of social media content from conferences.

@@ -1,0 +1,1 @@
+Dreambit is a personalized image search engine. Given one or more photos and a text query, it outputs versions of the input person in the query appearance.

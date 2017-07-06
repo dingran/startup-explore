@@ -1,0 +1,1 @@
+EventForte is a cloud-based event management solution for organizers, venues and attendees, integrated with data science technology.

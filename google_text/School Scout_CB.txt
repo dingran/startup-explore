@@ -1,0 +1,1 @@
+School Scout is a search engine that allows parents to locate a school, learn about its features, and schedule a tour.

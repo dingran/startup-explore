@@ -1,0 +1,1 @@
+QuerySurge is the leading Data Testing solution that automates the testing of Big Data & Data Warehouses and provides 100% data validation.

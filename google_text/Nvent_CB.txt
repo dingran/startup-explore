@@ -1,0 +1,1 @@
+Nvent is a consulting company focused on BigData/Hadoop ecosystem in strategy/management, data engineering, data science, visualization.

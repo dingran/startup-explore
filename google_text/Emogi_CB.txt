@@ -1,0 +1,1 @@
+Emogi is a visual messaging platform that intelligently integrates emoji, stickers, and GIFs to enrich consumer conversations.

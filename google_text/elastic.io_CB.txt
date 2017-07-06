@@ -1,0 +1,1 @@
+elastic.io is a hybrid integration platform for its users' SaaS, IoT, and mobile projects.

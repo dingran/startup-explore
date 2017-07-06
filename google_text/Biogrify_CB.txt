@@ -1,0 +1,1 @@
+Biogrify is a web-based app that allows individuals to create interactive infographics about their lives.

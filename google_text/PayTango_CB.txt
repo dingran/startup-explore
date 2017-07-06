@@ -1,0 +1,1 @@
+PayTango provides biometric identification for payments and access control applications.

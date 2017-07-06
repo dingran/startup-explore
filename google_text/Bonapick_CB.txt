@@ -1,0 +1,1 @@
+Bonapick is a social shopping service that allows users create polls for products. ... Is provides social shopping platforms for users to create polls, where they compare different products from different online retailers (such as Amazon, Zappos, eBay, Nordstrom, Fancy, and other).

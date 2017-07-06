@@ -1,0 +1,1 @@
+MoID detects users' encounters with other users and allows them to exchange contact information with them.

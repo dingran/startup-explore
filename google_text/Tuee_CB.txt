@@ -1,0 +1,1 @@
+Tuee is a tablet-based guest relationship management (GRM) tool for service-based businesses like restaurants.

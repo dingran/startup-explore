@@ -1,0 +1,1 @@
+Hiptype provides analytics and advertising capabilities to eBook platforms.

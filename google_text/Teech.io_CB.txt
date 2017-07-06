@@ -1,0 +1,1 @@
+Teech.io is a full stack edtech platform intended for developers to build educational applications for the mobile and web.

@@ -1,0 +1,1 @@
+MessageMe is a mobile messenger application enabling users to personalize their messages and connect with others.

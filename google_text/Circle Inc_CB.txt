@@ -1,0 +1,1 @@
+Circle is an app that notifies users when their friends or people from their networks are nearby.

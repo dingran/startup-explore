@@ -1,0 +1,1 @@
+RiskSystem is a cloud-based financial risk system that provides the management of investment entities with comprehensive risk intelligence.

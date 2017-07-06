@@ -1,0 +1,1 @@
+Mind the Byte is a bioinformatics company specializing in computational drug design using a pay-per-use SaaS platform.

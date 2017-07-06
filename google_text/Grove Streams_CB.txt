@@ -1,0 +1,1 @@
+GroveStreams is cloud-based Data Analytics platform for the Internet of Things that provides real-time decision making capabilities to users and devices.

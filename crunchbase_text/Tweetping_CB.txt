@@ -1,0 +1,1 @@
+Early stage start up, Tweetping is a tool to measure/track sentiment through Twitter hashtags and keywords in real time on a global and hyper local level through a map with a customizable UI and dashboard.

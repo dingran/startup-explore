@@ -1,0 +1,1 @@
+Koalify is a fully-automated personal analytics tool that enables users to track, back up, and download records of their digital history.

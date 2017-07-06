@@ -1,0 +1,3 @@
+MobileReady provides a test run campaign that enables its users to run various applications on selected mobile phones.
+It helps developers to run their applications on various smartphone brands without the need to buy them all for mobile testing and get screenshots and execution reports within minutes.
+MobileReady platform is currently in public beta.

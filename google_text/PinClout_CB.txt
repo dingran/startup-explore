@@ -1,0 +1,1 @@
+PinClout is a Pinterest analytics tool that allows its users to monitor trends, understand activities, and estimate impact.

@@ -1,0 +1,1 @@
+Curb Surf is an application that reports the locations of potentially useful items left out as trash.

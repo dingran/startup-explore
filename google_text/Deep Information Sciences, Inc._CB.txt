@@ -1,0 +1,1 @@
+Deep has built the world's only adaptive MySQL database designed for complex, data-intensive physical, virtual and cloud environments.

@@ -1,0 +1,5 @@
+ClearData Analytics, is a startup that provides pure-play analytics solutions to large businesses.
+The company uses is a consulting-led approach to understand the areas of decision-gaps and uses data analytics to overcome challenges.
+ClearData focuses on providing market analytics, enterprise analytics and data visualization as the three dimensions of its solutions portfolio. It helps companies traverse the journey from managing their data, to generating intelligence from it, ultimately providing them predictive and decision-centric insights
+The company is presently developing applications that help companies implement rapid business intelligence and enables access to BI on-the-go through its own Mobile BI product.
+To find out more about ClearData, its portfolio of services, engagement approach and the organizational thought process, please visit http://clear-data.in

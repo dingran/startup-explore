@@ -1,0 +1,1 @@
+OPI is an analytics platform that leverages on external and operational data to develop vertical solutions for complex business problems.

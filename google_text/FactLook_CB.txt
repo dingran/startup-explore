@@ -1,0 +1,1 @@
+FactLook turns data into images. Results complex enough for hardcore GIS users, with a UI so intuitive it can be used in a child's homework.

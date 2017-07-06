@@ -1,0 +1,1 @@
+Hammer is a mobile app platform for sharing an image and receiving opinions.

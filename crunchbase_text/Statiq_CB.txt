@@ -1,0 +1,2 @@
+At Statiq we believe that real world behaviours, such as where a person lives, works and visits provides the most powerful indication of their lifestyle interests and intent.
+Statiq provides a suite of analytics and targeting capabilities for digital marketers available via our UI and API’s.

@@ -1,0 +1,1 @@
+SaaS app for social content creation, curation and distribution.

@@ -1,0 +1,1 @@
+SnapLayout is a MySpace profile editor that enables users to better customize their personal page.

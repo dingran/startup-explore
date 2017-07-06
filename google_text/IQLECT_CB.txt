@@ -1,0 +1,1 @@
+IQLECT aims to provide products and solutions in the data space for enabling BigData analysis in RealTime.

@@ -1,0 +1,1 @@
+PROSimity is a single screen app with a timeline that shows people the professionals around them, and connects them with them if they are both interested.

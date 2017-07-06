@@ -1,0 +1,9 @@
+Elasticera is a provider of a cloud based dynamic imaging service.
+With Elasticera you can
+
+Increase visitors through search engine optimisation of images. Elasticera can increase organic traffic by approximately 5%.
+Increase conversion by reducing page load times through intelligent compression of images. Images typically make up 50% of requests / bytes on a page. Elasticera can reduce the size of images by 30-60% thereby significantly reducing page weight.
+Increase conversion by delivering content faster no matter where a websites customers are in the world. Elasticera includes a super fast CDN (Content Delivery Network).
+Improve repeat visitor experience through intelligent caching.
+Improve multichannel experience by optimising images by channel
+

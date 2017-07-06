@@ -1,0 +1,1 @@
+Semeon is a social media analytics tool that combines the best semantic, sentiment, and intent analysis to create actionable insights.

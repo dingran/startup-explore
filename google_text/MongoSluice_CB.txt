@@ -1,0 +1,1 @@
+MongoSluice interrogates a MongoDB collection and builds a full, deep schema in memory. It then streams data out of NoSQL into any RDBMS datastore.

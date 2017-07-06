@@ -1,0 +1,1 @@
+SolveBoard develops web-based software that allows users to collaborate visually using models.

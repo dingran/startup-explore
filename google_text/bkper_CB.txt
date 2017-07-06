@@ -1,0 +1,1 @@
+Bkper is a bookkeeping app for Google Sheets capable of doing charts, analyzations, balances and statements.

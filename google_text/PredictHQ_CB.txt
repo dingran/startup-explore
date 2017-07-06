@@ -1,0 +1,1 @@
+PredictHQ is a new global business intelligence platform. It's built on aggregated global scheduled and real-time event data.

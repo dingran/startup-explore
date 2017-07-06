@@ -1,0 +1,1 @@
+CoRate is a Chrome rating system that lets researchers set quality expectations on articles from metrics management and crowdsourcing.

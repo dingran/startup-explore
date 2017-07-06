@@ -1,0 +1,1 @@
+Data Fellas is an IT solutions company that focuses on computing and advanced analytics, leveraging Scala, Spark, and other distributed technologies.

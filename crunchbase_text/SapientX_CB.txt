@@ -1,0 +1,2 @@
+SapientX is a conversational AI platform that allows for natural conversation with users coupled with the AI driven bot builder. It allows its users use their own photos and it runs on all platforms. It can be used in Amazon EC2 and it is HTML5 friendly.
+SapientX is a U.S.-based company that was founded in 2016 by David Colleen, Hira Nasir Kahn, Hira Nasir Kahn, and Nicole Sallak Anderson.

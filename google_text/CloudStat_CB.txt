@@ -1,0 +1,1 @@
+CloudStat provides a package of commercial services for developers and partners to build, host, market and deliver analytics apps.

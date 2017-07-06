@@ -1,0 +1,1 @@
+Deep Glint is a computer vision startup providing 3D image analysis and pattern recognition technologies for mission-critical applications.

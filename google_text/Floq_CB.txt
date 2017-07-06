@@ -1,0 +1,1 @@
+Floq is an online benchmarking and recommendations platform to ask questions, gather real-time feedback, and compare results.

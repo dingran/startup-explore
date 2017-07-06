@@ -1,0 +1,1 @@
+Lygics is a voice recognition software for medical professionals.

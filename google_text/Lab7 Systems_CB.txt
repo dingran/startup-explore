@@ -1,0 +1,1 @@
+Lab7 Systems provides a workflow management software platform for companies using data-intensive scientific techniques.

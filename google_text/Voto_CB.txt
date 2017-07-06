@@ -1,0 +1,1 @@
+Voto is a social network that allows users to post and vote on each other's photos.

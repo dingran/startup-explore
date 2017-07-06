@@ -1,0 +1,1 @@
+Bevy has been created as a map with people, events and business opportunities in your neighborhood.

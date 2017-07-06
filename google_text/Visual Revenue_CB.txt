@@ -1,0 +1,1 @@
+Visual Revenue is a real-time predictive analytics platform developing a suite of tools providing decision support for editors content.

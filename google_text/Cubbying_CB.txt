@@ -1,0 +1,1 @@
+Cubbying is a web and mobile service that gathers and organizes content gathered from a person's social media networks.

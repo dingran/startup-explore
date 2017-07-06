@@ -1,0 +1,1 @@
+Illuminate360 provides turnkey predictive applications via its Insight Factory cloud platform for advanced big data analytics.

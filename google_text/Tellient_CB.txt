@@ -1,0 +1,1 @@
+Analytics for the Internet of Things. Tellient collects data from connected devices and transforms it into useful information.

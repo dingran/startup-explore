@@ -1,0 +1,1 @@
+NeedTagger is a data mining and marketing platform that mines public social networks for commercial intent.

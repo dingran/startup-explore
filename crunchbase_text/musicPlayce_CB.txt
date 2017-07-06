@@ -1,0 +1,8 @@
+musicPlayce is a free mobile app that is all about discovering new Music, Places and Friends in your city and across the globe based on the music you like. 
+What does musicPlayce do? 
+///  Share your favorite music on Facebook and Twitter as well as Check-in on Foursquare.
+///  Check out the music your friends are listening to now.
+///  â€œTag A Songâ€ to create the playlist of your favorite places.
+///  Use music â€œMatchâ€ to find new Friends and Places that match your music style.
+///  Start a music scavenger â€œHuntâ€ and earn badges and other prizes.
+///  Discover music that is â€œTrendingâ€ near your location and Tag Songs to trend up your favorites.

@@ -1,0 +1,1 @@
+Seamless.li lets you see where you car is through our app. Our device plugs into your car and continuously updates our cloud servers as to the status of your car.

@@ -1,0 +1,1 @@
+BuildingOps connects building managers with service providers through real-time bidding.

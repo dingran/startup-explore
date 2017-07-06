@@ -1,0 +1,1 @@
+ZeneScene offers a location-based mobile application that enables its user to find information and images about events.

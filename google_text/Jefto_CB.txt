@@ -1,0 +1,1 @@
+Jefto is an analytical marketing tool which analyze the data of an event and makes it easy for a marketing manager to make a decision of sponsorship to events.

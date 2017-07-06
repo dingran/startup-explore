@@ -1,0 +1,1 @@
+TriNetX is building upon an existing big data platform to optimize clinical trial design and recruitment processes.

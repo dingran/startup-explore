@@ -1,0 +1,1 @@
+SimpliFly App is an e-commerce application that enables its users to browse and buy airport retail products.

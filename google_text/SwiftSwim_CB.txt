@@ -1,0 +1,1 @@
+SwiftSwim is a mobile application that uses AI to identify its users' styles and performance.

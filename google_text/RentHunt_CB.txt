@@ -1,0 +1,1 @@
+RentHunt helps people find apartment rentals through text message.

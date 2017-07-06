@@ -1,0 +1,1 @@
+goGeo is an online platform that offers geographic visualizations, geo spatial services, and geo data analytics.

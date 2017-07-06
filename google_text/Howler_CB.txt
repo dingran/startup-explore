@@ -1,0 +1,1 @@
+Howler is a real time advertising platform that allows stores and restaurants to send deals to consumers as they pass storefronts.

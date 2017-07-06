@@ -1,0 +1,1 @@
+Parle is a browser extension that curates and pins discussions on relevant sites across the web from sources like Reddit and Hacker News.

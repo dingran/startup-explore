@@ -1,0 +1,1 @@
+Cognilyze is a psychology-based, motivation driven recommendations engine, providing recommendations for individual shoppers.

@@ -1,0 +1,1 @@
+JASK creates an AI-based security operations platform that helps security teams to find and mitigate cyber threats.

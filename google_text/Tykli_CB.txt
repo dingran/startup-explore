@@ -1,0 +1,1 @@
+Tykli develops cloud-based technologies for big data analysis, exploratory search, information retrieval, and linked data integration.

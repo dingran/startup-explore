@@ -1,0 +1,1 @@
+The Pixamid iPhone app automatically shares photos with an ad hoc network based on location, and organizes a user's photos.

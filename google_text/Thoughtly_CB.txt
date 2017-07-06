@@ -1,0 +1,1 @@
+Thoughtly leverages machine learning and natural language processing for the automated analysis, visualization and summarization of text.

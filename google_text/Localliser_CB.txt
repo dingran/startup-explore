@@ -1,0 +1,1 @@
+Localliser is a Geobrowser, that is innovating how we browse maps and integrating Location-based Social Networks.

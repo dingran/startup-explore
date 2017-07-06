@@ -1,0 +1,1 @@
+Improvisu is a schedule coordination tool offering suggestions for locations and times based on its users' friends availability.

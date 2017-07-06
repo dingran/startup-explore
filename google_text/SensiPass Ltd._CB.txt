@@ -1,0 +1,1 @@
+Sensipass replaces passwords with personal, intuitive interactions with biometrics for more usable and secure authentication.

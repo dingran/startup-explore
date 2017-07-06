@@ -1,0 +1,1 @@
+Jethro is an analytics database combining the scalability of Hadoop HDFS with a fully indexed columnar database.

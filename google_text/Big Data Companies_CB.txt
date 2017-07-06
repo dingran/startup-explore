@@ -1,0 +1,1 @@
+MetaScale is a big data consulting and solutions provider offering services and training for hadoop, spark and associated analytics.

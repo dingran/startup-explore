@@ -1,0 +1,1 @@
+Cloud Elements is a cloud API integration service that uses uniform APIs to connect your application with entire categories of services.

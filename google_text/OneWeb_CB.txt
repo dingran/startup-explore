@@ -1,0 +1,1 @@
+OneWeb deploys a micro-satellite constellation to provide global high-speed, low latency broadband access.

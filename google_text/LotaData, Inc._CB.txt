@@ -1,0 +1,1 @@
+LOTADATA transforms time, place, activity into actionable context, insights and segments for mobile analytics and business intelligence.

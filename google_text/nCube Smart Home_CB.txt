@@ -1,0 +1,1 @@
+nCube is a Smart Home hub and app that integrates many smart devices together into one unified experience.

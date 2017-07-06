@@ -1,0 +1,2 @@
+Founded in 2011 by Fabien Poulard (PhD in Computer Science, automated language processing), Dictanova has developed a cloud based platform that provides text analytics and sentiment analysis services, for all companies who need to understand their customers.
+This platform allows marketing and customer experience professionals to explore and analyze thousand of client feedbacks in a few minutes. Customer feedback analysis provides keys to understand clients needs, and  identify the subjects of tension in the customer experience as well as the delighting factors.

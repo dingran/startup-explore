@@ -1,0 +1,1 @@
+Simularity's software does real time artificial intelligence for the IoT. Primary use case: predictive maintenance, incident prediction, and anomaly detection.

@@ -1,0 +1,1 @@
+Crate.io creates an open source SQL database with integrated search for storing and analyzing IoT and machine data in real time.

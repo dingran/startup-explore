@@ -1,0 +1,1 @@
+An image recognition technology with the aim to connect print readers with the world's largest brands through an application or a chatbot.

@@ -1,0 +1,1 @@
+NLP Logix provides machine learning as a service by building predictive models for clients to identify trends and momentum within big data.

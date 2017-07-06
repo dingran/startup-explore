@@ -1,0 +1,1 @@
+Black Tag is a personal shopping platform that saves users' preferences and finds products based on their profile.

@@ -1,0 +1,1 @@
+GiftAMeal is a mobile application that donates a meal to someone in need each time a user takes a photo at a partner restaurant.

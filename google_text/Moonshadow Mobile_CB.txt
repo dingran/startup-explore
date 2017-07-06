@@ -1,0 +1,1 @@
+Moonshadow shrinks the footprint of Big Data by 90% and increases data access speed 100 times to realize huge data warehouse savings.

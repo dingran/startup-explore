@@ -1,0 +1,1 @@
+UserMojo is an emotion analytics platform that measures user experience to help site owners optimize their operations.

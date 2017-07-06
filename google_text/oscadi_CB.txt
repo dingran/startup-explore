@@ -1,0 +1,1 @@
+OSCULT by Oscadi is a handheld ultrasound imaging device interfaced with the Apple iPad.

@@ -1,0 +1,1 @@
+SYNQ has developed a video API, offering access to scalable video infrastructure, including storage, transcoding and content delivery.

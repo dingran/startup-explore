@@ -1,0 +1,1 @@
+Times Twenty Five is capable of integrating big data generated and processed by sources and presents them.

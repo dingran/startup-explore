@@ -1,0 +1,1 @@
+Create a URL with EntourageBox to invite friends. Your friends visit the URL and can easily upload files to your cloud storage (Dropbox or Google Drive).

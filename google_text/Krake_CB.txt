@@ -1,0 +1,1 @@
+Krake helps users automate recurring extraction of information from listings found online.

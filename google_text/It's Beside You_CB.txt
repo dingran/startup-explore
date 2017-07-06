@@ -1,0 +1,1 @@
+It's Beside You is app which uses geo location based services to connect people with job vacancies.

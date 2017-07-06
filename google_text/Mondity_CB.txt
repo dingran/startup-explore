@@ -1,0 +1,1 @@
+Mondity is the world first geosearch engine. It geocodes webpages and returns search results based on your location. No SEO required.

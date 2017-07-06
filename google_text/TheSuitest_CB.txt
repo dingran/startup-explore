@@ -1,0 +1,1 @@
+TheSuitest is an analytics platform that crunches unstructured lodging data to create actionable insights for travelers, travel distributors, and hoteliers.

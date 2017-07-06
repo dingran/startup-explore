@@ -1,0 +1,1 @@
+Quryon provides a real-time search and analysis service for consumer queries that result in meaningful answers.

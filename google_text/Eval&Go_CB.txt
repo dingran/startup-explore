@@ -1,0 +1,1 @@
+Jun 6, 2017 - The eval() function evaluates JavaScript code represented as a string. ... The argument of the eval() function is a string. ... Do not call eval() to evaluate an arithmetic expression; JavaScript evaluates arithmetic expressions automatically.

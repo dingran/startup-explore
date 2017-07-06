@@ -1,0 +1,1 @@
+Mobile platform serving to measure and track social engagement.

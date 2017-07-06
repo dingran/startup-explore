@@ -1,0 +1,1 @@
+Empath is a backend API that helps developers code less and focus more on creating great wearable apps.

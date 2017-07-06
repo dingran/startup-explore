@@ -1,0 +1,1 @@
+Wikisway develops visualization software that reflects how people, places and things are connected via interactive graphs.

@@ -1,0 +1,1 @@
+Neomatix is an Israeli startup; developing automated tire monitoring solutions for vehicles based on advanced computer vision and machine learning algorithms.

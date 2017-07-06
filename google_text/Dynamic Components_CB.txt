@@ -1,0 +1,1 @@
+Dynamic Components offers with SensorLink a solution to interconnect machines as well as extraction and monitoring of machine data.

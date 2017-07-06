@@ -1,0 +1,1 @@
+HDScores aggregates static health inspection data from public and private sources and standardizes it for consumers.

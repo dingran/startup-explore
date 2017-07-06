@@ -1,0 +1,1 @@
+A cloud-based data analytics platform for uncovering hidden trends in multidimensional data.

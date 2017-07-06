@@ -1,0 +1,3 @@
+HiOperator is a virtual assistant that answers phone calls, chats with customers, provides in-app help, takes orders, and provides support. The company’s solution portfolio includes brand messaging, e-commerce ordering, product support, call screening, and customer analytics. 
+HiOperator’s system can be integrated with a businesses’ current systems and is staffed by American opertors.
+HiOperator was launched by Phil Salesses and Elizabeth Tsai in May 2016 and is based in San Francisco, California.

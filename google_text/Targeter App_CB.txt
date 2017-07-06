@@ -1,0 +1,1 @@
+Targeter App is a behavioral targeting framework. It lets you create call to actions corresponding to user behavior. Examples: 1.

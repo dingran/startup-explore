@@ -1,0 +1,1 @@
+We are building a robo equity research analyst using AI and Alternative Data.

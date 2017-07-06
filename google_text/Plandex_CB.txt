@@ -1,0 +1,1 @@
+Plandex is a web-based application for search, evaluation and comparison of places based on quality of life indexes.

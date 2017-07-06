@@ -1,0 +1,1 @@
+Denote is a smart, fully managed and customizable search solution for websites and applications.

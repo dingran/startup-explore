@@ -1,0 +1,1 @@
+Zamus is a web-based social platform for free music distribution.

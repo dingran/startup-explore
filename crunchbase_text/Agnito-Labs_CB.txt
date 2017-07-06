@@ -1,0 +1,1 @@
+Uses analytics and machine learning to help people understand and change the way they communicate over email.

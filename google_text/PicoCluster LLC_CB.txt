@@ -1,0 +1,1 @@
+PicoCluster is a new learning tool designed to teach students and professionals how to use and program Big Data and distributed software.

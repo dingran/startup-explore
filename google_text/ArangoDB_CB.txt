@@ -1,0 +1,1 @@
+ArangoDB is an open-source database with a native multi-model approach. Documents, graphs and K/V in one core with one query language.

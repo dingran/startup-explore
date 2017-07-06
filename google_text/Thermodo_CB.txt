@@ -1,0 +1,1 @@
+A tiny thermometer that measures the temperature right where you are.

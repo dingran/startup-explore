@@ -1,0 +1,2 @@
+Tailored Fit is an online shopping service that provides users with recommendations for clothing they’ll like based on their past behavior. 
+As users like/dislike pieces of clothing Tailored Fit creates a detailed profile of their style, and makes suggestions based on that profile from online retailers. This profile will also enable a shopping app based on discovering clothing from stores nearby.

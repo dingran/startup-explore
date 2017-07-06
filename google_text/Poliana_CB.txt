@@ -1,0 +1,1 @@
+Poliana is a web application that simplies the legislative system by analyzing and visualizing money's inuence in politics.

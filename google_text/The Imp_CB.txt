@@ -1,0 +1,1 @@
+Electric Imp provides a secure IoT platform, connecting cloud services with the real world.

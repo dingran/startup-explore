@@ -1,0 +1,1 @@
+SigActs offers a location-based news API that makes geospatial data accessible and actionable.

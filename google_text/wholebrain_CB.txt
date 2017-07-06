@@ -1,0 +1,1 @@
+icometrix developed MSmetrix, which detects brain lesions, calculates lesion volume and measures the whole brain and grey matter volume and atrophy.

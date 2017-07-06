@@ -1,0 +1,1 @@
+GeoFrenzy enables applications and devices with geospacial context, in order to make autonomous decisions.

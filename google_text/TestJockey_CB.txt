@@ -1,0 +1,1 @@
+TestJockey is a beta testing and user analytics platform for mobile app developers that monitors the behavior of app users.

@@ -1,0 +1,1 @@
+Mapfia is a mobile application that allows users to share their location with others.

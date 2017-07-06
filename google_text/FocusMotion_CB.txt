@@ -1,0 +1,1 @@
+FocusMotion is a cross-platform, hardware-agnostic motion recognition system for developers that want to analyze user's movements.

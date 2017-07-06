@@ -1,0 +1,1 @@
+Acobot is a mobile device app that allows users to interact with their friends and a robot through text.

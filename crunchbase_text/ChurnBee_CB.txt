@@ -1,0 +1,4 @@
+What?
+Churn Bee is a SaaS metrics dashboard. Once integrated via an API, you will immediately start getting a visual representation of how is your startup making progress from day to day. We'll do all the math and number crunching - you will understand acquisition, activation, retention, growth and other relevant metrics for your startup.
+Why?
+Many startups end up building tools and dashboards internally. In fact all the successful startups do. Built by entrepreneurs, for entrepreneurs, Churn Bee will give you the actionable data you need so that you can focus on making the best decisions.

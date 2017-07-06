@@ -1,0 +1,1 @@
+SeatSync is a website where users can buy and sell tickets to events to each other.

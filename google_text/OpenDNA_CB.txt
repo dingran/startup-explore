@@ -1,0 +1,1 @@
+OpenDNA is a AI platform technology (leveraging M2M learning, NLP and Neural Networks) that builds dynamic user profiles.

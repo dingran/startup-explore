@@ -1,0 +1,1 @@
+Oliva Card is get card from shop and accumulate points & exchange them for rewards.

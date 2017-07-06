@@ -1,0 +1,1 @@
+Joberate is a Big Data search and analytics platform focused on recruitment and retention of talent.

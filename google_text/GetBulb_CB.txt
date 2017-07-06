@@ -1,0 +1,1 @@
+GetBulb is a browser based web application allowing the creation of big media infographics easily using one's data.

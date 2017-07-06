@@ -1,0 +1,1 @@
+Mostro aims to build an innovative solution for server monitoring.

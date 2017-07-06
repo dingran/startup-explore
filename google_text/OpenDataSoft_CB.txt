@@ -1,0 +1,1 @@
+OpenDataSoft is a cloud-based turnkey platform for data publishing and API management.

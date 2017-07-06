@@ -1,0 +1,1 @@
+Pingwyn, a location-based, mobile networking platform, enables users to share their location continuously without the need to check in.

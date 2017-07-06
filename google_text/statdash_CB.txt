@@ -1,0 +1,1 @@
+Statdash is a tool to view your team's status in a snapshot without ever having to call, email, or chat.

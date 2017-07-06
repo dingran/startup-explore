@@ -1,0 +1,1 @@
+MobiLuck is a mobile location-based social network allowing users find nearby friends, people and places.

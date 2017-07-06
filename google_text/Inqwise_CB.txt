@@ -1,0 +1,1 @@
+Inqwise is a surveying tool, enabling the users to create, deploy, and analyze surveys.

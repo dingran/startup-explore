@@ -1,0 +1,1 @@
+StradVision provides advanced object detection and recognition software to automotive industry.

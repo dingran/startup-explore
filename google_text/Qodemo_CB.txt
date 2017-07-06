@@ -1,0 +1,1 @@
+Qodemois a research and development lab for open hardware engineering. In 2015 they are launching few experimental tools for fablabs and makerspaces.

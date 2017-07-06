@@ -1,0 +1,1 @@
+KoolLearning is an e-learning platform that aggregates the authoring, consumption, distribution, and analytics of learning contents.

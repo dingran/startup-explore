@@ -1,0 +1,1 @@
+Estimote is a technology start-up, building a sensor-based context and micro-location platform for mobile developers.

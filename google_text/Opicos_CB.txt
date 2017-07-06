@@ -1,0 +1,1 @@
+Opicos, an online social polling community, allows users to ask and answer questions about topics they find interesting.

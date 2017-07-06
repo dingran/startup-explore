@@ -1,0 +1,1 @@
+LessPainful designs and develops mobile testing platforms. It provides open source cross-platform functional test platforms for Android and iOS. The company was founded by Karl Krukow in 2011 and is headquartered in Cambridge, Massachusetts.

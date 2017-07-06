@@ -1,0 +1,1 @@
+Juristat uses natural language processing to analyze public legal data and predict the future behaviors of actors within the legal system.

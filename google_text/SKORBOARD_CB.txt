@@ -1,0 +1,1 @@
+SKORBOARD is to develop a fully integrated enterprise for data analysis, data mining, business reporting and predictive analytics.

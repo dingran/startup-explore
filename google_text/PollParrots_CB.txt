@@ -1,0 +1,1 @@
+PollParrots provides a online database of opinion polls which can then be streamlined into useful data.

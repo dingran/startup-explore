@@ -1,0 +1,1 @@
+Pinggers is a personalized daily deal aggregator website that learns users' preferences and delivers relevant deals for them.

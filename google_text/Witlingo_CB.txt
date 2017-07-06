@@ -1,0 +1,1 @@
+Witlingo provides SaaS tools for designing, building, and hosting highly usable voice experiences, such as ones deployed on the Amazon Echo.

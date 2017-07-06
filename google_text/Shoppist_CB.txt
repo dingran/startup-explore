@@ -1,0 +1,1 @@
+Shoppist is a personals shopper app which will search on the behalf of shoppers and recommend most relevant products out of entire web.

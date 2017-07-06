@@ -1,0 +1,1 @@
+StartupBlink is an interactive platform that allows startups to broadcast news, events, and milestones worldwide.

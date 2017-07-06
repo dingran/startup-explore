@@ -1,0 +1,2 @@
+elastic.io is an integration-platform-as-a-service (iPaaS) - in other words they are Heroku for integrations. They host, execute, scale integration flows that connects cloud/SaaS applications and automate data flows between them. They do cloud-to-cloud (between two SaaS) as well cloud-to-ground (on-premise / legacy applications running behind the firewall) integrations.
+With elastic.io SaaS Vendors can white-label integration solution aka. integration widgets as well as extension / contribution of new connectors to the platform is extremely simple.

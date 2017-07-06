@@ -1,0 +1,5 @@
+RoomPoll is a location based surveys website. 
+Think of it as Survey Monkey meets Foursquare.
+Surveys get posted to a time and location. People that visit RoomPoll.com can then respond to surveys near their location.
+RoomPoll has solved the problem of collecting feedback from people attending a live event. There are no bit.ly URL's or survey ID's needing to be entered. Attendees don't need to download an app or find a pen to fill out a form.
+Simple. Easy. RoomPoll.

@@ -1,0 +1,1 @@
+Mycroft is an open alternative to Alexa or Siri for enterprises who want to protect private data and present customers with branded voices.

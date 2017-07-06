@@ -1,0 +1,1 @@
+Silk is a cloud-based application that enables users to visualize their data online by the way of interactive web pages.

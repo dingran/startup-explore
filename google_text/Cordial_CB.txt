@@ -1,0 +1,1 @@
+Cordial is an Adaptive Messaging Platform Powered by Machine Learning.

@@ -1,0 +1,1 @@
+Waypointer is a service for search, management and sharing of GPS points (POI coordinates). You can pick interesting points for your travel.

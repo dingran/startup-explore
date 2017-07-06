@@ -1,0 +1,1 @@
+Mobee is real-time store intelligence platform that gathers offline data by crowdsourcing collection through smartphones.

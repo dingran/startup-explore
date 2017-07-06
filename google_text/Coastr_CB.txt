@@ -1,0 +1,1 @@
+Coastr is a fully functional front and back end platform that enables any retailer to connect with their clients.

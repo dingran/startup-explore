@@ -1,0 +1,1 @@
+GobbleBox is an application (Web, iOS, and Android) that lets users send messages TO a location.

@@ -1,0 +1,5 @@
+Bridge USA is a HR Technology Firm which provides an applicant pre-screening system for employers across industries. 
+Bridge provides a platform where cultural fit, creative problem solving, and communication skills can be pre-screened by an employer before committing resources to interview an applicant. 
+The system includes a comprehensive examination of priorities in a professional environment followed by a peer reviewed and generally accepted method of testing creative problem solving skills. Finally, the applicant is given a chance to "Sway.Me" with a 30 second video which will accompany their profile application. 
+This data is compiled into an applicant profile and supplemented by user generated data such as demographic and geographic information. The user's resume is also added to the system for review by employers. 
+Ultimately, the use of this software allows for a more efficient allocation of resources during the hiring process, a higher quality applicant pool, and better hiring decisions.

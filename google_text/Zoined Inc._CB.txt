@@ -1,0 +1,1 @@
+Zoined provides reporting and analytics for merchants in different roles, from top management to store managers.

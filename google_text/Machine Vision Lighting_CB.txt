@@ -1,0 +1,1 @@
+MVL provides the design technology of the lighting system optimization for all machine vision systems using an image processing.

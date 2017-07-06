@@ -1,0 +1,1 @@
+PhotoWeaver offers an application that collects and stores photos of its users' collected from social networks and cloud locations.

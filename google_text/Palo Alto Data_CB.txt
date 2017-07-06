@@ -1,0 +1,1 @@
+Palo Alto Data is a realtime scale-independent analytics, visualization, search and discovery for the Internet of Things.

@@ -1,0 +1,1 @@
+LogBase is a data intelligence platform for time series data with focus on anomaly detection and exploratory analytics.

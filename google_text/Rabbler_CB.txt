@@ -1,0 +1,1 @@
+Rabbler, a mobile polling application, allows its users to discuss social issues and raise awareness about important topics.

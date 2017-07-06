@@ -1,0 +1,1 @@
+Proximity 5 is a cloud based ibeacon management platform for the internet of things and business.

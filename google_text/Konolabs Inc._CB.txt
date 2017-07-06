@@ -1,0 +1,1 @@
+Kono is an artificial intelligence-driven personal assistant scheduler.

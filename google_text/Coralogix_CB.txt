@@ -1,0 +1,1 @@
+Coralogix is a log analytics SaaS platform that improves the delivery and maintenance process for software providers.

@@ -1,0 +1,1 @@
+Plan.fm is an application that does not require service in order to make plans with friends.

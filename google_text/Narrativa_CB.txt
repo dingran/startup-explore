@@ -1,0 +1,1 @@
+Narrativa uses AI techniques to mine big data and generate news stories for its clients' audience at machine scale.

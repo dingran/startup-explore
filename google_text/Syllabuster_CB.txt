@@ -1,0 +1,1 @@
+Syllabuster is an application that enables college students to track and manage their classes, schedules, coursework, and more.

@@ -1,0 +1,5 @@
+PageViral represents a new paradigm of audience analytics for Facebook pages, where decisions are driven by user behavior, sentiment, engagement and interaction patterns.
+We are one of the very few multilingual social media analytics platform in the industry. Multi-Lingual support is a subset of our natural language processing technology, which analyzes audience interactions in their own native language.
+Our platform displays complex data in an easy-to-understand style which makes it visually appealing for presentations and reports. We convey in-depth analytics in a creative visual approach, along with comparable ratios and clickable drill-down graphs.
+It tracks every interactions that occur on the page to identify time intervals where your audience are most active and determine the type of content that will best engage these audience.
+PageViral analyzes the activities of individual audience to determine their behavior, sentiment, engagement and interaction patterns. You get to identify key influencers and understand your audience better, including how they feel towards your brand, how they engage, their active time intervals, etc.

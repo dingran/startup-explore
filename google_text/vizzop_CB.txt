@@ -1,0 +1,1 @@
+Vizzop is a JavaScript plugin that allows its users to observe what their clients see and do and chat with them.

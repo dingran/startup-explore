@@ -1,0 +1,1 @@
+Botlist is a third-party database and a catalog for bots, available across platforms including email, web, SMS, Slack, mobile, and more.

@@ -1,0 +1,1 @@
+Pikk is a photo sharing app developed to allow families to share folders of photos with one click.

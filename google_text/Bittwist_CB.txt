@@ -1,0 +1,1 @@
+Bittwist is a cloud based platform that offers data integration, normalization, and quality control for small businesses and developers.

@@ -1,0 +1,1 @@
+SkyPhrase uses natural language processing to make data such as web analytics and sports statistics easily accessible to its users.

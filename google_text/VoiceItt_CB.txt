@@ -1,0 +1,1 @@
+Voiceitt' speech recognition algorithm translates unintelligible sounds into clear speech in real time.

@@ -1,0 +1,1 @@
+KnowledgeHound is the data organization and visualization tool for companies buried in piles of market research.

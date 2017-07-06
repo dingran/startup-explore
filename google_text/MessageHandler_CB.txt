@@ -1,0 +1,1 @@
+An advanced platform for working with live data, MessageHandler is ideal for real-time integration and Internet of Things.

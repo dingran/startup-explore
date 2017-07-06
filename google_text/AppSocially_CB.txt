@@ -1,0 +1,1 @@
+AppSocially provides an API for mobile apps to integrate customer-acquisition functions into it, and keep track of customer viral metrics.

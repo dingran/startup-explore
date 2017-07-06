@@ -1,0 +1,3 @@
+Grublits is a social community driven by events and locations.
+Users share events, allowing their friends to "check in".  Users can also "check in" to locations to be awarded badges.
+Grublits was created by David Grubs

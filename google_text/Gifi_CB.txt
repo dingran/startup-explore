@@ -1,0 +1,1 @@
+Gifi is a location-based game that allows users to leave real money at various Foursquare check-in locations for their friends to find.

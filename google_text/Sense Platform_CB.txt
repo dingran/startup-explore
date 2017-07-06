@@ -1,0 +1,1 @@
+Sense Platform is a cloud-based platform for data science and big data analytics.

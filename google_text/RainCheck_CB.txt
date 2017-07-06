@@ -1,0 +1,1 @@
+RainCheck is a Mobile Commerce Platform for online shopping that reminds you when items you like online are available in stores you visit.

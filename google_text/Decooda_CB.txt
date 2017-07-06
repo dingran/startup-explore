@@ -1,0 +1,1 @@
+Decooda is a big data analytics platform that analyze all types and volumes of social media research and enterprise data.

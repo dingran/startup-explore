@@ -1,0 +1,1 @@
+Distilld is a whiskey label scanning application that enables users to scan labels, explore and rate whiskies, and share knowledge.

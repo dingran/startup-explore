@@ -1,0 +1,1 @@
+CogCubed creates games and models player behavior for multisensory platforms.

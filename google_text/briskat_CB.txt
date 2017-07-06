@@ -1,0 +1,1 @@
+In-memory database for interactive web analytic applications.

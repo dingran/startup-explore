@@ -1,0 +1,1 @@
+EverythingMe is a launcher for Android devices that adds contextual capabilities to mobile phones.

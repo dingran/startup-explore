@@ -1,0 +1,1 @@
+iDentiMob is a mobile identity application that can verify the age and identity of individuals giving the company needing verification.

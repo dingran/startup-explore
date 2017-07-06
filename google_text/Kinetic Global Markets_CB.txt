@@ -1,0 +1,1 @@
+Kinetic Global Markets applies computational finance techniques to massive amounts of textual data to extract semantic information.

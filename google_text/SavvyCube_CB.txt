@@ -1,0 +1,1 @@
+SavvyCube is an application that allows small business owners to track sales and earnings forecasts.

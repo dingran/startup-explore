@@ -1,0 +1,1 @@
+iVoted is an online platform that enables its users to share polls and vote.

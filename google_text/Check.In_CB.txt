@@ -1,0 +1,1 @@
+Brightkite is a location-based social networking website that lets users 'check in' at places through text messages or a mobile app.

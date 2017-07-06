@@ -1,0 +1,1 @@
+BlazingDB is an elastic SQL data warehouse on GPUs. Run SQL queries over petabyte scale data sets directly from your data lake.

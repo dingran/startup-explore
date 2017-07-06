@@ -1,0 +1,3 @@
+Tigli is focused on the development of technology solutions that enable enterprises to obtain human resource insights in real time. It focuses on human resource metrics such as employee satisfaction, engagement, culture, leadership, alignment, positive trends, and concerns.
+Tigli offers a SaaS-based platform that enables its users to build and customize dashboards according to the features they are interested in. The platform features advanced authentication, encryption, and backup solutions.
+Tigli was founded by Pierre de Conihout, Viktor Frantz, and Natalya Shvalyuk in January 2016.

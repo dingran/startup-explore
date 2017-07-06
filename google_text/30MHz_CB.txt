@@ -1,0 +1,1 @@
+Uses wireless sensors and an analytics dashboard to help businesses turn real-time data on the physical world into actionable insights.
