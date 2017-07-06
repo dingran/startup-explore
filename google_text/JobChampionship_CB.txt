@@ -1,0 +1,1 @@
+JobChampionship organizes a Championship for each job offer. Job Seekers get interview if they win the Championship organized for a particular job offer.

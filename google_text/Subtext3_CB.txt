@@ -1,0 +1,1 @@
+Subtext3 provides text analytics solutions that automatically extract information about the authors of online text.

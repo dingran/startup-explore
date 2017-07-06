@@ -1,0 +1,1 @@
+Dixa is a realtime customer service platform with telephony and chat powered by human and artificial intelligence.

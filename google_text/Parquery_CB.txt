@@ -1,0 +1,1 @@
+Parquery is a technology spin-off from the Computer Vision Laboratory of ETH Zurich.

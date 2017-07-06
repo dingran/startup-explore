@@ -1,0 +1,8 @@
+Our approach to customer care is about a great experience  where complaints, queries and feedback are discovered as they manifest on the web. We take this further and close the loop by delivering service management, sales leads and marketing insights to improve customer service, grow the business and build brand advocacy.  We are bringing together leading edge technologies and Big Data approaches to be able to instantly and accurately analyse conversations as they happen and to manage in real time.
+Our uniqueness is
+COMPREHENSIVENESS BEYOND SOCIAL : mines comments on retail and news sites as they happen
+NLP : filter thru the noise, prioritise and categorise into actions (suggested responses)
+INDUSTRY SPECIFIC FILTERING : techniques to categorize conversations (pre-packaged & customizable)
+RESPONSIVE SYSTEM : manage high volume requests in a responsive manner
+ADAPTIVE LEARNING : applied to categorisation and suggested responses
+EASE OF USE : system set up in a matter of minutes

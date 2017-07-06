@@ -1,0 +1,1 @@
+Traintracks is an on-premise backend for in-house systems, powering terabyte-scale event-based analytics in real time.

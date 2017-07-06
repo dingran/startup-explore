@@ -1,0 +1,1 @@
+Parallel Works removes the complexities of advanced computation to make large-scale modeling, simulation and data analysis simple.

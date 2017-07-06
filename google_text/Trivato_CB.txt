@@ -1,0 +1,1 @@
+trivago is an online hotel search platform that compares prices from various hotels on booking sites worldwide.

@@ -1,0 +1,1 @@
+Formatic is analytics technology for web and mobile forms that captures and analytizes behavioral activity, makes recommendations.

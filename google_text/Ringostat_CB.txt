@@ -1,0 +1,1 @@
+Ringostat is a full-featured cloud-based PBX with a ready-to-use, customizable web interface for call agents.

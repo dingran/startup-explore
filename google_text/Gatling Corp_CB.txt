@@ -1,0 +1,1 @@
+Gatling is an open source load testing framework based on Scala, Akka and Netty.

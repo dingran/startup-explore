@@ -1,0 +1,1 @@
+Daric is a peer-to-peer lending platform providing personal and small business loans.

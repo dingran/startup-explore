@@ -1,0 +1,1 @@
+Lightbeam provides a single vendor platform that facilitates end-to-end population management.

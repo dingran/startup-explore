@@ -1,0 +1,1 @@
+Latio is a mobile application that utilizes iBeacon technology to deliver relevant content and provide smart analytics.

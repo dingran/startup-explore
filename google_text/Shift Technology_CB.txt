@@ -1,0 +1,1 @@
+Shift Technology leverages the best of data science to automatically detect networks of fraudsters in insurance and e-commerce.

@@ -1,0 +1,1 @@
+Parkpocket is a big data company for parking. In real-time, car drivers are informed about vacant car parks, prices, electric vehicle charging stations and other features, and are directly navigated there. parkpocket’s solution can be used via its own mobile app, but is also easily integrated into other digital devices and services.

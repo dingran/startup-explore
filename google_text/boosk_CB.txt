@@ -1,0 +1,1 @@
+Boosk is a personalized entertainment recommendation app that provides its users with bar, club and event recommendations.

@@ -1,0 +1,1 @@
+Livestock Analytics is a system that helps you make better decisions by acquiring and analyzing individual data from your cattle.

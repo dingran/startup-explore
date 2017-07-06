@@ -1,0 +1,1 @@
+KOMPAS is a dependable city exploration application that uses machine learning to personalise content based on individual preferences and interests.

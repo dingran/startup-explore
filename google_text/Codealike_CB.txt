@@ -1,0 +1,1 @@
+Codealike is a platform for developers to measure software development procedures, record coding history, and give performance feedback.

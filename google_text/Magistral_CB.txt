@@ -1,0 +1,1 @@
+Magistral is a high-throughput cloud messaging system for fast integration and scale of customer real-time applications and services.

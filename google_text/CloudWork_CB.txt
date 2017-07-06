@@ -1,0 +1,1 @@
+CloudWork is an integration-as-a-service platform that enables users to build connections between businesses and social media apps.

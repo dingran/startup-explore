@@ -1,0 +1,1 @@
+Doot is a mobile app that provides users the ability to send messages, including video, and audio and memory sharing.

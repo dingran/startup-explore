@@ -1,0 +1,1 @@
+SkyWatch is a platform providing API access to the world's free and commercial satellite data.

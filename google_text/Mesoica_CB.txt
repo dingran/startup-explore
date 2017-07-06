@@ -1,0 +1,1 @@
+Mesoica is a web based solution for business users to quickly and transparently deliver insights into their data quality.

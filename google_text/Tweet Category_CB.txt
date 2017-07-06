@@ -1,0 +1,1 @@
+Tweet Category is a Twitter analysis program that curates and categorizes its users' tweets and Twitter information.

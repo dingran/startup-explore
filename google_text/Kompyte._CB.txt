@@ -1,0 +1,1 @@
+Kompyte is a Competitive Intelligence software to track and analyze your competitors' activity in real-time.

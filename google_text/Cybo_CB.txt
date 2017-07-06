@@ -1,0 +1,1 @@
+Cybo is a global multi-lingual business directory which allows search by category, location, as well as full-text search functionality.

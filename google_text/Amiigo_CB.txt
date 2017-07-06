@@ -1,0 +1,1 @@
+Amiigo is a fitness tracking bracelet measuring specific exercises, reps, sets, heart rate, and calories burned.

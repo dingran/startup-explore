@@ -1,0 +1,2 @@
+Formvertise is an optimized, data driven local advertising platform that lets businesses acquire consumer data through mobile & social media ads using forms.
+Their propreitary audience identification tool scans over 500M+ consumer datapoints to match audience segments (e.g. teen shopper, lifestyle enthusiast) to your brand.

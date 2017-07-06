@@ -1,0 +1,1 @@
+Roamz is a location-based application that informs users about the happenings in their cities.

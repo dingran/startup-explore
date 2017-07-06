@@ -1,0 +1,1 @@
+Mouseflow is a SaaS-based tool for performing web analytics and real-time user studies on websites.

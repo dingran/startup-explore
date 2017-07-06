@@ -1,0 +1,1 @@
+SnowPlow tracks data on events across different channels.

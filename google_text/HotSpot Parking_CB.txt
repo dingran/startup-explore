@@ -1,0 +1,1 @@
+HotSpot is a mobile payment platform that allows its users to pay for parking and top-up parking time by using mobile phones.

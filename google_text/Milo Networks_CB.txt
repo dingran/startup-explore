@@ -1,0 +1,1 @@
+Milo builds a network of micro-locations for smartphones. We equip retailers with micro-location technologies, then enable apps to interact with these locations.

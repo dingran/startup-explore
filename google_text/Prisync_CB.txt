@@ -1,0 +1,1 @@
+Prisync is a competitor tracking application for e-commerce companies.

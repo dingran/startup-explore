@@ -1,0 +1,1 @@
+MiddleGate develops software for monitoring the loss and breach of protected health information (PHI).

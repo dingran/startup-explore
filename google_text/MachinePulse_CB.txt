@@ -1,0 +1,1 @@
+MachinePulse provides an IoT platform with M2M and big data analytics capabilities.

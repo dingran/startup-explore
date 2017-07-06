@@ -1,0 +1,1 @@
+FindIt is a mobile application that makes it easier to find files on the users mobile device.

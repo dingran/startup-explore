@@ -1,0 +1,1 @@
+... extra items and change delivery slot up to 24h until delivery. Through API to Sweden's biggest supermarket chains, groceries are packed and home-delivered.

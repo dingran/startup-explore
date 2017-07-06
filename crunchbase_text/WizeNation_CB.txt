@@ -1,0 +1,2 @@
+WizeNation is a location based social bulletin board where users can connect with their neighbours, local businesses, and people with similar interest. Like a bulletin board for a building, a user can post any kind of message for example: "I am selling my house" , "I would like to borrow a ladder" , "I lost my cat (attach a picture)", and you can expect a reply below your comment from people in your postal/zip code area, and / or anyone in your city.
+Local businesses can also create a free business page to make local announcements for the local community.

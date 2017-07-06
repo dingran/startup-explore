@@ -1,0 +1,1 @@
+Self contained sensor array designed to monitor conditions in buildings. Sends data to analytic engine which creates actionable insights.

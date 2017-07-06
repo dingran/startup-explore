@@ -1,0 +1,1 @@
+Wildfire Life is a web application that enables individuals to manage their multi-studio fitness memberships.

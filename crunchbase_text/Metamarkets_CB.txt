@@ -1,0 +1,4 @@
+Metamarkets offers a real-time analytics platform for buyers and sellers of programmatic advertising.
+The company provides exchanges, SSPs, DSPs, and advertisement networks with the ability to visualize programmatic trends and opportunities to focus on building deeper client relationships instead of software. It offers programmatic advertising analytics; SaaS-based analytics infrastructure for programmatic advertisement companies; security solutions; and support and documentation services.
+The company’s analytics platform is used as an internal analytics infrastructure that fosters efficiency and collaboration.
+Metamarkets was incorporated in 2010 and is based in San Francisco, California.

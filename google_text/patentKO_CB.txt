@@ -1,0 +1,1 @@
+PatentKO is an efficient patent invalidation tool utilizing big data.

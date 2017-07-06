@@ -1,0 +1,1 @@
+BellaDati is a producer of an agile analytic and reporting big data tool that reinvents the way business users interact with business data.

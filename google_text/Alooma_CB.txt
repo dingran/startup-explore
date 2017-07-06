@@ -1,0 +1,1 @@
+Alooma is a real-time data pipeline as a service that allows the integration of any data source like databases, applications, and any API.

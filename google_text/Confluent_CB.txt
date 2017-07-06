@@ -1,0 +1,1 @@
+Confluent offers a real-time data platform built around Apache Kafka.

@@ -1,0 +1,1 @@
+IP Street offers patent analysis algorithms and data as a service via API endpoints.

@@ -1,0 +1,1 @@
+Imaging Shop provides algorithms that will stitch photos and videos, as well as aligning them.

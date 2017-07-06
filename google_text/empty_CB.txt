@@ -1,0 +1,1 @@
+Agrowatcher uses computer vision technology to identify and detect water stress, pests, infestation, and diseases.

@@ -1,0 +1,1 @@
+KitLocate is a mobile location cloud app platform for iOS and android.

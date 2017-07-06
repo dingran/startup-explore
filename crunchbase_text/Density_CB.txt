@@ -1,0 +1,1 @@
+Density builds a small sensor that measures how busy a location is in real-time. With Density above an entryway, customers use our API to access how many people have visited. From hospitals to homeless shelters; coffee shops to corporate campuses, Density helps people make better use of their space.

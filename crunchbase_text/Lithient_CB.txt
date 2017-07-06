@@ -1,0 +1,9 @@
+Lithient Mobile Ad Tracking and ROI Analytics is a breakthrough in mobile ad tracking that empowers app marketers to conduct more effective, profitable mobile advertising programs. The key is Lithient’s ability to measure accurate mobile advertising ROI as ad campaigns are running.
+Lithient accurately tracks your media spend, along with the campaign and app engagement metrics associated with that media spend. You get the most complete understanding of your most profitable mobile advertising vehicles so you can measure and report on true advertising ROI as the campaign progresses. With Lithient, you track, measure and report 
+on:
+
+Mobile advertising metrics such as impressions, clicks & installs by a range of criteria
+In-app events, such as purchases & registrations, each attributed to the marketing source
+Accurate advertising spend by media partner, updated continually during your campaign
+ROI metrics such as: campaign ROI; media ROI cost per click, install, conversion, and sale
+

@@ -1,0 +1,1 @@
+Predictry provides its clients with predictive behavior, machine learning, and artificial intelligence services.

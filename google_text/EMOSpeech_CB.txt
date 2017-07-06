@@ -1,0 +1,1 @@
+At EMOSpeech, we develop enterprise software applications based on speech emotion recognition.

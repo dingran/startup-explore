@@ -1,0 +1,1 @@
+Sigmoid is a big data analytics platform that provides integrated tools for historical and real-time analysis on Apache Spark.

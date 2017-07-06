@@ -1,0 +1,1 @@
+Dictanova has developed a text analytics and sentiment analysis cloud based platform, for customer feedback analysis purpose.

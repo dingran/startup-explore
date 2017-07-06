@@ -1,0 +1,1 @@
+VelociData provides its client with a purpose-built supercomputer that transforms the economics of big data, analytics and BI.

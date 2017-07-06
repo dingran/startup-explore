@@ -1,0 +1,1 @@
+CareU is a mobile application that enables its user to know where their family members are at any given moment.

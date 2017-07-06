@@ -1,0 +1,1 @@
+Gleechi develops software to enable hand movement and interaction for artificial hands.

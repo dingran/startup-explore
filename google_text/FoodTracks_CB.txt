@@ -1,0 +1,1 @@
+FoodTracks is a software solution that tracks and predicts selling trends for businesses in the food industry.

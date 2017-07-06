@@ -1,0 +1,3 @@
+Fetchee offers an application that enables its users to obtain notifications about deals and offers of products which they prefer. It provides notifications through mobile phones and emails.
+Fetchee enables online retailers to promote their products, deals, and offers.
+Fetchee was founded by Alexander Polyakov in January 2015. It is based in Saint Petersburg, Russia.

@@ -1,0 +1,1 @@
+Metacog is a PaaS-based deep learning analytics platform that is accessible via a series of APIs.

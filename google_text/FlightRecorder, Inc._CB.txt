@@ -1,0 +1,1 @@
+FlightRecorder is an iOS SDK that captures device screen with all user interactions make them available to you on the web.

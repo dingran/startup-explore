@@ -1,0 +1,3 @@
+Pop Feedback is a web application that allows companies to learn about their customers quickly and easily by giving them the tools to place quick one question surveys on any page of their website.
+Pop Feedback was created by two entrepreneurs, who wanted to get quick feedback on their web application, but didn't want to pay a premium for such a simple tool that would allow them to do so. Instead of paying a premium, they decided to create their own tool and offer it to other entrepreneurs who also don't want to pay a premium for this type of tool.
+Their philosophy is that simple tools should have a simple price.

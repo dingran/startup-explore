@@ -1,0 +1,1 @@
+Twibitz analyzes any public Twitter profile and creates a snapshot of that user based on their profile and history.

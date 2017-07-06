@@ -1,0 +1,1 @@
+EatDrink.it offers a location-based web application that allows its users to review meals at restaurants.

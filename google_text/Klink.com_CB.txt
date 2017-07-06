@@ -1,0 +1,1 @@
+KLINK is a mobile application which can help people search for the cheapest alcoholic drinks and find where they are.

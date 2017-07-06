@@ -1,0 +1,1 @@
+Snacksquare provides automated location-based advertising, works on integration with Foursquare and facilitates push marketing via SMS.

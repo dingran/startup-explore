@@ -1,0 +1,1 @@
+Logz.io is an enterprise-grade ELK as a service with alerts, unlimited scalability, and predictive fault detection.

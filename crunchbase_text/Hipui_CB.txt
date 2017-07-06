@@ -1,0 +1,2 @@
+Hipui redefines mobile user experience and app development. They enable sensor interaction and advanced graphics outside native apps. Cross-platform code runs in cloud, which delivers the UI to devices.
+Hipui is a high-speed technology startup from Helsinki, Finland. Building on their background in pioneering research carried out at the Helsinki University of Technology (TKK), their aim is to create the next revolution in mobile user experience by providing technology and platforms to enable rich interaction and context awareness.

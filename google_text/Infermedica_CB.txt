@@ -1,0 +1,1 @@
+Infermedica offers an AI engine for patient triage and preliminary medical diagnosis.

@@ -1,0 +1,1 @@
+Mystorey, a collection of stores, generates and maps large amounts of social data points, users, photo reviews, stories and ratings.

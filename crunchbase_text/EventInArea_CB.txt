@@ -1,0 +1,1 @@
+EventInArea is an Android application which keeps track of events that are going on in an area and allows its users to find them. It helps its users find new and interesting events based on their location, specified dates, and interests. The company is based in the Netherlands and it is founded by Oleg Dats, Tom Seuren, Andry Kuzmych, and Tim Zador in 2012.

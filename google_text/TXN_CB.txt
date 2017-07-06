@@ -1,0 +1,1 @@
+TXN is a web application for consumer spending analytics, competitive intelligence and surveys.

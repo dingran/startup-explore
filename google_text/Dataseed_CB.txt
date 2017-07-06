@@ -1,0 +1,1 @@
+Dataseed is the simplest way to create beautiful interactive data visualisations.

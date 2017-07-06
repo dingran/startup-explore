@@ -1,0 +1,1 @@
+Predictive analytics and guided decision making (prescriptive analytics) for the IoT, industrial internet.

@@ -1,0 +1,1 @@
+DotaProHub is an analysis tool for the game Dota 2 and helps users understand the statistics of their gameplay.

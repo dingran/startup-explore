@@ -1,0 +1,1 @@
+SurveyShare offers a web-based survey tool that enables its users to gather feedback from their social circles.

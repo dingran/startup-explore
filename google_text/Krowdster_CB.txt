@@ -1,0 +1,1 @@
+Krowdster is the first big data powered crowdfunding analytics, optimization and promotion app for campaigns on Kickstarter, Indiegogo & co.

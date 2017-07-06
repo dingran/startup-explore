@@ -1,0 +1,1 @@
+Datahug is a collaborative forecasting and pipeline management solution, built in Salesforce.

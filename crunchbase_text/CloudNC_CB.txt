@@ -1,0 +1,3 @@
+CNC milling machines are at the heart of manufacturing with well over one-hundred billion dollars worth of components produced by them each year. Despite this, their software is in the dark ages. Industrial CNC machine in action: https://www.youtube.com/watch?v=80iIhfjTm5I
+We’re researching and applying breakthrough AI methods to control these machines autonomously and more optimally than ever before, revolutionising how the things around us are made. From MacBook cases, to jet engine turbines.
+Our mission is to make milling machines one click devices that can produce a part easily, efficiently and with minimal human intervention.

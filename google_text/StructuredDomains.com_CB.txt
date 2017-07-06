@@ -1,0 +1,1 @@
+Structured Domains is a platform designed to allow domain owners to build custom data driven marketplaces and directories.

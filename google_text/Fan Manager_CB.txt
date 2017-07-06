@@ -1,0 +1,1 @@
+Fan Manager data management platform for fan centric organizations.

@@ -1,0 +1,1 @@
+Teatro.io - automatic test server in the cloud. Teatro.io raises dedicated cloud stage server for each pull request on Github.

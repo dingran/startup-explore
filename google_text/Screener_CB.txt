@@ -1,0 +1,1 @@
+Screener offers automated visual validation services to automate manual user interface testing for software development teams.

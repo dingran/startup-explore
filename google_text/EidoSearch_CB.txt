@@ -1,0 +1,1 @@
+EidoSearch is a software company leveraging advanced information processing techniques to make time series data searchable.

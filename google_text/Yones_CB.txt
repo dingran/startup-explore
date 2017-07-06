@@ -1,0 +1,1 @@
+Yones offers a news application with machine learning technologies that personalizes content based on the user's interests.

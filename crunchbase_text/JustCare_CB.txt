@@ -1,0 +1,1 @@
+Jaco is a new gen usability platform, allowing product & analytics teams to understand how their customers are really using their product.  Unlike current solutions, Jaco requires zero integration and no programming knowledge to get started.  Within 5 minutes of signup, you'll see real live replays of your users using your product.

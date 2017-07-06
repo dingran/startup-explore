@@ -1,0 +1,1 @@
+Mint Labs is a cloud based medical image analysis and visualization platform for patients with brain diseases.

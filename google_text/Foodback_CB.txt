@@ -1,0 +1,1 @@
+Foodback is a mobile application that allows customers to send instant feedback directly to restaurant and café managers in real time.

@@ -1,0 +1,7 @@
+Founded in 2011, WiseSec is a privately-held company, committed to redefining the future of indoor location-based mobile consumer experiences. 
+Based on its patent-pending technology, WiseSec develops markets and deploys advanced mobile platform indoor location solutions for the security, defense and retail industries.
+Their  products and solutions includes:
+- CelluSec - Indoor location-based mobile security policy for data leakage prevention in restricted facilities. 
+
+WiseBy - Indoor location-based mobile consumer experiences, including indoor navigation, micro-location coupons and promotions, personalized check in/out messages, NFC-like payment experience and a full dashboard of indoor traffic patterns and statistics.
+

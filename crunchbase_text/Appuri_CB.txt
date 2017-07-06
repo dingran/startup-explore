@@ -1,0 +1,4 @@
+Appuri helps online and mobile businesses keep their users longer.  
+Appuri Backstop uses machine learning to predict which users are likely to leave and the reasons why -- so product and marketing teams can take action to stop churn before it starts.
+Appuri provides a full Data Platform as a Service that delivers data ingest, processing and output integrated into their existing business processes.  We also deliver all data into a petabyte-scale data warehouse giving them secure, direct SQL access to their user segmentation data.
+Our main competitor is companies expending internal resources to build an ad-hoc solution themselves.

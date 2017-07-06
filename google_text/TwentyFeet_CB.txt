@@ -1,0 +1,1 @@
+TwentyFeet is a social tracking tool that aggregates social media and web metrics and displays them in one interface to aid decision-making.

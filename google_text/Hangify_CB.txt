@@ -1,0 +1,1 @@
+Hangify is an app that discovers the best events and parties around campus.

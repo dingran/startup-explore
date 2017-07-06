@@ -1,0 +1,1 @@
+WMSight is an IoT and analytics platform for warehouse and distribution center operations.

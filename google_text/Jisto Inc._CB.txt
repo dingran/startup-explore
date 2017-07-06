@@ -1,0 +1,1 @@
+Jisto solutions allows enterprises to run additional applications in their stranded server capacity without impacting the performance of their core applications.

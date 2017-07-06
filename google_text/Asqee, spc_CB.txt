@@ -1,0 +1,1 @@
+Asqee is a crisis response application that establishes two-way communication between people in need and those who can offer help.

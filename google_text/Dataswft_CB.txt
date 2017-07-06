@@ -1,0 +1,1 @@
+Dataswft is a customized search engine that can decode technical information and return search queries.

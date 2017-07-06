@@ -1,0 +1,1 @@
+CartRescuer is an email remarking service that helps e-commerce web sites recover cart abandonments and improve their checkout process.

@@ -1,0 +1,1 @@
+Socset is an online tool designed for evaluating and analyzing the effect of various campaigns over social networks.

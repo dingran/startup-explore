@@ -1,0 +1,1 @@
+near2there, a location-based reminder service, keeps track of the places that its users want to go to and alerts them when they are near.

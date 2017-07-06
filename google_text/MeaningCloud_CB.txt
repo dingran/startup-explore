@@ -1,0 +1,1 @@
+MeaningCloud is "Meaning as a Service": extracting meaning from unstructured content (text analytics, semantic processing)

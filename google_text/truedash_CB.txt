@@ -1,0 +1,1 @@
+Avora is a modern BI platform with personalised insight, anomaly detection and natural language processing.

@@ -1,0 +1,1 @@
+PredPol predicts crime using cloud software technology that identifies the highest risk times and places in near real-time.

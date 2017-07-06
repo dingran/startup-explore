@@ -1,0 +1,1 @@
+Gimme! provides a way for merchants to reward customers through scanning unique QR codes printed on receipts.

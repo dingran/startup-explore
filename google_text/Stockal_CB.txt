@@ -1,0 +1,1 @@
+Stockal is building an app-based, Automated Personal Stock Advisor for active investors & traders on the foundation of big data analytics.

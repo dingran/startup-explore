@@ -1,0 +1,1 @@
+SwiftPayMD(TM) is a charge capture platform for hospitals and physician groups.

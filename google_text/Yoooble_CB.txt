@@ -1,0 +1,1 @@
+Yoooble is an application that provides its users with information about a particular location.

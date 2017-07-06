@@ -1,0 +1,1 @@
+Newsystock is a Robo-Portfolio platform based on Quant providing simulation and analysis infra and algorithm market for retail investors.

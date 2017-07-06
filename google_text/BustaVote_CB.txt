@@ -1,0 +1,1 @@
+BustaVote is a mobile app that gives users the ability to ask their Facebook friends a question then set a time limit to answer or vote.

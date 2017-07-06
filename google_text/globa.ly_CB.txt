@@ -1,0 +1,1 @@
+Global.ly is an online platform that lets people drop pins for GPS locations on a map and receive a URL short code for package deliveries.

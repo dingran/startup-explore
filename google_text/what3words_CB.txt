@@ -1,0 +1,1 @@
+What3words is an online platform that consists of a global grid which provides its users with fixed 3 word addresses.

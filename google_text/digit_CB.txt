@@ -1,0 +1,1 @@
+Digit checks your spending habits and removes a few dollars from your checking account if you can afford it.

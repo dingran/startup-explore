@@ -1,0 +1,1 @@
+Skyfunnel preditcs users/customer's best re-engaged/purchase time while analyzing their footprints in the app.

@@ -1,0 +1,1 @@
+Update. Status: NuvolaBase has been closed. Headquarters: London, England; Description: OrientDB is a multi model database running a true graph engine.

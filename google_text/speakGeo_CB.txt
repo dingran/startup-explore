@@ -1,0 +1,1 @@
+speakGeo is a location-driven social networking service that enables its users to share and discover new places through real-time feeds.

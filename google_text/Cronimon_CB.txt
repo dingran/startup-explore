@@ -1,0 +1,1 @@
+Cronimon provides solutions that help its users track activities in their websites or applications by visualizing key metrics in real time.

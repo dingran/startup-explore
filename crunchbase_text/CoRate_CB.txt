@@ -1,0 +1,2 @@
+CoRate is a rating system to help readers set expectations on quality of articles online with crowdsourcing and metrics measurement.
+CoRate's vision is to become the Internet's most trusted and credible source for article ratings. By collecting ratings from avid readers community, we curate and promote the highly rated articles for the best of community interest via email digest, online and mobile delivery channels.

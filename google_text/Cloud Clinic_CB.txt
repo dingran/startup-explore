@@ -1,0 +1,1 @@
+Cloud Clinic is a clinical management system that enables clinics and offices to assist the process of care.

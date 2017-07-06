@@ -1,0 +1,1 @@
+Syapse provides a precision medicine data platform enabling healthcare providers to use molecular profiling to diagnose and treat patients.

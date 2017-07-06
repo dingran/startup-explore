@@ -1,0 +1,1 @@
+ZetData offers a cloud service (DataCanvas) to create, manage and share big data analytic pipelines.

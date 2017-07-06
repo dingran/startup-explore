@@ -1,0 +1,1 @@
+BlockAvenue is a location-based platform that connects users with neighbors and local businesses via a mobile app.

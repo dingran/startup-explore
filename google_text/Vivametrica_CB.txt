@@ -1,0 +1,1 @@
+Vivametrica analyzes data from wearable sensor devices for the assessment of health and wellness.

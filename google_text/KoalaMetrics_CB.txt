@@ -1,0 +1,1 @@
+KoalaMetrics determines psychographic profiles of your mobile users based on smartphone usage.

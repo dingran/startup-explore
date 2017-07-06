@@ -1,0 +1,1 @@
+Mashgin is building a self-checkout kiosk that uses 3D reconstruction, computer vision and deep learning to identify items.

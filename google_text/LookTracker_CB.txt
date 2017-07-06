@@ -1,0 +1,1 @@
+LookTracker is a cutting-edge eye tracking technology that outputs data for web pages and other digital media.

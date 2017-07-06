@@ -1,0 +1,1 @@
+Datadecision is a SaaS BI tool that allows users to improve quality, classify, and analyze data collected from heterogeneous sources.

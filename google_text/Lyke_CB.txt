@@ -1,0 +1,1 @@
+LYKE is a mobile fashion marketplace. It allows users to follow e-commerce shops and purchase their products from within the application.

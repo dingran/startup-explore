@@ -1,0 +1,1 @@
+WiredTiger provides rock-solid performance that scales with the workload and data volume.

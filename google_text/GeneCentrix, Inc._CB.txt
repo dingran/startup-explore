@@ -1,0 +1,1 @@
+GeneCentrix is a bioinformatics startup that builds software for early-stage drug discovery.

@@ -1,0 +1,1 @@
+Cashsquare is a location-based gaming application with board game features for mobile phones.

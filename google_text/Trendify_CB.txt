@@ -1,0 +1,1 @@
+Trendify is a meta-startup that uses big data and machine learning to predict startup success.

@@ -1,0 +1,1 @@
+Etch makes all your contacts searchable with data science. We allow our users to search their contacts by skill, interest, job and more.

@@ -1,0 +1,1 @@
+Directual is a low-code development platform which allows to build complex IT-solutions in days and weeks, not months and years.

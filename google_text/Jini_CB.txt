@@ -1,0 +1,1 @@
+Jini is a smartphone application that provides smart-agent support based on the user's actions.

@@ -1,0 +1,1 @@
+Hoppit, an ambience search engine, provides restaurant recommendations by using their photo database and natural language processing.

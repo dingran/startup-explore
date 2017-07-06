@@ -1,0 +1,1 @@
+Cask provides the first unified integration platform for Hadoop and Apache Spark.

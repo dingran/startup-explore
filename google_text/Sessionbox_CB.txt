@@ -1,0 +1,1 @@
+Sessionbox is a web-based application that enables individuals to access websites with multiple logins at the same time.

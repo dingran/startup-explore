@@ -1,0 +1,1 @@
+FriendlyData helps companies make data accessible for non technical people by providing a natural language interface to databases.

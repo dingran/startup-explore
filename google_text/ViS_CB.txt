@@ -1,0 +1,1 @@
+ViS provides a collaborative analytics platform for the planning of clinical and pharmaceutical trials.

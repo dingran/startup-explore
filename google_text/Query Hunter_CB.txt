@@ -1,0 +1,1 @@
+Query Hunter is a cloud-based system that automatically collects and consolidates data from multiple sources.

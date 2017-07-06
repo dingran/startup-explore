@@ -1,0 +1,1 @@
+MoreThanCure helps you analytically understand a medical condition or diagnosis.

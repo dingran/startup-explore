@@ -1,0 +1,1 @@
+SpumeNews is a smartphone application that utilizes artificial intelligence to enable users to understand news quickly.

@@ -1,0 +1,1 @@
+Kimono Labs is an online platform that allows its users to convert their websites into APIs.

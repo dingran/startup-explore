@@ -1,0 +1,1 @@
+GoWar is a location-based social strategy game for iOS and Android operating systems.

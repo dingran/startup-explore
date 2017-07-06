@@ -1,0 +1,1 @@
+Weddar is a mobile application for weather news that is crowdsources from users.

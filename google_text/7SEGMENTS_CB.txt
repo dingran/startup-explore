@@ -1,0 +1,1 @@
+7SEGMENTS is Big Data Analytics solution. Think of it as Google Analytics on steroids for all your data.

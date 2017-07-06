@@ -1,0 +1,1 @@
+Land.ly is a cross platform mobile app link unification services. Links come with automated platform detection, analytics and landing page.

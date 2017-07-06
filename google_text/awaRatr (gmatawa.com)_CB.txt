@@ -1,0 +1,1 @@
+awaRatr is a resource that evaluates English language essays using a machine learning platform.

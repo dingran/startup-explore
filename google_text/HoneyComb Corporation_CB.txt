@@ -1,0 +1,1 @@
+HoneyComb provides a seamless, durable, and easy-to-use system for drone-based mapping and scouting.

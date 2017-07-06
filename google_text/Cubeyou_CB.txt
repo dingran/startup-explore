@@ -1,0 +1,1 @@
+Cubeyou manages social data and analyzes users' connections between their interests and behaviour.

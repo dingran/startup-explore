@@ -1,0 +1,1 @@
+SimQly is an online tool that turns raw data into easily sharable visualizations automatically.

@@ -1,0 +1,1 @@
+setNight operates as a social guide that provides information about nightlife and venues.

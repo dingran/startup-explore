@@ -1,0 +1,1 @@
+Boomtown is a big data social engagement analytics platform, primarily targeting mobile applications - founded by former Facebook and Meetup employees.

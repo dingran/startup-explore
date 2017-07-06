@@ -1,0 +1,1 @@
+Fitoop is a machine learning and analytics platform that takes health, fitness and happiness data and provides personalized suggestions, insight and guidance.

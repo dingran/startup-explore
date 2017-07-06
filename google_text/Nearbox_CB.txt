@@ -1,0 +1,1 @@
+Nearbox is a hyperlocal communication app that lets users place their virtual mailbox on the map and leave a short message for anyone.

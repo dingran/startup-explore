@@ -1,0 +1,1 @@
+Math-based currency, digital payments and financial innovation on the Ripple protocol.

@@ -1,0 +1,1 @@
+PackSay is a real-time polling tool designed to enable communications in events, classrooms, and meetings.

@@ -1,0 +1,1 @@
+BB is a chat based social concierge app for lifestyle discovery.

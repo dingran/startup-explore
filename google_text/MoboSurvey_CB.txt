@@ -1,0 +1,1 @@
+MoboSurvey is a mobile survey application surveys distribute to all internet capable devices. ... The questionnaire will be viewable on any internet capable device. ... The questionnaire will have a native look on any device which makes it intuitive and give the viewers confidence.

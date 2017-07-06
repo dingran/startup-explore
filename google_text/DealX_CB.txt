@@ -1,0 +1,1 @@
+DealX is a big data cloud computing platform for commercial real estate.

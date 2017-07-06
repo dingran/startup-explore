@@ -1,0 +1,1 @@
+PathSIght provides a proprietary data mining set of algorithms and a topological field model to clients.

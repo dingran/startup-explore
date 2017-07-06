@@ -1,0 +1,1 @@
+Turnout.ai is a free app for nonprofits and political organizers. We use Machine Learning to write the first draft of emails that organizers emails to their supporters.

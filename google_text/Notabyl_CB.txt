@@ -1,0 +1,1 @@
+Notabyl is a mobile application that allows its users to bookmark places, and add and share information regarding those places.

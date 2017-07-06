@@ -1,0 +1,1 @@
+Pixuate is a cloud-based image processing platform that offers APIs for developers and helps them build cross platform applications.

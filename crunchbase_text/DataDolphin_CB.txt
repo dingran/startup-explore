@@ -1,0 +1,5 @@
+datadolph.in is in public beta. It makes data discovery, data visualization and sharing stories as easy as 1-2-3. 
+datadolph.in is organizing world's public data and offers a cloud-based service to discover data using Google like search.
+Once datasets are discovered, datadolph.in makes visualization super simple by automatically building most appropriate chart right in datadolph.in's platform. 
+The data visualization can then be turned into micro-stories (datagrams) and shared on Twitter, Facebook, Google+ and LinkedIn.
+See blog at - http://blog.datadolph.in/

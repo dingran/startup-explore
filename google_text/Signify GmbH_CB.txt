@@ -1,0 +1,1 @@
+Signify is specialized in Big Data solutions and with our product Chunks we are presenting a new way to store, share and analyze log data.

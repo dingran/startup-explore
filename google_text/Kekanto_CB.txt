@@ -1,0 +1,1 @@
+Kekanto is a social network that can be used to exchange reviews and recommendations on places and services.

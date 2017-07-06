@@ -1,0 +1,1 @@
+Appaloosa provides a simple and secure Enterprise App Store.

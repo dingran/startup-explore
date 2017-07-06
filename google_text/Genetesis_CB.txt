@@ -1,0 +1,1 @@
+Genetesis has developed CardioFlux, the first tool to non-invasively generate images of the heart's electrical current distribution.

@@ -1,0 +1,1 @@
+Price Trakker extracts price and stock information daily from each of your competitor's website and compares them with your own website.

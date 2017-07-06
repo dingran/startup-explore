@@ -1,0 +1,1 @@
+Spycob is a app-based platform that aggregates pricing for items across the web.

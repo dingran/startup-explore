@@ -1,0 +1,1 @@
+GiftyOne is a web-based gifting platform for sending and receiving experiences.

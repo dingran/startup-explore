@@ -1,0 +1,1 @@
+NewsJelly (뉴스젤리) is a Korean big data-based data analysis provider. It also provides infographics, charts, and related social data.

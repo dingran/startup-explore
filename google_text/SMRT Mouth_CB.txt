@@ -1,0 +1,1 @@
+SMRT Mouth is a smart mouthguard designed to collect biometric data from players on the field and transmit to tablets on the sidelines.

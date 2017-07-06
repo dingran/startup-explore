@@ -1,0 +1,1 @@
+Voxedia is helping content platforms to increase the user time spent by developing a content recommendation tool based on user's feelings.

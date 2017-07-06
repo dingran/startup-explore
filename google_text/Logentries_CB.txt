@@ -1,0 +1,1 @@
+Logentries makes machine-generated log data easily accessible to IT operations, development, and business analysis teams of all sizes.

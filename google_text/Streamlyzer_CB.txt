@@ -1,0 +1,1 @@
+Streamlyzer provides most advanced analytics for streaming service.

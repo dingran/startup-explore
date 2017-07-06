@@ -1,0 +1,1 @@
+extraTKT offers a mobile marketplace for users to buy and sell event tickets using GPS and real-time communication.

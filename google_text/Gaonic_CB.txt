@@ -1,0 +1,1 @@
+Gaonic develops open sense platform, a real-time IoT cloud-based data brokerage platform for sensors data and analytics.

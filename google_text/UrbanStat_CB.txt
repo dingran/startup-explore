@@ -1,0 +1,1 @@
+UrbanStat helps insurance companies to visualize and analyze location-based risks such as flood, storm, landslide and earthquake.

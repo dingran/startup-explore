@@ -1,0 +1,1 @@
+Bloom offers a consumer-facing web service that provides applications and experiences on iOS, Android, and html5 and webGL platforms.

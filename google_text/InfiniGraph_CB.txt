@@ -1,0 +1,1 @@
+InfiniGraph is a video platform based on machine learning that amplifies video play rates according to its human interactions.

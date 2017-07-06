@@ -1,0 +1,1 @@
+LunchTree is a web service that automatically matches people in the same area to have lunch with others who are available.

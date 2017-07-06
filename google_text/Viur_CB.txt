@@ -1,0 +1,1 @@
+Viur is a business analytics solution that helps companies to unlock the value of stored data, through visualization and data exploration.

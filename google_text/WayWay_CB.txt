@@ -1,0 +1,1 @@
+WayWay is a location database which features live feeds of organized images from Instagram.

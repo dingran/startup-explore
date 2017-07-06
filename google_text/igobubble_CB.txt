@@ -1,0 +1,1 @@
+igobubble, a social discovery tool, enables users to discover, create, and share content inside virtual bubbles at real world locations.

@@ -1,0 +1,1 @@
+DATY sources and displays a single news feed of information on business competitors for client companies.

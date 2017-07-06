@@ -1,0 +1,1 @@
+TurnoutNow provides high resolution behavioral data for events using wearables, beacons and real-time data analytics.

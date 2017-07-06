@@ -1,0 +1,3 @@
+Meritocruitment is a cloud based fully automated recruiting tool that allows employers to assess applicants & current employees skills, & lets candidates know if a job is right for them, before applications, interviewing & hiring.
+Meritocruitment simplifies, quickens & reduces the cost of recruiting, whilst drastically improving employee/employer fit and minimizing the risk of faulty recruitments; saving time, effort & money.
+Meritocruitmnet is easily integrated with companies standard recruiting process, & candidates' resumes through Linkedin or FB.

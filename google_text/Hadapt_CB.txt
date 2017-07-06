@@ -1,0 +1,1 @@
+Hadapt is a cloud-optimized system offering an analytical platform for performing complex analytics on structured and unstructured data.

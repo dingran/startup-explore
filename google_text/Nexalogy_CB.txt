@@ -1,0 +1,1 @@
+Nexalogy develops a social data analysis system (SDAS) that enables users to extract value from their existing data feeds.

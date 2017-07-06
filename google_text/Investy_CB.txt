@@ -1,0 +1,1 @@
+Investy is a investment portfolio analysis tool. It allows investors to see details about their portfolio including financial health, diversification and asset allocation.

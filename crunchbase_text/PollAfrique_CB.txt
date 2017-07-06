@@ -1,0 +1,3 @@
+PollAfrique is a web and mobile market data research platform that offers market surveys and software consulting services. It provides micro, small, medium, and large scale enterprises with custom research solutions to help them gain relevant market insights. It allows respondents to participate in incentivized surveys via SMS, USSD, and IVR.
+PollAfrique offers a research utility that simplifies questionnaire design, respondent sampling, message deployment, and real-time analysis reporting. It creates targeted surveys, helps clients reach their desired pool of respondents by specifying the filtering criteria, and receives responses for the surveys via SMS.
+PollAfrique is operated from Accra, Ghana.

@@ -1,0 +1,1 @@
+GIUP is a system that evaluates players via the analysis of his/her behavior during playing.

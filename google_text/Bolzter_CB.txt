@@ -1,0 +1,1 @@
+Bolzter is a social marketing platform that creates a social graph for each lead by tracking leads connections.

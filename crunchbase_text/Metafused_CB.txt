@@ -1,0 +1,4 @@
+Metafused help business decision makers in marketing and financial services make sense from their data lakes, seas and oceans and delivers data driven decisions in real-time. We use artificial intelligence to identify key customer event triggers affecting business and give the ability for business users to execute from them in real time. 
+We process 7 billion data points, generating 40 million event triggers which we then  action from; and further deliver 185+ working modules
+We are closing the loop by addressing the last mile gap in data driven decisions and bringing high fidelity insights to high performance delivery platforms across the enterprise. 
+This saves time for decision makers, simplifies their decision making process and ultimately unlocks data as a revenue centre, giving financial edge over the competition.

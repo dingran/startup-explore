@@ -1,0 +1,1 @@
+A platform for developing interactive Big Data apps with analytics.

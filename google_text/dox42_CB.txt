@@ -1,0 +1,1 @@
+dox42 is an Austria-based software company that enables the integration and automation of company specific data into documents.

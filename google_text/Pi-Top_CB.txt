@@ -1,0 +1,1 @@
+Pi-Top enables users to build and understand their own Raspberry Pi powered laptops.

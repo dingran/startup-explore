@@ -1,0 +1,1 @@
+Quikpiq is a web and mobile application that lets you ask your social network for help in making decisions by creating image based polls from wherever you are.

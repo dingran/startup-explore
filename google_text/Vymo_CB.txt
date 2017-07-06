@@ -1,0 +1,1 @@
+Vymo is a mobile-first Personal Sales Assistant. It can predict what a rep should do next and coach him on-the-go to close more, faster.

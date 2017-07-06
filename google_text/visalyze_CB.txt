@@ -1,0 +1,1 @@
+Visalyze uses visual metaphores to explain big data.

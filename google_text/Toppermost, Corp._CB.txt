@@ -1,0 +1,1 @@
+Using next-gen location technology, Acorn allows reminders and messages to be triggered based on your current location.

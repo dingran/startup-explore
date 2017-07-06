@@ -1,0 +1,1 @@
+The Beta Family is a beta testing service for iOS and Android applications, enabling developers to beta test their apps on real people.

@@ -1,0 +1,1 @@
+Smartlet is an app for rating and searching tenants.

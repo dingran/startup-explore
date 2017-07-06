@@ -1,0 +1,1 @@
+Snowflake Computing provides the data warehouse designed from the ground up for the cloud and for today's data and analytics.

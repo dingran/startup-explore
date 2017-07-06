@@ -1,0 +1,1 @@
+Streamdrill is a software company that develops stream-mining engine to retrieve real-time insights from data streams with resources.

@@ -1,0 +1,1 @@
+We can measure anything and switch things on and off from a cloud hosted service in real time.

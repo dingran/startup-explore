@@ -10,16 +10,22 @@ target_url = 'https://www.crunchbase.com/organization/{}#/entity'
 driver = init_driver()
 shuffle(company_list)
 
-for c in company_list:
+for c in tqdm(company_list):
     c_new = c.replace(' ', '-').replace(',', '-').replace('.', '-').replace('@', 'a').replace("'", '-')
 
     fname = os.path.join('crunchbase_text', '{}_CB.txt'.format(c_new))
 
-    print(c, c_new)
+    try:
+        print(c, c_new)
+    except:
+        print(c)
+        continue
+
     if os.path.exists(fname):
         print('company exists, skip')
     else:
         load_url(driver=driver, url=target_url.format(c_new))
+        set_pause(1)
         page = driver.page_source
         soup = BeautifulSoup(page, 'lxml')
         text = ''

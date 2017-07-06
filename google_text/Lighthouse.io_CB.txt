@@ -1,0 +1,1 @@
+Lighthouse.io is a mobile first platform that makes it simple to locate, interact with, and optimize frontline workers and assets.

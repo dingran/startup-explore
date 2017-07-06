@@ -1,0 +1,1 @@
+Innuy is a software developer in Python/Django full-stack web apps, with big data & ML solutions.

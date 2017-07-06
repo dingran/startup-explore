@@ -1,0 +1,1 @@
+Lucky Sort develops a big data visualization and navigation engine for exploring emergent patterns in live text streams.

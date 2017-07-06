@@ -1,0 +1,1 @@
+Snaptor is an app that allows photographs to be uploaded and rated for quality.

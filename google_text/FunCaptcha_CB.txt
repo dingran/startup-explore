@@ -1,0 +1,1 @@
+A secure CAPTCHA alternative, that prevents abuse, provides insights & earns revenue whilst verifying human users at a high conversion rate.

@@ -1,0 +1,1 @@
+BETEGY is an automated self-learning system which predicts outcomes of football games with high accuracy.

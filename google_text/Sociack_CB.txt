@@ -1,0 +1,1 @@
+Sociack is a social media tool that enables its users to discover conversations, measure the sentiment on social networks, and create social media reports.

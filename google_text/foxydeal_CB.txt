@@ -1,0 +1,1 @@
+foxydeal is a web and mobile application that provides coupons, rebates, and deals for online hoppers.

@@ -1,0 +1,1 @@
+Knoema is a search engine for data seamlessly connecting public and private sources and making data discoverable and accessible.

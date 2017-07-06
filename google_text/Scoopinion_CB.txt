@@ -1,0 +1,1 @@
+Scoopinion recommends articles based on users' reading habits and browser history.

@@ -1,0 +1,5 @@
+Our service called Fingerprint offers a visual approach to identifying 
+how users actually interact with a mobile application or a mobile internet site.
+TouchMap will show touches in any area of your application.
+EyeTrack will indicate for you how much time and attention your application or website users spend per each part of the content.
+PlayBack will help to understand how your customers use your application.

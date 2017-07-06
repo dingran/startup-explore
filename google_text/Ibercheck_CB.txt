@@ -1,0 +1,1 @@
+Ibercheck is a platform that allows users to get to know the reliability of anyone accessing the same bank information.

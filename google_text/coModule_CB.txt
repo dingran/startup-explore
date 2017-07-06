@@ -1,0 +1,1 @@
+coModule, a vehicular platform, monitors the battery parameters of electric vehicles and displays the information on its users' phones.

@@ -1,0 +1,1 @@
+Elastic builds software to make data usable in real time and at scale for search, logging, security, and analytics use cases.

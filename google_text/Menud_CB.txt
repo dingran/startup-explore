@@ -1,0 +1,1 @@
+Menu is a mobile application that lets customer see dishes before ordering them.

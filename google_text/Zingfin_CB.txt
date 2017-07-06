@@ -1,0 +1,1 @@
+ZingFin is a financial research and visualization portal providing financial data for stocks, MFs and ETFs around the world.

@@ -1,0 +1,1 @@
+Quextit is a Q&A platform that enables individuals to filter their audience by gender, age, ethnicity, career, location, and so on.

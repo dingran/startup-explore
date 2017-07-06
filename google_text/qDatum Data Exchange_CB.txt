@@ -1,0 +1,1 @@
+qDatum is a big data exchange service that provides B2B solutions for commercial data sharing.

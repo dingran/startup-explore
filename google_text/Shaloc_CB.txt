@@ -1,0 +1,1 @@
+Shaloc is an app that helps you share your real time GPS location with friends.

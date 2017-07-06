@@ -1,0 +1,1 @@
+Shevirah is a provider of testing tools for assessing and managing the risk of mobile devices.

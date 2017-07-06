@@ -1,0 +1,1 @@
+WakaTime is a collection of open-source text editor plugins which give programmers insights into how they code.

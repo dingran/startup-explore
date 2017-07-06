@@ -1,0 +1,1 @@
+Suibee is a user-generated content aggregator that attempts a personality analysis based on Facebook user information.

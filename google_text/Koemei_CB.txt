@@ -1,0 +1,1 @@
+Koemei is a 500Startups backed company that builds video search-as-a-service for website and apps, accessible through API and embed codes.

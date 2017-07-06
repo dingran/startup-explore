@@ -1,0 +1,1 @@
+Sparkline Data provides an Analytics Platform, SNAP, for Fortune 10 companies to consume data in their datalakes in sub seconds into tools like Tableau.

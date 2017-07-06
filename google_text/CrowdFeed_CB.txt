@@ -1,0 +1,1 @@
+CrowdFeed is a concert companion application that allows its users to receive real-time information.

@@ -79,7 +79,7 @@ def set_pause(kind=1, t=None):
             t = calc_pause(base_seconds=3., variable_seconds=3.)
         else:
             kind_str = 'very short'
-            t = calc_pause(base_seconds=0.5, variable_seconds=0.5)
+            t = calc_pause(base_seconds=0.5, variable_seconds=1.5)
 
     print('{} pause: {}s...'.format(kind_str, t))
 
@@ -126,10 +126,10 @@ from tqdm import tqdm
 from random import shuffle
 import os
 import sys
-
+import hashlib
 
 def main():
-    company_list_file = 'company_list.txt'
+    company_list_file = 'company_list_AL.txt'
     with open(company_list_file) as f:
         s = f.readlines()
     company_list = [x.strip() for x in s]
@@ -138,14 +138,20 @@ def main():
     driver = init_driver()
 
     for c in tqdm(company_list):
-        print(c)
+        try:
+            print(c)
+        except:
+            continue
+
         fname = os.path.join('google_text', '{}_CB.txt'.format(c))
-        fname_backup = os.path.join('google_text', '{}_CB.txt'.format(str(hash(c))))
+        hash_str = str(hashlib.sha1(fname.encode('utf-8')).hexdigest()[-16:])
+        fname_backup = os.path.join('google_text', '{}_CB.txt'.format(hash_str))
         if os.path.exists(fname) or os.path.exists(fname_backup):
             print('company exists, skip')
         else:
             target_url = 'https://www.google.com/search?q={}%20crunchbase'.format(c)
             load_url(driver=driver, url=target_url)
+            set_pause(2)
             page = driver.page_source
             soup = BeautifulSoup(page, 'lxml')
             text = ''
@@ -175,5 +181,5 @@ def main():
 
     quit_driver(driver)
 
-if __name__ == 'main':
+if __name__ == '__main__':
     main()

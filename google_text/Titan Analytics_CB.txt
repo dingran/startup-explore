@@ -1,0 +1,1 @@
+Data has dependencies. It can't work alone. It needs context, it needs a platform — A Netflix for analytics.

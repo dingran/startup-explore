@@ -1,0 +1,1 @@
+SalesClic is a sales pipeline visualization, analysis and forecasting application that integrates with Google Apps, Highrise and Salesforce.

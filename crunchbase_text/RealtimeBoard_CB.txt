@@ -1,0 +1,8 @@
+RealtimeBoard is the simplest and versatile visual collaboration tool for teams that work in a digital environment. RealtimeBoard is perfect for remote collaboration, brainstorming, visual planning, organizing thoughts, gathering feedback and review, creating concepts and online tutoring.
+More than 500 000 project managers, content creators, designers, developers, marketers, consultants, strategists, creative agencies and design thinkers all over the world use RealtimeBoard to develop their ideas and projects.
+Tools: 
+- Whiteboarding: infinite canvas, sticky notes, drawing, shapes, links, texts 
+- Collaboration: real-time collaborative editing, comments, voice and video chat, screen sharing 
+- Libraries: uploading images, pdfs, Office and Google Drive docs, mockups, tables and charts, business canvases, templates for service design PM and creative sessions. 
+- Sharing and export tools: email sharing, export as images and pdf files, save to Google Drive, embedding, presentation mode
+The tool is available for free at realtimeboard.com. Sign up with Facebook/Google+ account, or email.

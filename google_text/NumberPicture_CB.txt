@@ -1,0 +1,1 @@
+NumberPicture builds an online application that enables content creators to easily create graphical stories in the form of infographics.

@@ -1,0 +1,1 @@
+Knomos is an enhanced knowledge management platform for corporate legal departments leveraging data visualization and deep machine learning.

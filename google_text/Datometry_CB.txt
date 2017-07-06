@@ -1,0 +1,1 @@
+Datometry Hyper-Q is a database virtualization technology that makes databases interchangeable by translating apps & results in real-time.

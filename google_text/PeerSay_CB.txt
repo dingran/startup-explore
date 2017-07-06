@@ -1,0 +1,1 @@
+PeerSay is an online platform that provides its users with statistical analytics on topics, products, industries, and locations.

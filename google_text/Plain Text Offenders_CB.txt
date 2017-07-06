@@ -1,0 +1,1 @@
+Plain Text Offenders is an online platform that names and shames sites following insecure practices in protecting client passwords.

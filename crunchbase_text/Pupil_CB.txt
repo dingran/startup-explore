@@ -1,0 +1,1 @@
+Currently in beta. Pupil is a visual Q&A service designed to help you answer your visual questions. If you have a question about something you see, just take a picture, ask a question, and Pupil will find you the answer by tapping into its network of knowledgeable members.

@@ -1,0 +1,1 @@
+Play4Test is a video game crowdtesting platform that allows developers to get feedback for their improvement.

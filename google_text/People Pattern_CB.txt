@@ -1,0 +1,1 @@
+People Pattern provides Audience Insights to companies by using data science to turn public expression into actionable persona sets.

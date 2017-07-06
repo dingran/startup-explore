@@ -1,0 +1,1 @@
+Provides Enterprise Data Platform, which companies can utilize to build their data solutions like Data Lake, Quality, Data Management etc.

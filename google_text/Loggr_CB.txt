@@ -1,0 +1,1 @@
+Loggr provides a control panel for your web app with event logging, user monitoring, analytics and notification.

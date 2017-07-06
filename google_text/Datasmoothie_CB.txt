@@ -1,0 +1,1 @@
+Datasmoothie is a tool for data analysts and researchers in the “people data” industries, i.e. marketing, sociology, economics, psychology, political science etc.

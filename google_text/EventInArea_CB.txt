@@ -1,0 +1,1 @@
+EventInArea is a website that keeps track of events that are going on in an area and allows for users to find them.

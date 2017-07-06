@@ -1,0 +1,1 @@
+ConnectWithMe is a mobile and web platform that automatically links people attending events and connects them with each other instantly.

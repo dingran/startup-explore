@@ -1,0 +1,1 @@
+Carto is an open platform for discovering and predicting key insights for underlying location data.

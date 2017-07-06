@@ -1,0 +1,1 @@
+Shimeba allows easy deployment of indoor location white label soltions.
