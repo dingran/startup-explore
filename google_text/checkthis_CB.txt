@@ -1,0 +1,1 @@
+Checkthis is a mobile-based social application that enables its users to create colorful posts with multiple images.

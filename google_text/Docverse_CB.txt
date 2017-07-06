@@ -1,0 +1,1 @@
+DocVerse offers a plug-in for MS Word, PowerPoint, and Excel that turns these apps into full-fledged, web-enabled, collaboration tools.

@@ -1,0 +1,1 @@
+Sagoon is an online search engine that uses its own custom-built technology to provide users with search results.

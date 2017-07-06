@@ -1,0 +1,1 @@
+FastCall helps clients "talk to their customers" with Salesforce-native phone applications. With FastCall, every phone call is logged and scored inside Salesforce.

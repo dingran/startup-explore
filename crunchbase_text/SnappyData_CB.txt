@@ -1,0 +1,1 @@
+A new real-time analytics platform that combines probabilistic data structures, approximate query processing and in memory distributed data management to deliver powerful analytic querying and alerting capabilities on Apache Spark at a fraction of the cost of traditional big data analytics platforms.

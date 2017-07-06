@@ -1,0 +1,1 @@
+Skin Scan is an iOS application that uses fractal analysis for the diagnosis and survey of skin lesions.

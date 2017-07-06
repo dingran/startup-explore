@@ -130,12 +130,12 @@ import sys
 
 def main():
     company_list_file = 'company_list.txt'
-    illegal_names = 'illegal_names.txt'
     with open(company_list_file) as f:
         s = f.readlines()
     company_list = [x.strip() for x in s]
 
     shuffle(company_list)
+    driver = init_driver()
 
     for c in tqdm(company_list):
         print(c)
@@ -144,11 +144,9 @@ def main():
         if os.path.exists(fname) or os.path.exists(fname_backup):
             print('company exists, skip')
         else:
-            driver = init_driver()
             target_url = 'https://www.google.com/search?q={}%20crunchbase'.format(c)
             load_url(driver=driver, url=target_url)
             page = driver.page_source
-            quit_driver(driver)
             soup = BeautifulSoup(page, 'lxml')
             text = ''
             try:
@@ -175,6 +173,7 @@ def main():
                     print('failed to write file {}'.format(fname))
                     f.write('')
 
+    quit_driver(driver)
 
 if __name__ == 'main':
     main()

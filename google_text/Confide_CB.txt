@@ -1,0 +1,1 @@
+Confide is a messaging platform that relies on public and private encryption keys to keep messages secret while they're in transit.

@@ -1,0 +1,1 @@
+Rockerbox is a real-time user intent that developed the technology to determine user's intent based on recent browsing habits.

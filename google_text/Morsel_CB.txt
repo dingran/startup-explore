@@ -1,0 +1,1 @@
+Morsel is an iOS and web application that connects chefs, sommeliers, mixologists, and their restaurants to media and diners.

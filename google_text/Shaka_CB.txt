@@ -1,0 +1,1 @@
+Shaka offers a wind meter tool that turns a user's smartphone into a precision weather monitoring tool.

@@ -1,0 +1,1 @@
+Uninstall.io helps its users track uninstalls of SDK applications. It also allows its users to understand the uninstallation reasons and win back the lost users.

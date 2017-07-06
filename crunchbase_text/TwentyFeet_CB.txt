@@ -1,0 +1,2 @@
+TwentyFeet is a metrics aggregator for social media and web property metrics from the web. It pulls and generates metrics from twitter, facebook, Google Analytics, YouTube, friendfeed, bit.ly, RSS-Feeds and other sources. Further, it displays them in a slick interface all in one place.
+Each account is $2.49 (USD) per year. One account each with twitter and facebook is for free.

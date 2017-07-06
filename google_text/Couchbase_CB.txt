@@ -1,0 +1,1 @@
+Couchbase is a NoSQL vendor that develops Couchbase Server, an open-source, NoSQL, document-oriented database optimized for interactive applications.

@@ -1,0 +1,1 @@
+ILNumerics provides numerical tools for software developers. The company's core technology offers a new approach for implementing numerical algorithms into enterprise software projects.

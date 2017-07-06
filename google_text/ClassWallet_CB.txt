@@ -1,0 +1,1 @@
+ClassWallet is a virtual wallet created for schools to help teachers use free, consumer-grade technology.

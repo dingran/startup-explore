@@ -1,0 +1,1 @@
+Vertascale is building the leading business intelligence platform for Hadoop.

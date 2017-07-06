@@ -1,0 +1,1 @@
+Clarifai provides advanced image recognition systems for customers to detect near-duplicates and visual searches.

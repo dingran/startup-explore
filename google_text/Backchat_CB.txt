@@ -1,0 +1,1 @@
+Backchat is a messaging application that allows discreet and anonymous IM communications within a group of friends.

@@ -1,0 +1,1 @@
+Mobincube is a web-based software that allows anyone to create mobile apps without knowledge of any software programming.

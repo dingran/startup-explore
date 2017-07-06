@@ -1,0 +1,2 @@
+Datadog is a monitoring service that brings together metrics and events from servers, databases, applications, tools and services to present a unified view of the infrastructure. 
+These capabilities are provided on a SaaS-based data analytics platform that enables Dev and Ops teams to work collaboratively on the infrastructure to avoid downtime, resolve performance problems, and ensure that development and deployment cycles finish on time.

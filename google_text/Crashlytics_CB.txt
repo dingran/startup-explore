@@ -1,0 +1,1 @@
+Crashlytics offers a crash-reporting solution for Android and iOS.

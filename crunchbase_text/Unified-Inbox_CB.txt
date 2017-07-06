@@ -1,0 +1,4 @@
+Unified Inbox Pte Ltd. develops and operates an intelligent Internet of Things (IoT) messaging platform called UnificationEngine (UE).
+UE is a messaging platform that enables products and software to communicate with people and things, and delivers solutions for smart homes, cities, and enterprises. Its platform enables consumers, citizens, and workers to chat with their homes, cities, and companies, as well as control their home appliances, look up information, report incidents, and place orders. A virtual demo of the technology which won a 2017 Webby award can be found on demo.unifiedinbox.com
+The company also developed SHOUT, a UE-powered powered emergency broadcast product which won a 2017 Hana award from business partner SAP.
+The company has a partnership with International Business Machines Corporation (IBM). Since 2014 Unified Inbox Pte Ltd.'s global HQ is based in Singapore.

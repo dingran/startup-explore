@@ -1,0 +1,1 @@
+Roadify combines real-time commuting data with crowdsourced commentary about transit conditions on a single platform and makes it available.
