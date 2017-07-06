@@ -1,0 +1,1 @@
+Krossover Intelligence is web based video indexing platform that allows relationships to be built around keywords and then attached to the timeline of a video.

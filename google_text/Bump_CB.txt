@@ -1,0 +1,1 @@
+Bump Technologies builds mobile apps and APIs that allow two smartphones to identify one another and connect by being bumped together.

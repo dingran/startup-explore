@@ -1,0 +1,1 @@
+Slipstream was an application used in Twitter to hide unwanted information in users' accounts.

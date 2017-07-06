@@ -1,0 +1,1 @@
+Snackr is an RSS ticker that pulls random items from your feeds and scrolls them across your desktop.

@@ -1,0 +1,1 @@
+React Messenger is an application that enables its users to send real-time animated expressions and photos with every message.

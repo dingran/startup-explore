@@ -1,0 +1,1 @@
+CrossInstall is a mobile-only demand-side platform specializing in playable ads at scale.

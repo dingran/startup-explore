@@ -1,0 +1,1 @@
+Ghostery, a browser add-on, identifies data-trackers on any site and enables users to block any tracker, enhancing load speeds and privacy.

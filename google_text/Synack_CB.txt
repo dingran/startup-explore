@@ -1,0 +1,1 @@
+Synack is a human-powered security solution offering scalable continuous testing for enterprise applications and networks.

@@ -1,0 +1,1 @@
+Fleksy is a software keyboard designed to support blind typing on smartphones.

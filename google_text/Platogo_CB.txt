@@ -1,0 +1,1 @@
+Platogo provides tools and APIs for Flash game developers to bring their games to Facebook and other social networks easily.

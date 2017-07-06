@@ -1,0 +1,1 @@
+StartMonday is an application that enables its users to shoot short videos and send them for interview purposes.

@@ -1,0 +1,1 @@
+Beatrobo is a social music player that allows its users to collect and share music and videos from the web.

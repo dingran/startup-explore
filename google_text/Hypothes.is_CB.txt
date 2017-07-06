@@ -1,0 +1,1 @@
+Hypothes.is a distributed, open-source platform for the collaborative evaluation of information.

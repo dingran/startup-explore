@@ -1,0 +1,1 @@
+Poll Everywhere is a web, SMS, and Twitter polling service that allows users to submit votes or comments to a PowerPoint or Keynote slide.

@@ -1,0 +1,1 @@
+YepLike! is an iOS application that enables users to snap pictures, rate them, and share them with others.

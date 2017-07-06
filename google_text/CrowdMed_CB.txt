@@ -1,0 +1,1 @@
+CrowdMed provides prediction market technology using the collective intelligence of 'medical detectives' to produce diagnostic suggestions.

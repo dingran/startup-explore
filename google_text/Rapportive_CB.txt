@@ -1,0 +1,1 @@
+Rapportive is an email add-on that displays social media info about contacts inside the users' inbox.

@@ -1,0 +1,1 @@
+Lexity is a PaaS-based e-commerce cloud platform providing an own app store for online retailers to manage information with a single click.

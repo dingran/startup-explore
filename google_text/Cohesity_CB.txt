@@ -1,0 +1,1 @@
+Cohesity delivers the industry's first hyperconverged secondary storage for backup, test/dev, file services, and analytic datasets.

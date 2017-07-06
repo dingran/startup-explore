@@ -1,0 +1,1 @@
+Dash is an API Documentation Browser and Code Snippet Manager.

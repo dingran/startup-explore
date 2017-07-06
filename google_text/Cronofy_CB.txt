@@ -1,0 +1,1 @@
+Cronofy provides a unified calendar API to allow application developers to integrate their apps and services with Google, Apple, Exchange.

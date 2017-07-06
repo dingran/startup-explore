@@ -1,0 +1,1 @@
+OwnShelf is a cloud-based bookshelf that enables users to store and share e-books with their friends across multiple devices.

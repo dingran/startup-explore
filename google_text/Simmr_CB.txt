@@ -1,0 +1,1 @@
+Simmr is a service that compiles information about local cooking classes, restaurant tours and tastings.

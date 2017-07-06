@@ -1,0 +1,1 @@
+Zenput is a native mobile app that allows enterprises and individuals to collect and aggregate product data.

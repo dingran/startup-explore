@@ -1,0 +1,1 @@
+Camp Six Labs A flying robot that perches on wind turbine blades to inspect, clean and maintain them.

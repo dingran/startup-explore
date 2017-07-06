@@ -1,0 +1,1 @@
+Chippmunk is a savings search engine that aggregates and ranks online coupons in popular shopping categories.

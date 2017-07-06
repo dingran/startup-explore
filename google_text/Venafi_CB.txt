@@ -1,0 +1,1 @@
+Venafi is a cybersecurity company automating security for all keys and certificates.

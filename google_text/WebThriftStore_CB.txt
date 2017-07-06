@@ -1,0 +1,1 @@
+WebThriftStore allows any non-profit to run an online thrift store without holding inventory, and with no financial risk.

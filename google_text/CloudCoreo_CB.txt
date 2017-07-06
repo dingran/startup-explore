@@ -1,0 +1,1 @@
+CloudCoreo is building a next generation cloud management platform.

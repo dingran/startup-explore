@@ -1,0 +1,1 @@
+HistoWiz automates histology and is building an intelligent tissue platform for cancer researchers in academia and industry.

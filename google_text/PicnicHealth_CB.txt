@@ -1,0 +1,1 @@
+PicnicHealth is a subscription-based service that tracks and stores medical records creating a comprehensive health timeline for its users.

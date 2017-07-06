@@ -1,0 +1,1 @@
+InstaPaisa leverages Big Data, and machine learning algorithms to make automated lending decisions and originate loans online in India.

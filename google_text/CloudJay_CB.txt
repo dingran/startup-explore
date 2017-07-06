@@ -1,0 +1,1 @@
+JayPix is a cross-communication platform that allows access to member data in real time via any data-connected device.

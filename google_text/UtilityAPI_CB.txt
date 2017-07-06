@@ -1,0 +1,1 @@
+UtilityAPI is a service that automatically collects utility bill and usage data from utility web portals.

@@ -1,0 +1,1 @@
+Muzzley is a single intelligent entry point for connected devices, and a complete SaaS and PaaS solution for consumer IoT.

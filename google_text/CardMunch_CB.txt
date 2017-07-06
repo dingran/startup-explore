@@ -1,0 +1,1 @@
+CardMunch is a mobile business card transcription service that captures business cards and creates contacts in user's phone.

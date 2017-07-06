@@ -1,0 +1,1 @@
+Browserling is a solution that enables interactive cross-browser testing from the user's browser.

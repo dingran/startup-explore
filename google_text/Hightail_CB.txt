@@ -1,0 +1,1 @@
+Hightail is a cloud service that lets users send, receive, digitally sign, and synchronize files.

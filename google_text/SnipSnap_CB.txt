@@ -1,0 +1,1 @@
+SnipSnap is a mobile coupon app that allows users to photograph a physical coupon in order to find a mobile coupon.

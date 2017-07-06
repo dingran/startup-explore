@@ -1,0 +1,1 @@
+dopay provides a cloud-based payroll service that allows employers to calculate salaries and make payments electronically.

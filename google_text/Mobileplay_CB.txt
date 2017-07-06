@@ -1,0 +1,1 @@
+MobilePlay helps the app can reach mobile web devices of all shapes and sizes.

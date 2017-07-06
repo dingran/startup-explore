@@ -1,0 +1,1 @@
+Flic is a wireless smart button that creates a shortcut to a user's favorite actions on their phone.

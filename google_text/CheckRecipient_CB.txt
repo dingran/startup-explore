@@ -1,0 +1,1 @@
+CheckRecipient prevents highly sensitive information being sent to the wrong people over email.

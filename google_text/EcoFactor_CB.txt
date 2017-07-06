@@ -1,0 +1,1 @@
+EcoFactor is a cloud-based home energy management platform providing energy-saving services to utilities and home service providers.

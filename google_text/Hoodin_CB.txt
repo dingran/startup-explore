@@ -1,0 +1,1 @@
+Hoodin is a digital media company that uses data collected from social media and APIs to create visual representations.

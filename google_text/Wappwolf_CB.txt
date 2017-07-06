@@ -1,0 +1,1 @@
+Wappwolf offers a virtual file system that automatically converts and syncs the user files with a predefined folder in Dropbox.

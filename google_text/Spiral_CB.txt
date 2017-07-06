@@ -1,0 +1,1 @@
+Spiral App is a social network app that enables users to meet new people, share information on local events, and discover new places.

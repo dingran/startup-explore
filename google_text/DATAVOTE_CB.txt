@@ -1,0 +1,1 @@
+Datavote validates customer information for businesses by comparing the data with information they have on their database.

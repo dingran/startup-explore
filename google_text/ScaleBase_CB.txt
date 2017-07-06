@@ -1,0 +1,1 @@
+Scalebase offers a solution that dynamically scales databases to meet changing business demands.

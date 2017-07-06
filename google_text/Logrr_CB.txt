@@ -1,0 +1,1 @@
+Logrr is an identity-as-a-service platform that enables employees to connect to cloud-based business applications without passwords.

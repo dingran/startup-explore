@@ -1,0 +1,1 @@
+Flockish is a location-based mobile platform allowing users to discover and interact with others around them.

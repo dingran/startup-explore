@@ -1,0 +1,1 @@
+VoltDB is an in-memory SQL database combining streaming analytics with transaction processing in a single, horizontal scale-out platform.

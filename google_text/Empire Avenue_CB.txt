@@ -1,0 +1,1 @@
+Empire Avenue is a stock market simulation social network game that allows users to buy and sell shares of people and websites.

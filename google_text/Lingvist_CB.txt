@@ -1,0 +1,1 @@
+Lingvist is language learning software based on mathematical optimization and statistical analysis.

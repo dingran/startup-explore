@@ -1,0 +1,1 @@
+Atlas is a fitness monitor that identifies your exercises, counts your reps and sets, calculates the calories burned and evaluates form.

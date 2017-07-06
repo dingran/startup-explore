@@ -1,0 +1,1 @@
+Qbaka is a cloud-based solution that offers JavaScript error monitoring and user analytics for web apps. ... Users can include the script to their web apps and get their problems and errors and tracked and analyzed. Qbaka was launched in 2012 by Daniil Gitelson and Andrey Mima.

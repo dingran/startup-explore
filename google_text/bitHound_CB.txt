@@ -1,0 +1,1 @@
+bitHound is a software analytics solution that provides information to help developers improve their software solutions.

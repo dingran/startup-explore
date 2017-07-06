@@ -1,0 +1,1 @@
+Signaturit provides an electronic signature and document management software platform to send and sign documents.

@@ -1,0 +1,1 @@
+Tamr makes data source connectivity and enrichment fast, cost-effective, scalable and accessible to the entire enterprise.

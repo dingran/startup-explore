@@ -1,0 +1,1 @@
+Zero is an email app designed to helps users deal with large quantities of emails, while keeping inboxes clean and organized.

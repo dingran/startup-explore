@@ -1,0 +1,1 @@
+Polarr is a photo editing platform both for the web and mobile devices.

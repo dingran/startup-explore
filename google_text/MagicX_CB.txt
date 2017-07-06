@@ -1,0 +1,1 @@
+MagicX is an evolved version of MagicTiger - which was a human powered chat application for transactions.

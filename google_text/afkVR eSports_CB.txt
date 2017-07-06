@@ -1,0 +1,1 @@
+Blitz Esports develops a mobile application for eSports fans. Its application allows users to follow their favorite teams and players.

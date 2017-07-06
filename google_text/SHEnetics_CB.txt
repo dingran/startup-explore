@@ -1,0 +1,1 @@
+SHEnetics (SHE.ai) is a Conversational AI platform for developers to build cloud and on-premise secure enterprise voice solutions.

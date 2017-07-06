@@ -1,0 +1,1 @@
+Guardtime is the first and only platform for ensuring real-time integrity for data and systems at scale.

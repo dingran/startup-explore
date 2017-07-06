@@ -1,0 +1,1 @@
+LookWider is an internet-based mobile application that allows customers to provide feedback through product photos.

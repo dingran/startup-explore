@@ -1,0 +1,1 @@
+Lab Sensor Solutions provides a full-stack real-time 'mobile sensor as a service' solution for the $8B Healthcare Cold Chain Logistics (HCCL) industry.

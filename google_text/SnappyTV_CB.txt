@@ -1,0 +1,1 @@
+SnappyTV is a cloud-based live video platform providing social TV solutions for media companies and live stream providers.

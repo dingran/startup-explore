@@ -1,0 +1,1 @@
+Housecare is the simplest possible booking platform for fast house cleaners (ninjas). House Ninja aims to make home services as fast as pizza delivery.

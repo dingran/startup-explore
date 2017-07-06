@@ -1,0 +1,1 @@
+nvite is an attendee-focused, online event ticketing and registration platform that helps easily organize and manage events.

@@ -1,0 +1,1 @@
+Pageflakes is an Ajax-based start-page and personal web portal allowing users to create their own customized homepage for the web.

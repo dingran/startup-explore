@@ -1,0 +1,1 @@
+SchoolAdmissions is a platform that helps parents choose the right school and manage the admission process for their kids.

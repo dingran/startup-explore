@@ -1,0 +1,1 @@
+Mellow is a sous-vide machine that takes orders through your smartphone and keeps food cold until it's the exact time to start cooking.

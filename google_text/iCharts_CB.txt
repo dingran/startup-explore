@@ -1,0 +1,1 @@
+iCharts is the 2016 NetSuite SuiteApp of the Year. We provide best-in-class Real-Time Visual Analytics and Reporting for NetSuite and Google Cloud Platform.

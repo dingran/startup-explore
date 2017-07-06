@@ -1,0 +1,1 @@
+Mixpanel is an analytics platform for the mobile and web, supporting businesses to study consumer behavior.

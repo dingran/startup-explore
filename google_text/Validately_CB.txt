@@ -1,0 +1,1 @@
+Validately is a user feedback platform to test demand and usability on a clickable prototype or live feature.

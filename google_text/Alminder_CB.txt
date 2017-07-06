@@ -1,0 +1,1 @@
+Alminder is focused on developing Mynd Calendar, an intelligent mobile calendar app for iPhones and other iOS devices.

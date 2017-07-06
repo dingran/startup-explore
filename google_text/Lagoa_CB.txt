@@ -1,0 +1,1 @@
+Lagoa is a cloud platform enabling 3D visualization of content for the engineering, architecture, media and entertainment sectors.

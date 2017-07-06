@@ -1,0 +1,1 @@
+Xockets builds hardware and software acceleration into appliances for Big Data processing.

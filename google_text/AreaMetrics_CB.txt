@@ -1,0 +1,1 @@
+AreaMetrics personalizes the world around you by leveraging sensors and data.

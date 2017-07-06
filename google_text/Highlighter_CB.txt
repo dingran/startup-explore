@@ -1,0 +1,1 @@
+Highlighter is an education publishing platform for publishing documents, with engagement features such as highlighting and commenting.

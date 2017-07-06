@@ -1,0 +1,1 @@
+InboxQ was a browser extension that delivered a persistent stream of questions from Twitter directly to the user.

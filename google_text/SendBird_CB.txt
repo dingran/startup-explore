@@ -1,0 +1,1 @@
+SendBird is messaging-as-a-service. It provides the chat API and the backend for apps enabling real-time communication among apps' own users.

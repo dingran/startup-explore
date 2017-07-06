@@ -1,0 +1,1 @@
+LawPal is part deal room, part project manager. It is a cloud-based workspace for planning, executing and tracking legal work.

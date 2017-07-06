@@ -1,0 +1,1 @@
+WhoAPI is an API service for mass requests of domain information like domain registration availability and structured whois data in JSON.

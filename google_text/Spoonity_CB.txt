@@ -1,0 +1,1 @@
+Spoonity is a loyalty platform that allows restaurants to implement and manage a customer rewards and payment system.

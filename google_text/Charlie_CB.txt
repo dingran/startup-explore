@@ -1,0 +1,1 @@
+Charlie App, a software application that connects to users' calendar and prepping them on the people and companies they are meeting with.

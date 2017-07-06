@@ -1,0 +1,1 @@
+Guidebook is a web interface enabling organizations to create mobile guides for their customers.

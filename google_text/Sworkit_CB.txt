@@ -1,0 +1,1 @@
+Sworkit is a fitness app that offers users with both randomized and customized circuit trainings.

@@ -1,0 +1,1 @@
+Qordoba is a SaaS solution that provides localization for humans and machines.

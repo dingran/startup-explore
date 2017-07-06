@@ -1,0 +1,1 @@
+BizRate is a comparison shopping site enabling shoppers to find the right product by referring ratings and reviews.

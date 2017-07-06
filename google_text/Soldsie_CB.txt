@@ -1,0 +1,1 @@
+Soldsie is a social commerce platform that allows customers to purchase products through comments on Facebook, Instagram, and Pinterest.

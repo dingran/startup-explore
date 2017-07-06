@@ -1,0 +1,1 @@
+Makeena is a location-enabled web and mobile application that automates loyalty tracking, rewards, and redemption for healthy products.

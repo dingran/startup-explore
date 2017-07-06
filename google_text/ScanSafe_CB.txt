@@ -1,0 +1,1 @@
+ScanSafe is a web filtering and scanning cloud service that enables users to create, enforce and monitor web usage policies.

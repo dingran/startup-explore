@@ -1,0 +1,1 @@
+Cloudastructure provides cloud based infrastructure for building automation - providing VSaaS, ACaaS, and Custom IoT integration solutions.

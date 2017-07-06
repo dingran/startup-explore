@@ -1,0 +1,1 @@
+Edyn is a smart gardening system that monitors and tracks environmental conditions.

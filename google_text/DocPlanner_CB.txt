@@ -1,0 +1,1 @@
+DocPlanner is an online healthcare platform enabling patients to find local physicians online and book appointments.

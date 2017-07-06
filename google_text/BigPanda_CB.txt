@@ -1,0 +1,1 @@
+BigPanda is a data science platform for centralizing and correlating all of IT alerts.

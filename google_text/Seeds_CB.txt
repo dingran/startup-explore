@@ -1,0 +1,1 @@
+Seeds is a platform to easily make surveys to gather required data.

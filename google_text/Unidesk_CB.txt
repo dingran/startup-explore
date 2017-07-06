@@ -1,0 +1,1 @@
+Unidesk “containerizes” Windows apps so IT departments only have to manage them once across session hosts & virtual desktops in any cloud.

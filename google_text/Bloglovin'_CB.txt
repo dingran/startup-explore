@@ -1,0 +1,1 @@
+Bloglovin' is a blog aggregator that allows for multiple blog viewing from one place.

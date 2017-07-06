@@ -1,0 +1,1 @@
+Gibbon provides users with a web-based platform to create shareable playlists of data and media saved from the internet.

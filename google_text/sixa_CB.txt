@@ -1,0 +1,1 @@
+Sixa is a full computer that operates right from the cloud via a client app. It supports various devices and is capable of running the most demanding applications.

@@ -1,0 +1,1 @@
+healthfinch is an automation platform that uses EMR data to provide its users with electronic health record applications.

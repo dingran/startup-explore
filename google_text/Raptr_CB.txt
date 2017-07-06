@@ -1,0 +1,1 @@
+Raptr is a social platform that automatically updates a person's gaming status in real-time.

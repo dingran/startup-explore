@@ -1,0 +1,1 @@
+Stageit is a web based platform created for artists to deliver and monetize interactive virtual concerts.

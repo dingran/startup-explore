@@ -1,0 +1,1 @@
+db4objects sponsors the development and commercially licensing of db4o, an open-source object database.

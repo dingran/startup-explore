@@ -1,0 +1,1 @@
+Thumb is a tool for giving and receiving opinions in real-time.

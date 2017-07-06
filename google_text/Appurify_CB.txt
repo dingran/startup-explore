@@ -1,0 +1,1 @@
+Appurify enables mobile test automation on real devices for mobile teams to build better apps.

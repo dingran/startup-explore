@@ -1,0 +1,1 @@
+Smack is a mobile app developer that creates Fam, a group video calling app for iMessage.

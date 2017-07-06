@@ -1,0 +1,1 @@
+Safe Shepherd is a privacy web service to remove records that violate its users' privacy on internet and remove access 'Data Brokers'.

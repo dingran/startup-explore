@@ -1,0 +1,1 @@
+TriviaPad is an iPad-optimized, real-time, multiplayer trivia game.

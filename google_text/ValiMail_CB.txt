@@ -1,0 +1,1 @@
+ValiMail authenticates legitimate email and blocks phishing attacks.

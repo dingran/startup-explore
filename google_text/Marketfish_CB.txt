@@ -1,0 +1,1 @@
+Marketfish, a data management platform, allows marketers to build and execute lead generation campaigns using third party marketing lists.

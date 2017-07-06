@@ -1,0 +1,1 @@
+Valant provides a web-based electronic medical record (EMR) system to psychiatrists and other behavioral health professionals.

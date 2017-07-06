@@ -1,0 +1,1 @@
+BuildingLayer is a crowdsourcing platform that helps users create indoor maps of buildings.

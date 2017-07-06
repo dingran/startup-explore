@@ -1,0 +1,1 @@
+Aviary is a photo-editing platform for iOS, Android, Windows and HTML5.

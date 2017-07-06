@@ -1,0 +1,1 @@
+Gravy provides intent & affinity consumer intelligence + advertising audiences based on verified event attendances and geolocation patterns.

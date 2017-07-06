@@ -1,0 +1,1 @@
+BrightBytes is a SaaS-based data analytics platform that measures and links the use of technology to learning outcomes.

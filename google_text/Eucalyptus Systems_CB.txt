@@ -1,0 +1,1 @@
+Eucalyptus Systems offers open source software that enable organizations to build AWS-compatible private and hybrid clouds.

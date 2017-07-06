@@ -1,0 +1,1 @@
+ActionBar is an intelligent search box that carries out the tasks the user struggle to find in a web app.

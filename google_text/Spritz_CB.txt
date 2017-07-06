@@ -1,0 +1,1 @@
+Now, with compact text streaming from Spritz, content can be streamed one word at a time, without forcing your eyes to spend time moving around the page.

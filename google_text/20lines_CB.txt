@@ -1,0 +1,1 @@
+20lines is a web and mobile application for users to write, read, and share short stories.

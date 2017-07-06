@@ -1,0 +1,1 @@
+Sentry is a real-time crash reporting tool for web, mobile, and games.

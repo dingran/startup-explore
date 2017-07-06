@@ -1,0 +1,1 @@
+Floored develops software that turns 3D spatial data into clean interactive virtual worlds that can be explored through the web.

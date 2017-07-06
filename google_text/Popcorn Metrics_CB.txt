@@ -1,0 +1,1 @@
+Popcorn Metrics is a visual integration solution to setup events and track customer actions on websites, without writing custom code.

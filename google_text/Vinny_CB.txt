@@ -1,0 +1,1 @@
+Vinny is an app that provides users with information about used cars by scanning a vehicle's bar code.

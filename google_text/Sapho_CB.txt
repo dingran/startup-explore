@@ -1,0 +1,1 @@
+Sapho allows organizations to build secure micro apps, based on existing business systems, that connect people with actionable insights.

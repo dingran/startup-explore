@@ -1,0 +1,1 @@
+Mesosphere is a novel cloud operating system that treats your datacenter like one big computer.

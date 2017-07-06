@@ -1,0 +1,1 @@
+Sentrian is using biosensors and machine learning to make spotting.

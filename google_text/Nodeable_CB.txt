@@ -1,0 +1,1 @@
+Nodeable provides real-time data stream processing for big data applications by aggregating, normalizing and analyzing data for Hadoop.

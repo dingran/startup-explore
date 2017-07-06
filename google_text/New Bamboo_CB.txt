@@ -1,0 +1,1 @@
+Fresh, flexible, and fast-growing development for the modern web, using Ruby, Rails, and HTML5.

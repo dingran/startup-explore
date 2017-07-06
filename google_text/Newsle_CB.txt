@@ -1,0 +1,1 @@
+Newsle is a web application that allows users to follow real news about their Facebook friends, LinkedIn contacts, and public figures.

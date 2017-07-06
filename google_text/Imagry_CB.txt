@@ -1,0 +1,1 @@
+Imagry is developing image classification technology that is inspired by cognitive process of human brain.

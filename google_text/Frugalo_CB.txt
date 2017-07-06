@@ -1,0 +1,1 @@
+Frugalo is a daily deals aggregation platform that allows to manage all deals in one place.

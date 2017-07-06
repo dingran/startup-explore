@@ -1,0 +1,1 @@
+Argyle Data offers revenue threat analytics applications that are built from the ground up to run natively on Hadoop.

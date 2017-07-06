@@ -1,0 +1,1 @@
+DivvyCloud is a cloud management platform (CMP) that specializes in managing multi/hybrid cloud footprints and event-driven infrastructure.

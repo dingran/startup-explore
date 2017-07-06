@@ -1,0 +1,1 @@
+Slidejoy is an Android app that rewards users to have trending news and promotions appear on their lock screens.

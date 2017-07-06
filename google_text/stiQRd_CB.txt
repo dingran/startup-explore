@@ -1,0 +1,1 @@
+StiQRd is a mobile platform that eliminates the use of paper punch cards by providing virtual punches or stiqrs via smartphones.

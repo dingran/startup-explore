@@ -1,0 +1,1 @@
+MyJibe is a web application that helps individuals manage and plan their personal finances.

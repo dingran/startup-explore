@@ -1,0 +1,1 @@
+Delyver is an e-commerce site that enables its users to order various products from local retailers.

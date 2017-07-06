@@ -1,0 +1,1 @@
+Collecting and tracking price for your favorite products.

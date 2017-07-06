@@ -1,0 +1,1 @@
+Gigantt is a collaborative project planning web application that uses a ZUI approach to manage complex work plans.

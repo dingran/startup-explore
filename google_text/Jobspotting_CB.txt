@@ -1,0 +1,1 @@
+Jobspotting is a recommendations engine that suggests relevant jobs to users based on their skills and experience.

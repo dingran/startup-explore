@@ -1,0 +1,1 @@
+Adzerk provides a suite of APIs for building your own ad server in weeks, not years.

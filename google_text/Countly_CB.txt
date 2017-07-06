@@ -1,0 +1,1 @@
+Countly is a real-time analytics platform that provides information on application usage and end-user behavior.

@@ -1,0 +1,1 @@
+Hoist enables developers to use code to connect together the web apps they - and their organisations - use.

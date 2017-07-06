@@ -1,0 +1,1 @@
+Kikin, a touch-based contextual search engine, allows users to select and search for a phrase's related content via a browser extension.

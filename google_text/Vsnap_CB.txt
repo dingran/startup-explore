@@ -1,0 +1,1 @@
+Vsnap provides real-time notifications and analytics when your vsnap is viewed, as well as easy dashboards and leaderboards to help drive team adoption.

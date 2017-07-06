@@ -1,0 +1,1 @@
+Fluttr is a social networking service that enables users to receive updates and personalized recommendations about events.

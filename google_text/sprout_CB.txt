@@ -1,0 +1,1 @@
+Sprout provides a platform integrated with mobile ad networks and publishers, enabling professionals to create media HTML5 ads.

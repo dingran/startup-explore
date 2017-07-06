@@ -1,0 +1,1 @@
+TenMarks creates a web-based learning environment that simplifies assignments, automates grading, and offers videos and interactive lessons.

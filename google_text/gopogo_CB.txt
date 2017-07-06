@@ -1,0 +1,1 @@
+Gopogo is a geo-location platform for recording, sharing and discovering connected experiences.

@@ -1,0 +1,1 @@
+Fflick is a movie website that provides reviews, news, and information based on data collected from social media.

@@ -1,0 +1,1 @@
+Marginize is a browser plugin that augments every page on the web with a sidebar and enables users to see others' comments.

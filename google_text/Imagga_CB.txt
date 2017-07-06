@@ -1,0 +1,1 @@
+Imagga is an Image Recognition PaaS providing Image Tagging APIs for developers & businesses to build scalable, image intensive cloud apps.

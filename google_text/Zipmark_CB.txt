@@ -1,0 +1,1 @@
+Zipmark is a mobile payments transaction platform enabling businesses to send and receive digital paychecks securely.

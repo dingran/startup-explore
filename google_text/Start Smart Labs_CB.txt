@@ -1,0 +1,1 @@
+Start Smart Labs is a Big Data Incubator for startups that are developing data intensive applications on Hadoop and Spark.

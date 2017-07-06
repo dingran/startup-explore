@@ -1,0 +1,1 @@
+MessageParty is a mobile blogging service for creating and consuming content from mobile browsers, iPhone apps, and the web.

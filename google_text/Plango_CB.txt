@@ -1,0 +1,1 @@
+Plango is a tool that provides users with an event calendaring facility in social media.

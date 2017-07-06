@@ -1,0 +1,1 @@
+Vuze is a BitTorrent client used to find, download, share, play, view, and read content on digital devices.

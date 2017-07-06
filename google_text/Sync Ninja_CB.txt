@@ -1,0 +1,1 @@
+Sync Ninja is the global serverless platform that allows you to turn your code into services and run them anywhere.

@@ -1,0 +1,1 @@
+Line-Up is a mobile application providing users with a personalized 'What's on' guide, which they can build from its database of events.

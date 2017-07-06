@@ -1,0 +1,1 @@
+Cupoint is a daily deals aggregator and recommendation engine for users to find deals based on their interests.

@@ -1,0 +1,1 @@
+Skip is a store checkout technology that enables customers to make purchases in shops without waiting in checkout que.

@@ -1,0 +1,1 @@
+Metricly aggregates data from financial systems, web analytics, and other sources to provide tools that create custom graphs and dashboards.

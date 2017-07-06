@@ -1,0 +1,1 @@
+Meetingpulse is an application service platform (SaaS) designed to assist with the planning, execution and follow up meeting activities.

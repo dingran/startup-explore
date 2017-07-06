@@ -1,0 +1,1 @@
+Serviceful is a digital home concierge used to manage homes.

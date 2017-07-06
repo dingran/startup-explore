@@ -1,0 +1,1 @@
+Sano is building a small, wearable sensor that can capture and transmit blood chemistry data continuously to virtually any device.

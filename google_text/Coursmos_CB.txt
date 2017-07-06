@@ -1,0 +1,1 @@
+Coursmos is a web and mobile micro-learning platform for learning and teaching micro-courses.

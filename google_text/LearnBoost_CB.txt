@@ -1,0 +1,1 @@
+LearnBoost is web-based software providing grade book, lesson plan, attendance, and calendar tools for teachers.

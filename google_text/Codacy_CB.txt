@@ -1,0 +1,1 @@
+Codacy is an automated code review tool that helps developers save time in code reviews and manage technical debt.

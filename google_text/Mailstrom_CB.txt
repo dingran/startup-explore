@@ -1,0 +1,1 @@
+Mailstrom is a simple email tool that enables its users to clean their inboxes and keep them clean.

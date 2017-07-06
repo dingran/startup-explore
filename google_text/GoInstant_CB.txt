@@ -1,0 +1,1 @@
+GoInstant offers a collaboration API that allows developers to build real-time, multiuser apps.

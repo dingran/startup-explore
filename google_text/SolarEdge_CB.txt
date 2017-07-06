@@ -1,0 +1,1 @@
+SolarEdge provides solar power optimization, harvesting and photovoltaic monitoring systems that aim to increase energy output through MPPT.

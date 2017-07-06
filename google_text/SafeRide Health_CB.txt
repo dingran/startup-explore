@@ -1,0 +1,1 @@
+SafeRide is a platform that allows care providers to book non-emergency medical transport (NEMT) for their patients.

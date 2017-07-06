@@ -1,0 +1,1 @@
+A hotel booking platform that incentivizes customers to book directly with the hotel by offering perks like free in-flight WiFi.

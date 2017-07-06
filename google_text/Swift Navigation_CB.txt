@@ -1,0 +1,1 @@
+Swift Navigation offers hardware and software that makes GPS positioning technology available for autonomous vehicle and device guidance.

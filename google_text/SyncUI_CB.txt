@@ -1,0 +1,1 @@
+SyncUI is service for parallel site testing at once across multiple browsers and devices. Manage one browser live and preview results in others. SaaS solution.

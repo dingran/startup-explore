@@ -1,0 +1,1 @@
+Khush develops music applications such as LaDiDa, a reverse karaoke iPhone app that analyzes the user's voice and composes music to match.

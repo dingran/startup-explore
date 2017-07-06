@@ -1,0 +1,1 @@
+ShieldSquare helps online portals to protect against web scraping by bots run by competitors and un-authorized 3rd parties.

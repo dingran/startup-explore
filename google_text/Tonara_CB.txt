@@ -1,0 +1,1 @@
+Tonara, an interactive sheet music app, keeps score when a song is performed and turns the page automatically when the notes are played.

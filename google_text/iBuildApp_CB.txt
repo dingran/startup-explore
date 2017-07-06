@@ -1,0 +1,1 @@
+iBuildApp is an automated mobile app platform that includes design templates and widgets marketplace.

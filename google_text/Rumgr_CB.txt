@@ -1,0 +1,1 @@
+Rumgr is a location-based marketplace for selling and buying goods.

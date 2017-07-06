@@ -1,0 +1,1 @@
+HaveMyShift is a web-based platform that allows employees to offer and trade shifts at work.

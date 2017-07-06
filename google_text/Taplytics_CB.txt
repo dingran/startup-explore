@@ -1,0 +1,1 @@
+Taplytics is a mobile A/B testing platform for native mobile apps.

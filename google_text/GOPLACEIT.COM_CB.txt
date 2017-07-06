@@ -1,0 +1,1 @@
+GoPlaceIt is a real estate platform that enables individuals to search and receive real-time alerts about properties and residential units.

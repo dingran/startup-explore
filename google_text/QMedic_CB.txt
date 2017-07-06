@@ -1,0 +1,1 @@
+QMedic is a 24/7 proactive medical alert service that intelligently routes and escalates alerts to optimize care management for high-risk patients living at home.

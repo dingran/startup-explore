@@ -1,0 +1,1 @@
+ClickPass offers OpenID, a browser installation that allows users to sign on to multiple web sites with a single credential.

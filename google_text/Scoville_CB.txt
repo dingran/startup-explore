@@ -1,0 +1,1 @@
+Scoville is a location-based recommendation engine that helps users discover at least one new place in their town each week.

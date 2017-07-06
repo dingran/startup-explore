@@ -1,0 +1,1 @@
+UnifyID is an identity platform that offers seamless security through implicit authentication.

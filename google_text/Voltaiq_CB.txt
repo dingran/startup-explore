@@ -1,0 +1,1 @@
+Voltaiq develops a software solution that is able to predict the performance of batteries and battery-powered systems.

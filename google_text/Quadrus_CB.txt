@@ -1,0 +1,1 @@
+Quadrus integrates with payment networks (VISA, DISCOVER etc.) and all payments flow through as in regular card usage.

@@ -1,0 +1,1 @@
+Rubrik offers live data access for recovery and application development by fusing enterprise data management with web-scale IT.

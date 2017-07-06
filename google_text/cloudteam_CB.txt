@@ -1,0 +1,1 @@
+CloudTeam is an IaaS-based startup that adapts cloud concepts for the software development market.

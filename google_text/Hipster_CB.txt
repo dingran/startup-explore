@@ -1,0 +1,1 @@
+Hipster is an application enabling users to send photographic postcards to others via iPhone and Android devices.

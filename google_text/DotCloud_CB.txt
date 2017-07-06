@@ -1,0 +1,1 @@
+DotCloud is a second generation PaaS platform that is the commercial entity behind Docker, an open source app portability project.

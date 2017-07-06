@@ -1,0 +1,1 @@
+Indico provides productivity tools and APIs that turn raw text and image data into human insight.

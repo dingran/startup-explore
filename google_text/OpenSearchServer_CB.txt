@@ -1,0 +1,1 @@
+OpenSearchServer provides comprehensive open source enterprise solutions that are written in Java.

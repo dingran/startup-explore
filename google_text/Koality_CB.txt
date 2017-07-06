@@ -1,0 +1,1 @@
+Koality is a software testing platform that allows users to test their code in a production-like environment before deployment.

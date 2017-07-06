@@ -1,0 +1,1 @@
+Skedadel uses photo data taken from social networks to rate and rank places in the world.

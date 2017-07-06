@@ -1,0 +1,1 @@
+Mashery is a TIBCO company providing API management services that enable companies to leverage web services as a distribution channel.

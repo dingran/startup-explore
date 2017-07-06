@@ -1,0 +1,1 @@
+Embedly helps publishers and consumers manage embed codes from more than hundred websites and APIs.

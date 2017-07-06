@@ -1,0 +1,1 @@
+RIVS is web software facilitating voice and video interviews, job application management, and efficient hiring.

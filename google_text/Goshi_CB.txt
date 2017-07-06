@@ -1,0 +1,1 @@
+Goshi is a location-based mobile application that enables users to discover, buy, and sell items in their neighborhood.

@@ -1,0 +1,1 @@
+Makoo is a web application that allows its users to materialize their emotions in a unique jewel using their voice.

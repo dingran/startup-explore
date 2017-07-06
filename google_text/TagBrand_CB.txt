@@ -1,0 +1,1 @@
+TagBrand is a web service and mobile app that provides tools for users to tag brands on their photos, even from social networks.

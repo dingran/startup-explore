@@ -1,0 +1,1 @@
+SimpleRegistry is an online registry service that enables users to build their registries with items, activities, and experiences.

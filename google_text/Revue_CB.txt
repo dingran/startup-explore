@@ -1,0 +1,1 @@
+Revue is a tool that provides users with an easy way to share their curated content with people via email.

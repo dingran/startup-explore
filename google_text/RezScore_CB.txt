@@ -1,0 +1,1 @@
+RezScore grades your resume (A+ to F) in an instant, thanks to Bayesian models and a dash of NLP.

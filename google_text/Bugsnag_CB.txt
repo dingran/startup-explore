@@ -1,0 +1,1 @@
+Bugsnag provides an automated crash detection platform for web and mobile applications.

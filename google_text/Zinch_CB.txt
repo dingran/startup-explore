@@ -1,0 +1,1 @@
+Zinch is a website connecting colleges and students by allowing students to create their profiles that can be browsed by colleges.

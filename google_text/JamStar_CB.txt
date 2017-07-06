@@ -1,0 +1,1 @@
+JamStar is a guitar teaching application that gives users real-time feedback.

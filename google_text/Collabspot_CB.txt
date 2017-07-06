@@ -1,0 +1,1 @@
+Collabspot is a sales email platform that integrates CRM with Gmail.

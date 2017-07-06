@@ -1,0 +1,1 @@
+Addapp is a mobile application that translates its users' health apps and activity tracker data into actionable recommendations.

@@ -1,0 +1,1 @@
+Datical creates database schema automation software for the $22B IT Systems Management market.

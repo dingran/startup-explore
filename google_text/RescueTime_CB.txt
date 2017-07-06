@@ -1,0 +1,1 @@
+RescueTime is a web-based time management tool that tracks the activities and duration of a users' computer usage.

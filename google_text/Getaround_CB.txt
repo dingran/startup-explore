@@ -1,0 +1,1 @@
+Getaround is a mobile application and a peer-to-peer car sharing marketplace that enables car owners to rent out their cars.

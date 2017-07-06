@@ -1,0 +1,1 @@
+Sentenai is a cloud-based platform for automating data engineering for machine learning and predictive applications, primarily in IoT.

@@ -1,0 +1,1 @@
+SeamlessWeb is an online food ordering system that links people with local restaurants, caterers and onsite dining providers.

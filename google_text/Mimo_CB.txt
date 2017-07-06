@@ -1,0 +1,1 @@
+Mimo is an application that teaches computer sciences through a fun and unique exercises.

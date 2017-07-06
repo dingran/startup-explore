@@ -1,0 +1,1 @@
+numberFire is a sports analytics platform that enables its users to predict and analyze sports performances.

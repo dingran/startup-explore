@@ -1,0 +1,1 @@
+Britely is a contextual browser plugin that allows users to save and organize their preferred web content.

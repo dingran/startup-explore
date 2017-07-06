@@ -1,0 +1,1 @@
+Forkly provides a website and mobile applications to discover and share food recommendations.

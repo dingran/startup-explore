@@ -1,0 +1,1 @@
+ShareLaTeX makes sure that you're always up to date with your collaborators and what they are doing.

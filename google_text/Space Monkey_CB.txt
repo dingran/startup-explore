@@ -1,0 +1,1 @@
+Space Monkey provides a subscription-based data storage solution enabling users to store data from any device.

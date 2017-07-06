@@ -1,0 +1,1 @@
+CloudVolumes redefines application and data management and eliminates per VM management, installation and migration.

@@ -1,0 +1,1 @@
+Connect your smart contracts to external data feeds, internal systems and the existing banking infrastructure.

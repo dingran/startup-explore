@@ -1,0 +1,1 @@
+Divvyshot is a photo-sharing platform that enables users to share full resolution photos with friends.

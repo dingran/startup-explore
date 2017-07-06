@@ -1,0 +1,1 @@
+Webedia is a web platform that provides users with celebrity news.

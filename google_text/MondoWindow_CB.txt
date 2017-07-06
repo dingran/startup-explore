@@ -1,0 +1,1 @@
+MondoWindow knows where your plane is and tells you what you're looking at out the window.

@@ -1,0 +1,1 @@
+What it is Ingenia is a text analytics API + web app that tags your content automatically.

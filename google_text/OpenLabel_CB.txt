@@ -1,0 +1,1 @@
+OpenLabel converts product barcodes into 'digital labels' which the public can see and comment on to help users in their buying decision.

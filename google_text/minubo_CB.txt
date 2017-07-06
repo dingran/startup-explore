@@ -1,0 +1,1 @@
+minubo is an e-commerce IaaS that provides solutions for analytic requirements of retailers.

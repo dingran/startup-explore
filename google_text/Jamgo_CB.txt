@@ -1,0 +1,1 @@
+Jango is an online music streaming service enabling users to create and share custom radio stations, choose artists and play music.

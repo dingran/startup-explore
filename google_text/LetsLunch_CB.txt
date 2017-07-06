@@ -1,0 +1,1 @@
+LetsLunch is a social networking platform that arranges meetings between users and related business professionals over lunch.

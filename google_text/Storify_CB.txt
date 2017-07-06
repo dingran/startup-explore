@@ -1,0 +1,1 @@
+Storify is a social network service allowing users to create stories and timelines using social media platforms.

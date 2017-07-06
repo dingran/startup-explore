@@ -1,0 +1,1 @@
+Ninite is a service that enables users to automatically install applications for their operating systems.

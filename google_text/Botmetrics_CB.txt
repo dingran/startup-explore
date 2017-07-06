@@ -1,0 +1,1 @@
+Bot Metrics is an open source, enterprise grade, business analytics, and engagement platform built for chat and voice bots.

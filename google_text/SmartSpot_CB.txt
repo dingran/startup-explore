@@ -1,0 +1,1 @@
+SmartSpot is Smart Mirror for gyms. Provides real time form correction, and takes videos and pictures of your workout.

@@ -1,0 +1,1 @@
+When I Work is an employee scheduling and communication app using the web, mobile apps, text messaging, social media, and email.

@@ -1,0 +1,1 @@
+VibeDeck is a web service that allows users to sell their digital music directly to fans and other users.

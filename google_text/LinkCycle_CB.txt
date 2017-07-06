@@ -1,0 +1,1 @@
+LinkCycle, a TechStars & MIT start-up, uses data science to help large manufacturing companies dramatically reduce production costs.

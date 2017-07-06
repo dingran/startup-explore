@@ -1,0 +1,1 @@
+StoreHub is a cloud-based iPad POS with Inventory Management and Reporting accessed via a mobile responsive backend.

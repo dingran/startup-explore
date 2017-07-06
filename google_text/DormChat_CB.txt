@@ -1,0 +1,1 @@
+DormChat facilitates a community-based platform that enables university students to create profiles and connect with each other.

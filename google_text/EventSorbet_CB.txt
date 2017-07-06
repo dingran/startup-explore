@@ -1,0 +1,1 @@
+EventSorbet is an end-to-end SaaS solution for restaurants to generate incremental and substantial sales.

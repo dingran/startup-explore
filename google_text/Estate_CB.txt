@@ -1,0 +1,1 @@
+Estate is a mobile web application that takes on household budgeting and automates it.

@@ -1,0 +1,1 @@
+MeeGenius is a reading app that digitalizes children's stories and adds features such as word highlighting and audio playback.

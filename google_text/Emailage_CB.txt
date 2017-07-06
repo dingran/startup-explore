@@ -1,0 +1,1 @@
+Emailage provides transactional risk assessment by assessing and scoring email data for organizations around the world.

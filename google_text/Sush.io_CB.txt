@@ -1,0 +1,1 @@
+Sush.io is a cloud-based financial dashboard that helps users track online expenditure, revenue and bank operations.

@@ -1,0 +1,1 @@
+AnchorFree provides Hotspot Shield, an app that secures internet communication and user identity while providing access to internet content.

@@ -1,0 +1,1 @@
+BitYota is a data Warehouse-as-a-Service for big data analytics that is accessible to anyone.

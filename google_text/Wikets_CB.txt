@@ -1,0 +1,1 @@
+Wikets is a social commerce app that allows users to rate products and share recommendations with others.

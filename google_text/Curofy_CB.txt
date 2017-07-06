@@ -1,0 +1,1 @@
+Curofy is a medical networking app that enables communication between doctors.

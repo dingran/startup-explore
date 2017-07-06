@@ -1,0 +1,1 @@
+Songza is a music streaming and recommendation service offering curated playlists based on the time of day or a user's mood or activity.

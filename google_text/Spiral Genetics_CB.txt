@@ -1,0 +1,1 @@
+A novel aligner/variant caller, Anchored Assembly, can detect large structural variations using short read NGS data.

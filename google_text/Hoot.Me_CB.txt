@@ -1,0 +1,1 @@
+Hoot.Me is an educational Q&A platform designed to integrate with Facebook and LMS providers.

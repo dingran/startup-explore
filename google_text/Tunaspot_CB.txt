@@ -1,0 +1,1 @@
+Tunaspot is a location-based music platform filtering suitable music for a desired location or activity.

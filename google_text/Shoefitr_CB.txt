@@ -1,0 +1,1 @@
+Shoefitr provides a software solution that enables online footwear retailers to recommend shoe sizes for customers.

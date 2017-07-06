@@ -1,0 +1,1 @@
+Thington builds a new way to interact with a world of connected things .

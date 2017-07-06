@@ -1,0 +1,1 @@
+SNTMNT is an online sentiment analysis and prediction tools suite for Twitter.

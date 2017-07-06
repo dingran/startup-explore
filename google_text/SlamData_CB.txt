@@ -1,0 +1,1 @@
+SlamData created the SlamData open source project for native BI / Analytics across modern data, including NoSQL, Hadoop, and Cloud API's.

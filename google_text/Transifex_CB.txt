@@ -1,0 +1,1 @@
+Transifex is a Localization Automation Platform that powers the process of launching digital products into multiple languages.

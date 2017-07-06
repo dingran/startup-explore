@@ -1,0 +1,1 @@
+Wavefront is a hosted platform for ingesting, storing, visualizing and alerting on time series data.

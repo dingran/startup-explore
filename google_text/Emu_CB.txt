@@ -1,0 +1,1 @@
+Emu Messanger is an app for Android with a built-in assistant offering information and suggestions based on the users' personal interests.

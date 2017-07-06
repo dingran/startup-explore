@@ -1,0 +1,1 @@
+Stylfie is an instant photo-poll application for the iPhone.

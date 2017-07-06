@@ -1,0 +1,1 @@
+Grafight is a browser-based game that allows users to upload hand-drawn characters online and compete with friends.
